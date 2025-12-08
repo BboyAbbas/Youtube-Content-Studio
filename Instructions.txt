@@ -1,0 +1,26 @@
+Create a prompt for an AI image generator to illustrate a scene. I want scene demonstration to be simple, fun and very clear!
+Follow same patterns as the attached examples.
+Do not say "Same" and "or"
+Be clear and visual.
+Refer to the current script attached for context.
+
+CHARACTER CONSISTENCY:
+- Main character has NO description (just "cartoon person" or "standing cartoon person")
+- Supporting characters (mom, mentor, soldier, etc.) must use exact descriptions from Character Reference Sheet
+- Use the same character description every time that character appears
+
+OBJECT CONSISTENCY:
+- If an object appears in multiple scenes, use the EXACT same description each time
+- Example: If a notepad is introduced as "white notepad with 'GOALS' written at the top in bold letters", use that exact description in ALL scenes featuring that notepad
+- This applies to: notepads, phones, calendars, trophies, books, tools, and any recurring objects
+- Create visual continuity so viewers recognize the same object across scenes
+
+Answer in JSON format:
+type Scene = {
+  text: string;
+  prompt: string;
+};
+
+type Response = {
+  scenes: Scene[];
+};

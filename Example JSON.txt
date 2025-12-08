@@ -1,0 +1,76 @@
+{
+  "scenes": [
+    {
+      "text": "Navy SEALs stay awake for 5 days during Hell Week.",
+      "prompt": "Standing cartoon Navy SEAL with intense, exhausted but determined expression. Dark circles under their eyes. A calendar showing 5 days crossed off floats beside them. Despite looking tired, they stand strong with clenched fists and a warrior stance. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "200 miles of running.",
+      "prompt": "Standing cartoon Navy SEAL mid-run with motion lines behind them. Sweat drops flying off their face. A long winding path stretches far into the distance. Their legs show running stride with intense effort. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "20 hours of training daily.",
+      "prompt": "Standing cartoon Navy SEAL doing push-ups with sweat pouring down. A large clock in the background shows nearly a full rotation. Their muscles are visibly strained, face showing exhaustion but pushing through. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They don't collapse.",
+      "prompt": "Standing cartoon Navy SEAL standing tall and strong with arms crossed. Their posture is rock solid like a statue. Cracks appear on the ground around them but they remain unmoved. Confident, unbreakable expression on their face. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's their secret.",
+      "prompt": "Standing cartoon Navy SEAL with a mysterious, knowing smile. One finger pressed to their lips in a 'shh' gesture. A glowing keyhole floats beside them suggesting hidden knowledge. Their eyes look directly at the viewer. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They nap.",
+      "prompt": "Standing cartoon Navy SEAL peacefully sleeping while standing up. Their head tilted to one side, eyes closed with a content expression. Small 'Z' letters float above their head. Body completely relaxed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Constantly.",
+      "prompt": "Multiple faded versions of a cartoon Navy SEAL napping in different positions scattered across the scene. Each figure is sleeping in a different pose. The repetition emphasizes frequency. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "10 to 20 minutes whenever possible.",
+      "prompt": "Standing cartoon Navy SEAL napping against a wall. A stopwatch floating nearby displays '15' in the center. The person looks peaceful with closed eyes and relaxed shoulders. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One SEAL napped during a boat carry.",
+      "prompt": "Wide shot of several cartoon Navy SEALs carrying a large boat above their heads. One person among them has closed eyes and a sleeping expression while still holding the boat. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Leaned against the hull.",
+      "prompt": "Close-up of cartoon Navy SEAL leaning their back and head against the curved surface of a boat hull. Their body weight rests comfortably against the solid surface. Eyes closed, face relaxed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Closed his eyes.",
+      "prompt": "Extreme close-up on cartoon Navy SEAL face with eyes peacefully shut. Relaxed eyebrows, calm expression. Small 'Z' letter floating nearby. The focus is entirely on the closed eyelids and serene facial features. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "12 minutes later?",
+      "prompt": "A stopwatch showing 12 minutes with a question mark floating beside it. The timer is the central focus. Motion lines suggest time has passed quickly. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Back to full capacity.",
+      "prompt": "Standing cartoon Navy SEAL with wide alert eyes bursting with energy. Lightning bolts radiating from their body. Arms flexed in a powerful pose. A battery icon showing 100% full floats beside them. Their expression shows complete refreshment. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your 20 minute power nap beats your terrible 2 extra hours of tossing and turning.",
+      "prompt": "Split scene. Left side: cartoon person peacefully napping in a chair with '20 min' label, looking refreshed with a slight smile. Right side: cartoon person tangled in messy sheets, frustrated expression, pillow over head, alarm clock showing hours passed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The military literally wrote manuals about this.",
+      "prompt": "Close-up of hands holding open an official-looking military book. The cover displays 'POWER NAP MANUAL' in bold letters with a star emblem. Pages are visible with text and small diagrams. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Stop oversleeping.",
+      "prompt": "Standing cartoon person making a big 'X' with their arms. Behind them is a bed piled high with excessive pillows and blankets. Their expression is stern and decisive, rejecting the bed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Start power napping.",
+      "prompt": "Standing cartoon person giving a thumbs up with a confident smile. Beside them is a simple chair with a small pillow. A compact timer showing '20' glows positively. Their posture shows enthusiasm and approval. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Subscribe for more.",
+      "prompt": "Standing cartoon person pointing directly at the viewer with an encouraging wide smile. A large notification bell icon with a plus sign floats beside them. Their other hand gives a thumbs up. Simple cartoon style with clean lines."
+    }
+  ]
+}

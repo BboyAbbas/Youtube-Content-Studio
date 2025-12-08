@@ -1,0 +1,192 @@
+{
+  "scenes": [
+    {
+      "text": "You're going to set goals.",
+      "prompt": "Standing cartoon person enthusiastically writing on a white notepad with 'GOALS' written at the top in bold letters. Their face shows excitement and determination. A pencil is gripped firmly in their hand. Stars and sparkles float around the notepad suggesting optimism. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're going to fail.",
+      "prompt": "Standing cartoon person looking shocked as the white notepad with 'GOALS' written at the top in bold letters crumbles and falls apart in their hands. Pieces of paper scatter around them. Their expression shows disappointment and surprise. A large 'X' mark hovers above. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not because the goals are wrong.",
+      "prompt": "The white notepad with 'GOALS' written at the top in bold letters floating with a checkmark next to it, indicating the goals themselves are fine. A finger points at the notepad approvingly. The notepad glows positively. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every year, same routine.",
+      "prompt": "A circular arrow forming a never-ending loop. Inside the loop are repeated calendar pages with red date circles showing years passing: 2022, 2023, 2024, 2025. The cycle continues endlessly. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write goals December 31st.",
+      "prompt": "Close-up of hands writing on a white notepad with 'GOALS' written at the top in bold letters. A calendar page with red date circle showing December 31st floats nearby. The pen moves enthusiastically across the paper. Fireworks visible through a window in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Feel motivated January 1st.",
+      "prompt": "Standing cartoon person flexing both arms with a huge confident smile. A calendar page with red date circle showing January 1st floats beside them. Energy lines and sparkles radiate from their body. Their eyes are wide with excitement. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Forget everything January 15th.",
+      "prompt": "Standing cartoon person with a blank, confused expression. A calendar page with red date circle showing January 15th floats nearby. The white notepad with 'GOALS' written at the top in bold letters lies crumpled on the floor, forgotten. Question marks float above their head. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Wonder why nothing changed by March.",
+      "prompt": "Standing cartoon person looking in a mirror with a disappointed, puzzled expression. A calendar page with red date circle showing March is visible. They scratch their head in confusion. Their reflection looks exactly the same as before. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "And you'll do it again—unless you understand why your brain sabotages you every single year.",
+      "prompt": "Standing cartoon person pointing accusingly at their own brain - a cartoon brain with small arms and legs, expressive face on the frontal lobe, showing a mischievous guilty expression. The brain has shifty eyes and is hiding something behind its back. The person looks determined to catch it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's that you're fighting your own programming.",
+      "prompt": "Standing cartoon person in a boxing stance, throwing punches at a cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing tiny boxing gloves. The brain fights back with a determined expression. Both look exhausted from the internal battle. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is designed to keep you comfortable, not successful.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sitting in a luxurious armchair wrapped in a cozy blanket, sipping hot cocoa with a satisfied smile. A golden trophy labeled 'SUCCESS' sits far away, ignored. The brain looks content staying comfortable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "And every January, you declare war on comfort without any weapons.",
+      "prompt": "Standing cartoon person charging into battle against a giant fortress labeled 'COMFORT ZONE' with completely empty hands. A calendar page with red date circle showing January floats in the corner. They have a determined but unprepared expression. The fortress looks massive and impenetrable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Today I'm giving you the weapons.",
+      "prompt": "Close-up of hands presenting an open black case containing five glowing tools, each numbered 1 through 5. The items glow with power and importance. The presentation is dramatic and reverent. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is loud.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, holding a megaphone and shouting loudly. Sound waves and noise symbols blast outward in all directions. The volume is overwhelming and intense. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Too loud.",
+      "prompt": "Standing cartoon person covering their ears with both hands, wincing in pain. A cartoon brain with small arms and legs, expressive face on the frontal lobe, floats beside them using multiple megaphones simultaneously. The noise is unbearable and excessive. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Instagram tells you what to want.",
+      "prompt": "A floating Instagram logo - pink and purple gradient square with white camera icon - with a speech bubble pointing at a standing cartoon person. The speech bubble contains luxury items, perfect bodies, and material desires. The person looks hypnotized and receptive. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "YouTube tells you who to be.",
+      "prompt": "A floating YouTube logo - red rounded rectangle with white play triangle - with a speech bubble pointing at a standing cartoon person. The speech bubble shows different personas and identities. The person looks confused about their own identity. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your mom tells you to get a real job.",
+      "prompt": "Mom figure wearing casual blouse, apron, hair in a bun, hands on hips, concerned motherly expression, mouth open mid-lecture. A speech bubble shows a briefcase and office building. Standing cartoon person listens with a tired expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "TikTok shows you 47 different morning routines from people who wake up at 4 AM.",
+      "prompt": "A floating TikTok logo - black square with white musical note - surrounded by multiple small video thumbnails showing different morning routine scenes. Each shows someone waking at 4 AM. The thumbnails multiply and overwhelm the frame. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Noise. All of it.",
+      "prompt": "Standing cartoon person in the center being bombarded by the Instagram logo - pink and purple gradient square with white camera icon, YouTube logo - red rounded rectangle with white play triangle, and TikTok logo - black square with white musical note, plus speech bubbles and information from all directions. Everything is chaotic and overwhelming. The person looks dizzy and overloaded. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No phone.",
+      "prompt": "A black smartphone with glowing screen showing app icons, with a large red X crossed through it. The phone is being rejected or pushed away. A prohibition circle surrounds the device. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No distractions.",
+      "prompt": "Multiple distraction items - a black smartphone with glowing screen, a TV screen, a laptop, notification bells - all crossed out with red X marks. Everything is being removed from the scene. The space becomes empty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That discomfort is your brain panicking because it's not being fed dopamine.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sweating profusely and looking panicked and desperate. Empty feeding bowls labeled 'DOPAMINE' surround it. The brain reaches out desperately for stimulation. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write down what comes up.",
+      "prompt": "Close-up of hands writing on a white notepad with 'GOALS' written at the top in bold letters. Thought bubbles float down from above and land on the paper as written words. The pen moves steadily capturing each thought. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not what sounds impressive.",
+      "prompt": "A fancy decorated notepad with pretentious goals like 'CEO' and 'Billionaire' crossed out with red X marks. The impressive-sounding items are being rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not what would make a good Instagram caption.",
+      "prompt": "A notepad showing typical Instagram-worthy phrases with hashtags, all crossed out with red X marks. The performative goals are being dismissed. The Instagram logo - pink and purple gradient square with white camera icon - is rejected in the corner. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's why: Your brain has limited willpower.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, standing next to a vertical battery meter with green, yellow, and red sections showing limited charge at about 30%. The brain looks tired with finite energy. The meter shows 'WILLPOWER' as the label. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every goal you add splits that willpower further.",
+      "prompt": "A vertical battery meter with green, yellow, and red sections labeled 'WILLPOWER' being divided into smaller and smaller segments. Each division shows the power decreasing. Arrows point to multiple goals, each taking a slice. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Five goals? You're operating at 20% power on each.",
+      "prompt": "Five goal icons each with tiny vertical battery meters with green, yellow, and red sections showing only 20% charge in the red zone. The power is spread thin and weak. Each goal barely has any energy allocated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One goal? 100% power.",
+      "prompt": "A single goal icon with a massive vertical battery meter with green, yellow, and red sections fully charged at 100% in the green zone. Lightning bolts and energy radiate from it. The concentrated power is overwhelming and strong. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write it down.",
+      "prompt": "Close-up of a hand writing a single clear goal on a white notepad with 'GOALS' written at the top in bold letters. The pen moves with purpose. The paper has only one line, one focus. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"Make more money\" is useless.",
+      "prompt": "A white notepad showing 'Make more money' written in vague, wobbly text with a big red X through it. The phrase dissolves into meaningless squiggles. A trash can sits nearby. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain can't act on vague.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, looking confused at a blurry undefined cloud of text. Question marks surround it. The brain throws up its hands unable to process the vagueness. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"Make $100,000 by December 31st\" is specific.",
+      "prompt": "A white notepad showing 'Make $100,000 by December 31st' written in bold, clear text with a green checkmark. The numbers are sharp and defined. The goal glows with clarity. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain can reverse-engineer that.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing engineer goggles, working backward from $100,000 with arrows and calculations flowing from the goal back to actionable steps. The brain looks confident and capable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The thing you're most afraid to commit to fully? That's probably the one that matters most.",
+      "prompt": "Standing cartoon person nervously looking at one glowing goal written on a white notepad with 'GOALS' written at the top in bold letters that they're avoiding. The goal pulses with importance. Their body leans away but their eyes are drawn to it. Fear and recognition mix in their expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain will manufacture a thousand excuses.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, operating a factory assembly line, producing excuse papers that pile up endlessly. The factory works overtime creating reasons not to act. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You'll start Monday.",
+      "prompt": "A calendar page with red date circle showing Monday circled with a hopeful arrow pointing to it. The classic postponement. The promise is empty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is a liar with a PhD in rationalization.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing a graduation cap and holding a PhD diploma labeled 'RATIONALIZATION'. The brain has a sly, manipulative smile with shifty eyes suggesting deception. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain mirrors what it's surrounded by.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, acting like a mirror and reflecting whatever environment surrounds it. The brain absorbs and copies its surroundings automatically. Reflection lines show the mirroring effect. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It can't help it.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, shrugging helplessly with an 'I can't control it' expression. The mirroring happens automatically. The brain has no choice. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Find mentors.",
+      "prompt": "Standing cartoon person looking up at a mentor figure wearing smart casual blazer, salt-and-pepper hair, kind wise eyes, one hand extended in guidance. The mentor stands on a higher level reaching down to help. A helping hand extends downward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then they'll scroll to the next video.",
+      "prompt": "A thumb scrolling past on a black smartphone with glowing screen, moving from this content to the next. Infinite scroll in action. Attention moves on. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then they'll forget everything.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, with information literally falling out of it and evaporating. The knowledge disappears. Nothing is retained. The brain looks empty and hollow. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then December 2025 arrives and they wonder why nothing changed.",
+      "prompt": "Standing cartoon person looking at a calendar page with red date circle showing December 2025, scratching their head in confusion. They look exactly the same as before. Nothing is different. Puzzled expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "These five steps are completely useless if you quit by January 15th.",
+      "prompt": "The open black case containing five glowing tools numbered 1 through 5 crumbling and falling apart. A calendar page with red date circle showing January 15th floats nearby. The framework collapses if abandoned. The quit date destroys everything. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They set goals.",
+      "prompt": "Standing cartoon person writing on a white notepad with 'GOALS' written at the top in bold letters with initial enthusiasm. The beginning of the cycle. Hopeful start. Simple cartoon style with clean lines."
+    }
+  ]
+}

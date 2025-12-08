@@ -1,0 +1,692 @@
+{
+  "scenes": [
+    {
+      "text": "It's almost New Year's Eve.",
+      "prompt": "Standing cartoon person looking at a large calendar on a wall. The calendar shows December with the 31st date circled and highlighted. Confetti and party decorations float in the background. The person has an anticipating expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're going to set goals.",
+      "prompt": "Standing cartoon person enthusiastically writing on a white notepad with 'GOALS' written at the top in bold letters. Their face shows excitement and determination. A pencil is gripped firmly in their hand. Stars and sparkles float around the notepad suggesting optimism. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're going to fail.",
+      "prompt": "Standing cartoon person looking shocked as the white notepad with 'GOALS' written at the top in bold letters crumbles and falls apart in their hands. Pieces of paper scatter around them. Their expression shows disappointment and surprise. A large red 'X' mark hovers above. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not because the goals are wrong.",
+      "prompt": "The white notepad with 'GOALS' written at the top in bold letters floating with a green checkmark next to it, indicating the goals themselves are fine. A finger points at the notepad approvingly. The notepad glows positively. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Because you're predictable.",
+      "prompt": "Standing cartoon person with a robotic, mechanical expression. Gears and cogs float around their head suggesting automatic behavior. Their posture is stiff and repetitive like a wind-up toy. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every year, same routine.",
+      "prompt": "A circular arrow forming a never-ending loop. Inside the loop are repeated calendar pages with red date circles showing years passing: 2022, 2023, 2024, 2025. The cycle continues endlessly. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write goals December 31st.",
+      "prompt": "Close-up of hands writing on a white notepad with 'GOALS' written at the top in bold letters. A calendar page with red date circle showing December 31st floats nearby. The pen moves enthusiastically across the paper. Fireworks visible through a window in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Feel motivated January 1st.",
+      "prompt": "Standing cartoon person flexing both arms with a huge confident smile. A calendar page with red date circle showing January 1st floats beside them. Energy lines and sparkles radiate from their body. Their eyes are wide with excitement. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Forget everything January 15th.",
+      "prompt": "Standing cartoon person with a blank, confused expression. A calendar page with red date circle showing January 15th floats nearby. The white notepad with 'GOALS' written at the top in bold letters lies crumpled on the floor, forgotten. Question marks float above their head. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Wonder why nothing changed by March.",
+      "prompt": "Standing cartoon person looking in a mirror with a disappointed, puzzled expression. A calendar page with red date circle showing March is visible. They scratch their head in confusion. Their reflection looks exactly the same as before. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You've done this before.",
+      "prompt": "Standing cartoon person surrounded by multiple faded ghost versions of themselves, all writing goals that eventually crumble. The repetition shows the cycle has happened many times. The person looks slightly guilty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Multiple times.",
+      "prompt": "A large number counter showing '5+' with tally marks scratched beside it. Each tally represents another failed attempt. The marks look worn and repeated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "And you'll do it again—unless you understand why your brain sabotages you every single year.",
+      "prompt": "Standing cartoon person pointing accusingly at a cartoon brain with small arms and legs, expressive face on the frontal lobe, showing a mischievous guilty expression. The brain has shifty eyes and is hiding something behind its back. The person looks determined to catch it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "See, there's a reason New Year's resolutions have a 92% failure rate.",
+      "prompt": "A large pie chart showing 92% in dark/red and only 8% in bright green. The 92% section is labeled 'FAIL' and dominates the visual. The tiny 8% success slice looks insignificant. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's not laziness.",
+      "prompt": "Standing cartoon person shaking their head 'no' with crossed arms. A lazy person sleeping on a couch is shown with a big X through the image, indicating this is not the problem. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's not lack of willpower.",
+      "prompt": "A muscular flexing arm with a big X crossed over it, showing willpower is not the issue. The arm looks strong but is being dismissed as the cause. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's that you're fighting your own programming.",
+      "prompt": "Standing cartoon person in a boxing stance, throwing punches at a cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing tiny boxing gloves. The brain fights back with a determined expression. Both look exhausted from the internal battle. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is designed to keep you comfortable, not successful.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sitting in a luxurious armchair wrapped in a cozy blanket, sipping hot cocoa with a satisfied smile. A golden trophy labeled 'SUCCESS' sits far away, ignored. The brain looks content staying comfortable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "And every January, you declare war on comfort without any weapons.",
+      "prompt": "Standing cartoon person charging into battle against a giant fortress labeled 'COMFORT ZONE' with completely empty hands. They have a determined but unprepared expression. The fortress looks massive and impenetrable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Today I'm giving you the weapons.",
+      "prompt": "Close-up of hands presenting an open black case containing five glowing tools, each numbered 1 through 5. The items glow with power and importance. The presentation is dramatic and reverent. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Five steps.",
+      "prompt": "Five ascending stairs or platforms, each numbered 1 through 5, leading upward toward a glowing goal at the top. The path is clear and simple. Each step is solid and visible. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Simple ones.",
+      "prompt": "The five numbered steps now appear small, compact, and approachable. A measuring tape beside them shows they're not intimidating. The design is clean and minimal. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But don't mistake simple for easy.",
+      "prompt": "Standing cartoon person confidently approaching what looks like a small simple step, but a cutaway reveals it's actually a massive heavy weight underneath. The surface is deceiving. Warning signs flash around it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "These will require you to do things that feel wrong.",
+      "prompt": "Standing cartoon person with an uncomfortable, cringing expression doing an action while their body resists. Their face shows discomfort. Wavy discomfort lines emanate from their body. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Things your brain will resist.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, arms crossed, stamping its foot defiantly with an angry resistant expression. The word 'NO' appears in a thought bubble above it. The brain looks stubborn and opposed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That resistance? That's how you know it's working.",
+      "prompt": "Standing cartoon person pushing against heavy resistance with effort showing on their face. A progress meter beside them shows growth. The resistance creates visible muscle-building results. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Step one. Shut up.",
+      "prompt": "Large bold text showing 'STEP 1' with a standing cartoon person making the 'shh' gesture with finger over lips. Their expression is serious and intentional. The number 1 is prominent. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not out loud.",
+      "prompt": "Standing cartoon person with mouth visibly closed but normal. A speech bubble with an X through it floats nearby, but it's being dismissed. The focus shifts away from the mouth. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "In your head.",
+      "prompt": "Close-up of cartoon person's head with a transparent view inside showing chaotic noise, voices, and mental chatter swirling around. The internal noise is visualized as messy scribbles and sound waves. Their expression shows overwhelm. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is loud.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, holding a megaphone and shouting loudly. Sound waves and noise symbols blast outward in all directions. The volume is overwhelming and intense. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Too loud.",
+      "prompt": "Standing cartoon person covering their ears with both hands, wincing in pain. A cartoon brain with small arms and legs, expressive face on the frontal lobe, floats beside them using multiple megaphones simultaneously. The noise is unbearable and excessive. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Instagram tells you what to want.",
+      "prompt": "A floating Instagram logo - pink and purple gradient square with white camera icon - with a speech bubble pointing at a standing cartoon person. The speech bubble contains luxury items, perfect bodies, and material desires. The person looks hypnotized and receptive. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "YouTube tells you who to be.",
+      "prompt": "A floating YouTube logo - red rounded rectangle with white play triangle - with a speech bubble pointing at a standing cartoon person. The speech bubble shows different personas and identities. The person looks confused about their own identity. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your mom tells you to get a real job.",
+      "prompt": "Mom figure wearing casual blouse, apron, hair in a bun, hands on hips, concerned motherly expression, mouth open mid-lecture. A speech bubble shows a briefcase and office building. Standing cartoon person listens with a tired expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "TikTok shows you 47 different morning routines from people who wake up at 4 AM.",
+      "prompt": "A floating TikTok logo - black square with white musical note - surrounded by multiple small video thumbnails showing different morning routine scenes. Each shows someone waking at 4 AM. The thumbnails multiply and overwhelm the frame. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Noise. All of it.",
+      "prompt": "Standing cartoon person in the center being bombarded by the Instagram logo - pink and purple gradient square with white camera icon, YouTube logo - red rounded rectangle with white play triangle, and TikTok logo - black square with white musical note, plus speech bubbles and information from all directions. Everything is chaotic and overwhelming. The person looks dizzy and overloaded. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "What do you actually want?",
+      "prompt": "Standing cartoon person looking at their reflection in a mirror. The reflection shows a question mark instead of a clear image. Their expression is searching and uncertain. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You don't know.",
+      "prompt": "Standing cartoon person shrugging with palms up, completely clueless expression. Multiple question marks float above and around their head. Their shoulders are raised in uncertainty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Why?",
+      "prompt": "A large question mark dominating the frame, bold and prominent. The question mark casts a shadow. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Because you never asked yourself.",
+      "prompt": "Standing cartoon person looking outward at external sources (screens, people, books) while completely ignoring a mirror beside them. The mirror is dusty and unused. They've never looked inward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You were too busy consuming other people's answers to questions you never asked.",
+      "prompt": "Standing cartoon person with mouth wide open, being force-fed information from multiple screens and sources. Books, videos, and content pour into them. They look stuffed and overwhelmed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's what you do.",
+      "prompt": "Standing cartoon person with a confident pointing gesture toward a floating instruction manual or blueprint. Their expression shows they have the solution. The manual glows with importance. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One hour.",
+      "prompt": "A large clock face showing one full hour highlighted. The number 60 or '1 HR' is prominently displayed. The time block is clearly defined. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No phone.",
+      "prompt": "A black smartphone with glowing screen showing app icons, with a large red X through it. The phone is being rejected or pushed away. A prohibition circle surrounds the device. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No music.",
+      "prompt": "Musical notes with a large X through them. Headphones are shown crossed out. All audio is being eliminated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No distractions.",
+      "prompt": "Multiple distraction items - a black smartphone with glowing screen, a TV screen, a laptop, notification bells - all crossed out with red X marks. Everything is being removed from the scene. The space becomes empty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Just you and your thoughts.",
+      "prompt": "Standing cartoon person sitting alone in an empty room. Only a thought bubble connects to their head. The space is minimal and quiet. Their expression is contemplative. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Sounds uncomfortable.",
+      "prompt": "Standing cartoon person squirming with visible discomfort. Sweat drops form on their forehead. Their body language shows unease. Wavy discomfort lines surround them. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It is.",
+      "prompt": "Standing cartoon person nodding in confirmation with a knowing, matter-of-fact expression. A checkmark appears beside them confirming the truth. Their expression says 'yes, exactly.' Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That discomfort is your brain panicking because it's not being fed dopamine.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sweating profusely and looking panicked and desperate. Empty feeding bowls labeled 'DOPAMINE' surround it. The brain reaches out desperately for stimulation. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Sit with it anyway.",
+      "prompt": "Standing cartoon person sitting calmly in a chair despite visible discomfort waves around them. Their expression shows determination. They remain still while chaos swirls. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write down what comes up.",
+      "prompt": "Close-up of hands writing on a white notepad with 'GOALS' written at the top in bold letters. Thought bubbles float down from above and land on the paper as written words. The pen moves steadily capturing each thought. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not what sounds impressive.",
+      "prompt": "A fancy, decorated notepad with pretentious goals like 'CEO' and 'Billionaire' crossed out with X marks. The impressive-sounding items are being rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not what would make a good Instagram caption.",
+      "prompt": "A notepad showing typical Instagram-worthy phrases with hashtags, all crossed out with red X marks. The performative goals are being dismissed. The Instagram logo - pink and purple gradient square with white camera icon - is rejected in the corner. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "What actually matters to you when nobody's watching.",
+      "prompt": "Standing cartoon person alone in a dark room, spotlight on just them. No audience, no cameras, no social media. They look inward with genuine, vulnerable expression. Writing honest thoughts on paper. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Step two. Pick one thing.",
+      "prompt": "Large bold text showing 'STEP 2' with a standing cartoon person holding up one finger emphatically. Their expression is firm and decisive. The number 1 is emphasized strongly. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Most people want everything.",
+      "prompt": "Standing cartoon person with arms stretched wide trying to grab multiple floating items: money bags, muscles, hearts, cars, trophies. Their arms can't reach everything. Greedy, wanting expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Abs. Money. Love. A business. A six-pack. A yacht.",
+      "prompt": "Multiple floating icons in a chaotic arrangement: defined abs, dollar signs, a heart, a briefcase, muscular torso, a yacht. Everything floats around competing for attention. The collection is overwhelming. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They chase all of it.",
+      "prompt": "Standing cartoon person running frantically in multiple directions at once, arms outstretched toward different goals. Motion blur shows them splitting their effort. Exhausted, scattered expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They get none of it.",
+      "prompt": "Standing cartoon person standing empty-handed, surrounded by all the goals floating away into the distance. Their hands are empty and reaching. Defeated, disappointed expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's why: Your brain has limited willpower.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, standing next to a vertical battery meter with green, yellow, and red sections showing limited charge at about 30%. The brain looks tired with finite energy. The meter shows 'WILLPOWER' as the label. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every goal you add splits that willpower further.",
+      "prompt": "A vertical battery meter with green, yellow, and red sections labeled 'WILLPOWER' being divided into smaller and smaller segments. Each division shows the power decreasing. Arrows point to multiple goals, each taking a slice. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Five goals? You're operating at 20% power on each.",
+      "prompt": "Five goal icons each with tiny vertical battery meters with green, yellow, and red sections showing only 20% charge in the red zone. The power is spread thin and weak. Each goal barely has any energy allocated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One goal? 100% power.",
+      "prompt": "A single goal icon with a massive vertical battery meter with green, yellow, and red sections fully charged at 100% in the green zone. Lightning bolts and energy radiate from it. The concentrated power is overwhelming and strong. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Simple math.",
+      "prompt": "A chalkboard showing simple division: 100% ÷ 5 = 20% crossed out, replaced with 100% ÷ 1 = 100% circled. The math is clear and undeniable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Pick one goal.",
+      "prompt": "Standing cartoon person confidently selecting one glowing goal from a lineup of many. Their hand firmly grasps the chosen one. The other goals fade into the background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Just one.",
+      "prompt": "A single bold number '1' in the center of the frame, large and prominent. Everything else is empty. The singularity is emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not five.",
+      "prompt": "The number '5' with a large X crossed through it. Five fingers being pushed down to just one. The rejection of multiple is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not three.",
+      "prompt": "The number '3' with a large X crossed through it. Three items being dismissed. Only one remains acceptable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One.",
+      "prompt": "Standing cartoon person holding up one finger with absolute certainty. The number '1' glows beside them. Their expression is final and non-negotiable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Write it down.",
+      "prompt": "Close-up of a hand writing a single clear goal on a white notepad with 'GOALS' written at the top in bold letters. The pen moves with purpose. The paper has only one line, one focus. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Be specific.",
+      "prompt": "A magnifying glass zooming in on a goal, making it sharper and more detailed. Blurry text becomes crystal clear under the lens. The focus is precise. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"Make more money\" is useless.",
+      "prompt": "A white notepad showing 'Make more money' written in vague, wobbly text with a big red X through it. The phrase dissolves into meaningless squiggles. A trash can sits nearby. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain can't act on vague.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, looking confused at a blurry undefined cloud of text. Question marks surround it. The brain throws up its hands unable to process the vagueness. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"Make $100,000 by December 31st\" is specific.",
+      "prompt": "A white notepad showing 'Make $100,000 by December 31st' written in bold, clear text with a green checkmark. The numbers are sharp and defined. The goal glows with clarity. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain can reverse-engineer that.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing engineer goggles, working backward from $100,000 with arrows and calculations flowing from the goal back to actionable steps. The brain looks confident and capable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "See the difference?",
+      "prompt": "Split view comparing a blurry vague goal on one side versus a sharp specific goal on the other. Arrows point to each for comparison. The contrast is obvious. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The thing you're most afraid to commit to fully? That's probably the one that matters most.",
+      "prompt": "Standing cartoon person nervously looking at one glowing goal written on a white notepad with 'GOALS' written at the top in bold letters that they're avoiding. The goal pulses with importance. Their body leans away but their eyes are drawn to it. Fear and recognition mix in their expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Step three. Do something ugly.",
+      "prompt": "Large bold text showing 'STEP 3' with a standing cartoon person looking at a messy, imperfect action with determination. The ugliness is visible but acceptable. The number 3 is prominent. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're waiting for the perfect moment.",
+      "prompt": "Standing cartoon person frozen in place, eyes fixed on a clock. They're paralyzed waiting. Time passes around them but they don't move. Their pose shows eternal hesitation. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The perfect plan.",
+      "prompt": "Standing cartoon person obsessing over an elaborate, complex flowchart or blueprint. The plan has too many steps and branches. They keep adding more details instead of starting. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The perfect feeling.",
+      "prompt": "Standing cartoon person waiting for a 'feeling meter' to reach 'PERFECT' but it fluctuates and never arrives. They watch it anxiously, waiting for the right mood. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The perfect moment doesn't exist.",
+      "prompt": "A shattered or broken 'PERFECT MOMENT' sign crumbling into pieces. The illusion is destroyed. Cracks run through the concept. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're procrastinating with extra steps.",
+      "prompt": "Standing cartoon person walking an unnecessarily complicated maze path to avoid a simple direct route to their goal. The long way is labeled 'PLANNING' while the direct path sits unused. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's what nobody tells you about action: clarity comes AFTER you start, not before.",
+      "prompt": "A path that starts foggy and unclear but becomes crystal clear the further you walk. A standing cartoon person taking steps into the fog, and the path illuminates beneath their feet. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You don't figure out what to write by planning.",
+      "prompt": "Standing cartoon person staring at a blank page surrounded by planning documents, still unable to write. The plans pile up but the page remains empty. Frustrated expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You figure it out by writing badly and then fixing it.",
+      "prompt": "Close-up of hands writing messy, crossed-out text on paper, then circling and improving parts. The page shows visible progress from ugly to better. Red editing marks show improvement. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You don't learn business by reading 47 books.",
+      "prompt": "Standing cartoon person buried under a massive pile of business books, but still confused and inactive. The books tower over them. '47' is written on the pile. Knowledge without action. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You learn by starting something terrible and making it less terrible.",
+      "prompt": "Three-stage progression: first a terrible crude product, then a less terrible improved version, then an acceptable final result. Arrows show the evolution from ugly to better. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Start now.",
+      "prompt": "Large bold text 'NOW' with an arrow pointing directly at the present moment. A clock shows the current time. The urgency is immediate. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Today.",
+      "prompt": "A calendar with TODAY circled emphatically multiple times. The date is highlighted and urgent. No other days matter. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not tomorrow.",
+      "prompt": "A calendar showing 'TOMORROW' with a large X crossed through it. The future is rejected as an excuse. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Today.",
+      "prompt": "Standing cartoon person taking their first step forward with determination. The word 'TODAY' glows beneath their feet. Action is happening now. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Is it messy?",
+      "prompt": "A messy, imperfect project or creation with question marks around it. Paint splatters, crossed out sections, rough edges visible. The messiness is honest. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Yes.",
+      "prompt": "Large bold 'YES' with a checkmark. A nod of acceptance. The affirmation is confident. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Will you look dumb?",
+      "prompt": "Standing cartoon person doing something awkwardly while imaginary observers point and laugh. Question marks float around the embarrassing moment. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Probably.",
+      "prompt": "Standing cartoon person shrugging with a 'probably' expression, accepting the possibility of looking foolish. Their expression shows they've made peace with it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Does it matter?",
+      "prompt": "A thought bubble containing embarrassment and judgment being weighed on a scale against actual progress and results. The scale tips toward progress. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No.",
+      "prompt": "Large bold 'NO' with an X. The concern is dismissed completely. The rejection is confident. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every successful person has a graveyard of embarrassing first attempts.",
+      "prompt": "Standing cartoon successful person confidently standing in front of tombstones labeled 'First Try', 'Failed Attempt #1', 'Embarrassing Start'. They smile knowing their failures led to success. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The only difference between them and everyone else? They actually made those attempts.",
+      "prompt": "Split scene: one side shows a successful person surrounded by their failed attempts, the other shows an unsuccessful person with zero attempts. The difference is action, not talent. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Step four. Show up when you don't want to.",
+      "prompt": "Large bold text showing 'STEP 4' with a standing cartoon person dragging themselves forward despite obvious reluctance. Rain or difficulty surrounds them but they move. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Big dramatic actions don't create success.",
+      "prompt": "A large explosion or dramatic superhero pose with an X through it. The dramatic gesture is being dismissed. Flashy actions are rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Small boring actions repeated forever create success.",
+      "prompt": "Standing cartoon person doing a simple, mundane task. Behind them, the task repeats infinitely into the distance like mirrors reflecting. A trophy waits at the far end. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "This is the least exciting truth you'll hear today.",
+      "prompt": "Standing cartoon person looking unimpressed at a plain, boring truth displayed on a sign. No sparkles, no excitement. The truth is dull but real. A 'meh' expression on their face. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Go to the gym.",
+      "prompt": "Standing cartoon person walking through gym doors with a gym bag. The entrance is simple and clear. First step into fitness. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not once.",
+      "prompt": "The number '1' with a large X through it. A single gym visit crossed out. One time is insufficient. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every day.",
+      "prompt": "A calendar with every single day checked off. The consistency is complete and unbroken. Every box is marked. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Even when it's raining.",
+      "prompt": "Standing cartoon person walking to the gym in heavy rain, getting soaked. Rain pours down on them. They keep moving forward despite the weather. Determined expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Even when you're tired.",
+      "prompt": "Standing cartoon person walking to the gym with exhausted posture, bags under their eyes, yawning. Despite obvious fatigue, their feet keep moving forward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Even when you \"don't feel like it.\"",
+      "prompt": "Standing cartoon person with an 'I don't want to' expression, arms crossed, pouty face, but their legs are still walking toward the gym. The body moves despite the reluctance. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Especially when you don't feel like it.",
+      "prompt": "Standing cartoon person pushing through a barrier labeled 'DON'T FEEL LIKE IT' with visible effort. Breaking through the resistance. The barrier cracks as they push. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain will manufacture a thousand excuses.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, operating a factory assembly line, producing excuse papers that pile up endlessly. The factory works overtime creating reasons not to act. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's too cold.",
+      "prompt": "Standing cartoon person shivering dramatically with snowflakes around them. A thought bubble shows this as an excuse. The cold is exaggerated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You're too busy.",
+      "prompt": "Standing cartoon person surrounded by tasks and to-do lists, looking overwhelmed. A thought bubble shows this as an excuse. The busyness is performed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You'll start Monday.",
+      "prompt": "A calendar page with red date circle showing Monday circled with a hopeful arrow pointing to it. The classic postponement. The promise is empty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "One day off won't hurt.",
+      "prompt": "Standing cartoon person taking one step away from their routine, creating a small crack that grows into a larger gap. One day becomes many. The crack spreads. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain is a liar with a PhD in rationalization.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, wearing a graduation cap and holding a PhD diploma labeled 'RATIONALIZATION'. The brain has a sly, manipulative smile with shifty eyes suggesting deception. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Consistency beats talent.",
+      "prompt": "A boxing match: a plain figure labeled 'CONSISTENCY' standing victorious over a flashier figure labeled 'TALENT' knocked down. Consistency wears the champion belt. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Consistency beats motivation.",
+      "prompt": "A boxing match: the same 'CONSISTENCY' figure standing victorious over a hyped-up figure labeled 'MOTIVATION' that has crashed and burned out. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Consistency beats everything.",
+      "prompt": "Standing 'CONSISTENCY' figure at the top of a podium, with 'TALENT', 'MOTIVATION', and 'LUCK' on lower positions looking up defeated. The champion is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The people who win aren't more motivated than you.",
+      "prompt": "Standing cartoon successful person with a normal, unremarkable motivation meter showing average levels. They're not more pumped up than anyone else. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They just showed up on the days they didn't feel like it.",
+      "prompt": "A calendar showing multiple days marked with reluctant faces but still checked off as completed. The days they didn't want to go are highlighted but done anyway. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That's literally the only difference.",
+      "prompt": "An equals sign between 'SUCCESS' and 'SHOWING UP ANYWAY'. The equation is simple and clear. Nothing else is needed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Step five. Upgrade your environment.",
+      "prompt": "Large bold text showing 'STEP 5' with a standing cartoon person looking at their surroundings with evaluation. Environmental upgrade arrows point upward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your friends determine your future.",
+      "prompt": "Standing cartoon person surrounded by five friend figures, with arrows pointing from the friends toward a crystal ball showing the person's future. The friends shape what's ahead. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Uncomfortable truth? Yes.",
+      "prompt": "A truth bomb labeled 'UNCOMFORTABLE' exploding with the word 'YES' confirming it. The discomfort is acknowledged. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Still true? Also yes.",
+      "prompt": "A checkmark next to 'STILL TRUE' with double confirmation. The truth remains regardless of comfort level. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You are the average of the five people you spend the most time with.",
+      "prompt": "Standing cartoon person in the center with five other figures around them. Mathematical average lines connect everyone to the center person. The center reflects the average of the five. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If those five people complain constantly, you'll complain constantly.",
+      "prompt": "Five cartoon figures all complaining with negative speech bubbles. The center person absorbs their negativity and starts complaining too. Complaint bubbles multiply. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If those five people are building things, you'll build things.",
+      "prompt": "Five cartoon figures all building and creating with tools and projects. The center person is inspired and starts building too. Construction happens everywhere. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your brain mirrors what it's surrounded by.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, acting like a mirror and reflecting whatever environment surrounds it. The brain absorbs and copies its surroundings automatically. Reflection lines show the mirroring effect. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It can't help it.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, shrugging helplessly with an 'I can't control it' expression. The mirroring happens automatically. The brain has no choice. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Audit your circle.",
+      "prompt": "Standing cartoon person with a clipboard, evaluating five friend figures lined up. Checkmarks and X marks appear above each person being assessed. The audit is systematic. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not to judge them.",
+      "prompt": "A gavel or judge's hammer with a large X through it. Judgment is not the purpose. The courtroom approach is rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "To understand what you're absorbing.",
+      "prompt": "Standing cartoon person examining incoming arrows and energy flowing into themselves from the people around them. They're analyzing what they're taking in. Awareness of influence. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Are the people around you growing?",
+      "prompt": "Five cartoon figures with growth arrows above some, showing who is progressing upward. Question marks highlight the evaluation. Growth is being measured. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Are they pushing toward something?",
+      "prompt": "Five cartoon figures, some pushing forward toward goals with effort, others standing still. The contrast shows different levels of ambition. Direction is being assessed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Or are they comfortable being stuck?",
+      "prompt": "Cartoon figures sitting contentedly in place, surrounded by comfort symbols like couches and snacks. They show no desire to move. Stagnation is comfortable for them. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You don't have to cut everyone off dramatically.",
+      "prompt": "Standing cartoon person NOT using giant scissors to cut ties with friends. The dramatic severing is crossed out. The scissors are put away. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But you do need to add people who are where you want to be.",
+      "prompt": "Standing cartoon person adding new, growth-oriented figures to their circle. A plus sign shows the addition. The new people glow with success and ambition. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Join communities.",
+      "prompt": "Standing cartoon person entering a group of like-minded people gathered together. A community circle welcomes them. Hands reach out in welcome. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Find mentors.",
+      "prompt": "Standing cartoon person looking up at a mentor figure wearing smart casual blazer, salt-and-pepper hair, kind wise eyes, one hand extended in guidance. The mentor stands on a higher level reaching down to help. A helping hand extends downward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Follow people who challenge you, not just entertain you.",
+      "prompt": "Split comparison: one side shows mindless entertainment with laughing emojis, the other shows challenging content with growth arrows. The person chooses the challenging side. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Your environment shapes you whether you like it or not.",
+      "prompt": "Standing cartoon person being molded like clay by hands representing their environment. They can't resist the shaping force. The environment is the sculptor. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "So shape your environment first.",
+      "prompt": "Standing cartoon person now actively molding and arranging their own environment like a sculptor. They take control of what surrounds them. Deliberate design of surroundings. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "To keep it simple:",
+      "prompt": "A notepad being simplified, crossing out complexity and leaving clean, simple bullet points. The message is being condensed. Clarity emerges. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Shut up and listen to yourself.",
+      "prompt": "Standing cartoon person with finger to lips making 'shh' gesture, with their ear turned toward their own heart or inner self. External noise is muted. Internal listening happens. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Pick one thing and commit fully.",
+      "prompt": "Standing cartoon person grabbing one goal with both hands in a firm grip. The commitment is total. Everything else fades away. Full dedication shown. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Do something ugly today.",
+      "prompt": "Standing cartoon person creating something imperfect and messy with a determined expression. The creation is ugly but exists. Action over perfection. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Show up especially when you don't want to.",
+      "prompt": "Standing cartoon person dragging themselves forward despite a reluctant expression. Their feet move even though their face resists. Showing up despite feelings. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Upgrade who you surround yourself with.",
+      "prompt": "Standing cartoon person surrounded by upgraded, growth-focused people who glow with ambition. The circle has been improved. Better influences now surround them. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Five steps.",
+      "prompt": "Five numbered steps displayed clearly: 1, 2, 3, 4, 5. Each step is solid and complete. The framework is simple. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not complicated.",
+      "prompt": "The five steps shown as simple, clean blocks. No complexity or confusion. The simplicity is emphasized. Easy to understand. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But here's my prediction:",
+      "prompt": "Standing cartoon person with a knowing expression, finger raised as if making a prophecy. A crystal ball or prediction bubble floats nearby. The forecast is coming. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Most people watching this won't do any of them.",
+      "prompt": "Multiple cartoon viewer figures sitting passively, unmoved by the information. They watch but don't act. Zero motion from the audience. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They'll feel inspired for about 10 minutes.",
+      "prompt": "A cartoon figure glowing with inspiration, but a timer shows only '10 MIN' before the glow fades. The motivation is temporary. Brief enthusiasm. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then they'll scroll to the next video.",
+      "prompt": "A thumb scrolling past on a black smartphone with glowing screen, moving from this content to the next. Infinite scroll in action. Attention moves on. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then they'll forget everything.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, with information literally falling out of it and evaporating. The knowledge disappears. Nothing is retained. The brain looks empty and hollow. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then December 2025 arrives and they wonder why nothing changed.",
+      "prompt": "Standing cartoon person looking at a calendar page with red date circle showing December 2025, scratching their head in confusion. They look exactly the same as before. Nothing is different. Puzzled expression. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Don't be that person.",
+      "prompt": "A cartoon figure labeled 'THAT PERSON' with a large X through them. The passive viewer is rejected. Don't be this. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You've been that person enough times already.",
+      "prompt": "Standing cartoon person looking back at multiple ghost versions of their past self, all being 'that person' who didn't act. The history of inaction is visible. Time for change. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But here's something I didn't tell you.",
+      "prompt": "Standing cartoon person with a mysterious expression, holding back information. A 'secret' envelope or locked box is partially revealed. More is coming. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "These five steps are completely useless if you quit by January 15th.",
+      "prompt": "The open black case containing five glowing tools numbered 1 through 5 crumbling and falling apart. A calendar page with red date circle showing January 15th floats nearby. The framework collapses if abandoned. The quit date destroys everything. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Most people do.",
+      "prompt": "Multiple cartoon figures walking away, giving up, abandoning their goals. The exodus of quitters. January 15th claims another victim. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They set goals.",
+      "prompt": "Standing cartoon person writing on a white notepad with 'GOALS' written at the top in bold letters with initial enthusiasm. The beginning of the cycle. Hopeful start. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Feel inspired.",
+      "prompt": "Standing cartoon person glowing with temporary motivation. Stars and sparkles surround them briefly. The inspiration peaks. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Then give up the second things get hard.",
+      "prompt": "Standing cartoon person encountering a small obstacle and immediately turning back. The difficulty is minor but they quit. Surrender at first resistance. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "There's a way to make quitting impossible.",
+      "prompt": "The word 'QUIT' locked behind bars or chained up. Quitting is imprisoned and unavailable. Escape from commitment is blocked. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Literally impossible.",
+      "prompt": "A giant lock on the concept of quitting. Multiple barriers prevent giving up. The impossibility is emphasized with chains and locks. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's called the ship-burning method.",
+      "prompt": "A ship on fire at the shore, preventing any retreat. The method is dramatic and committed. No going back is possible. Burning boats in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Check out this video to see how it works.",
+      "prompt": "Standing cartoon person pointing directly at the viewer with an encouraging expression. A video play button icon floats nearby. A call to action gesture. Simple cartoon style with clean lines."
+    }
+  ]
+}
