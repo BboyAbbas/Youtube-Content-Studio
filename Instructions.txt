@@ -34,6 +34,48 @@ SERIES CONSISTENCY RULE:
   - "Step 1, Step 2, Step 3" → same step introduction style
   - "They'll do X, Then they'll Y" → same prediction visual style
 
+COLOR USAGE RULES:
+- Use color ONLY when it carries semantic meaning or represents the object's natural color
+- NEVER use color for decoration or emphasis alone
+
+WHEN TO USE COLOR:
+1. Semantic/Functional Meaning:
+   - Green = good, healthy, positive, full, aligned, correct, success
+   - Red = bad, depleted, negative, warning, wrong, failure
+   - Yellow = caution, middle state, transition
+   - Example GOOD: "Battery meter with green, yellow, and red sections" → colors show charge level
+   - Example GOOD: "Green checkmark beside aligned spine" → green indicates correctness
+   - Example GOOD: "Left side glowing green (good), right side colored red (bad)" → comparison
+
+2. Natural/Inherent Colors (the object is actually that color):
+   - Example GOOD: "Mint leaf with fresh green waves" → mint is naturally green
+   - Example GOOD: "Lavender sprig with purple waves" → lavender is naturally purple
+   - Example GOOD: "Bright green grass" → grass is naturally green
+
+3. Brand Logos (simplified, recognizable shape only - NO exact brand colors):
+   - Keep logos minimal and monochrome to match the overall simple cartoon style
+   - Example GOOD: "Instagram logo icon" → just the recognizable shape
+   - Example GOOD: "YouTube logo icon" → just the recognizable shape
+   - Example BAD: "Instagram logo - pink and purple gradient square" → too colorful
+   - Example BAD: "YouTube logo - red rounded rectangle" → unnecessary color
+
+WHEN NOT TO USE COLOR:
+1. Arbitrary Decoration:
+   - Example BAD: "Golden trophy", "glowing tools" → decorative, not meaningful
+   - Example BAD: "Black smartphone with glowing screen" → unnecessary glow
+
+2. Rejection/Prohibition Symbols (the X alone conveys meaning):
+   - Example BAD: "Red X marks" → just use "X marks"
+   - Example BAD: "Large red X crossed through it" → just use "large X crossed through it"
+
+3. Calendar Dates:
+   - Example BAD: "Calendar page with red date circle" → just use "calendar page with date circle"
+   - Dates are not inherently red
+
+4. Checkmarks Without Comparison:
+   - Example BAD: "Green checkmark" in isolation → just use "checkmark"
+   - Exception: Green checkmark IS okay when directly comparing to a red X in the same scene
+
 Answer in JSON format:
 type Scene = {
   text: string;
