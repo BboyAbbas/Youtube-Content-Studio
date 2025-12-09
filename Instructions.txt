@@ -23,6 +23,17 @@ NO MEMORY RULE:
 - Example BAD: "The five steps shown as blocks"
 - Example GOOD: "Five blocks labeled '1. SHUT UP', '2. PICK ONE', '3. START UGLY', '4. SHOW UP', '5. UPGRADE'"
 
+SERIES CONSISTENCY RULE:
+- When consecutive sentences follow a similar pattern (e.g., "No phone", "No music", "No distractions"), ALL scenes in that series must use the SAME visual style/pattern
+- Pick one visual approach and apply it consistently across the entire series
+- Example: If "No phone" uses a prohibition circle with large X, then "No music" and "No distractions" must ALSO use prohibition circles with large X
+- This applies to: lists, comparisons, repetitive statements, parallel structures
+- Example patterns to keep consistent:
+  - "Not X, Not Y, Not Z" → same rejection visual style
+  - "Even when X, Even when Y" → same persistence visual style  
+  - "Step 1, Step 2, Step 3" → same step introduction style
+  - "They'll do X, Then they'll Y" → same prediction visual style
+
 Answer in JSON format:
 type Scene = {
   text: string;
