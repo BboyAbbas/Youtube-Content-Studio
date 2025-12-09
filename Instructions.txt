@@ -15,6 +15,14 @@ OBJECT CONSISTENCY:
 - This applies to: notepads, phones, calendars, trophies, books, tools, and any recurring objects
 - Create visual continuity so viewers recognize the same object across scenes
 
+NO MEMORY RULE:
+- The AI image generator has NO memory between scenes
+- NEVER reference things vaguely like "the five steps" or "the thing from before"
+- Every prompt must be FULLY SELF-CONTAINED with all necessary context
+- If referencing steps, lists, or concepts from the script, explicitly state what they are
+- Example BAD: "The five steps shown as blocks"
+- Example GOOD: "Five blocks labeled '1. SHUT UP', '2. PICK ONE', '3. START UGLY', '4. SHOW UP', '5. UPGRADE'"
+
 Answer in JSON format:
 type Scene = {
   text: string;
