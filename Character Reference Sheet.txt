@@ -70,6 +70,8 @@ Astronaut: "wearing white spacesuit with helmet under arm, NASA patch on chest, 
 
 FAMILY/SOCIAL:
 
+Hot Girl: "woman with long flowing hair, big chest with subtle cleavage visible, attractive confident expression"
+
 Mom Figure: "wearing casual blouse, apron, hair in a bun, hands on hips, concerned motherly expression"
 
 Dad Figure: "wearing polo shirt, reading glasses, slight belly, newspaper or coffee mug, tired but caring expression"
