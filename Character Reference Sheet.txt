@@ -72,6 +72,8 @@ FAMILY/SOCIAL:
 
 Hot Girl: "woman with long flowing hair, big chest with subtle cleavage visible, attractive confident expression"
 
+Cute Girl: "young woman with long straight hair falling past shoulders, sweet wide smile, friendly happy expression"
+
 Mom Figure: "wearing casual blouse, apron, hair in a bun, hands on hips, concerned motherly expression"
 
 Dad Figure: "wearing polo shirt, reading glasses, slight belly, newspaper or coffee mug, tired but caring expression"
