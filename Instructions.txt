@@ -76,6 +76,13 @@ WHEN NOT TO USE COLOR:
    - Example BAD: "Green checkmark" in isolation → just use "checkmark"
    - Exception: Green checkmark IS okay when directly comparing to a red X in the same scene
 
+FULL EXAMPLE OF CORRECT COLOR USAGE IN COMPARISON SCENE:
+"Split scene. Left side: standing cartoon person slumped over with exhausted defeated expression, a to-do list with X marks glowing red floating above them. Right side: successful person with round head, short neat hair with a few strands on top, simple dot eyes, small curved smile, wearing plain t-shirt, standing confidently beside a trophy and stack of books, a to-do list with checkmarks glowing green floating above them. Simple cartoon style with clean lines."
+→ Red and green are used semantically to show bad vs good outcomes in direct comparison
+
+"Split scene. Left side: five small battery icons each with 5 bars total and only 1 bar filled glowing red, five tiny flags labeled 'GOAL' above them. Right side: single large battery icon with 5 bars total and all 5 bars filled glowing green, one large flag labeled 'GOAL' above it. Simple cartoon style"
+→ Red and green show depleted vs full power in direct comparison
+
 Answer in JSON format:
 type Scene = {
   text: string;
