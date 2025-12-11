@@ -115,6 +115,8 @@ The Brain (personified): "cartoon brain with small arms and legs, expressive fac
 
 Success Figure: "glowing outline, standing on podium or elevated position, trophy or achievement nearby, confident posture"
 
+Successful Person: "smiling cartoon person with round head, short neat hair with a few strands on top, simple dot eyes, small curved smile, wearing plain t-shirt, standing confidently with hands on hips or beside trophy and stack of books, satisfied accomplished expression"
+
 Failure Figure: "slumped posture, grey coloring, rain cloud above head, dejected expression"
 
 Inner Critic: "small devil-like figure with horns, sitting on shoulder, whispering, mischievous mean expression"
