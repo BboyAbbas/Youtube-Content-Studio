@@ -4,6 +4,17 @@ Do not say "Same" and "or"
 Be clear and visual.
 Refer to the current script attached for context.
 
+ONE SCENE PER SENTENCE RULE:
+- Each sentence in the script gets its own separate scene
+- NEVER combine multiple sentences into one scene, even if they seem related
+- Questions and statements should be separated, even if they're on the same topic
+- Example BAD: Combining "One goal? 100% power." into one scene
+- Example GOOD: "One goal?" gets one scene, "100% power." gets a separate scene
+- Exception: You MAY combine consecutive related sentences into ONE split-scene comparison IF it creates stronger visual impact
+  - Example: "\"Make more money\" is useless. \"Make $100K by December 31st\"—now your brain can work with that." → Can become one split scene showing bad vs good
+  - Example: "Five goals means you're running at 20% power on each. One goal? 100% power." → Can become one split scene showing low vs high power
+  - Only use this exception when the sentences form a clear before/after or bad/good comparison
+
 CHARACTER CONSISTENCY:
 - Main character has NO description (just "cartoon person" or "standing cartoon person")
 - Supporting characters (mom, mentor, soldier, etc.) must use exact descriptions from Character Reference Sheet
