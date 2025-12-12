@@ -1,0 +1,100 @@
+{
+  "characterGroup": "Atul Gawande & Surgeons",
+  "characterDescriptions": {
+    "Atul Gawande": "surgeon figure in scrubs, confident posture, medical credentials",
+    "Surgeons": "surgeon figures in scrubs, professional expressions"
+  },
+  "totalScenes": 18,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 64,
+      "text": "Surgeons are killing people.",
+      "prompt": "A surgeon figure in scrubs with a shocked, guilty expression. A patient silhouette lies on a table. The scene is serious. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 65,
+      "text": "By accident.",
+      "prompt": "The word 'ACCIDENT' with emphasis. An 'oops' expression on the surgeon figure in scrubs. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 1,
+      "text": "Atul Gawande is a famous surgeon.",
+      "prompt": "A surgeon figure in scrubs standing confidently with arms crossed. A nameplate shows 'ATUL GAWANDE'. Medical credentials float beside him. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 2,
+      "text": "He was curious about something disturbing.",
+      "prompt": "The surgeon figure in scrubs with a concerned, investigative expression. One eyebrow raised. A magnifying glass in hand examining data. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 3,
+      "text": "World-class surgeons were making preventable mistakes.",
+      "prompt": "Multiple surgeon figures in scrubs shown with error symbols and warning triangles above them. Elite credentials shown alongside the mistakes. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 4,
+      "text": "Mistakes they knew better than to make.",
+      "prompt": "A surgeon figure in scrubs with a thought bubble showing they know the correct procedure, while their hands perform incorrectly. The disconnect is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 5,
+      "text": "These weren't bad doctors.",
+      "prompt": "A surgeon figure in scrubs with diplomas, awards, and excellence certificates surrounding them. The word 'BAD' is crossed out. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 6,
+      "text": "They were excellent doctors having bad moments.",
+      "prompt": "A timeline showing an excellent surgeon figure in scrubs with checkmarks and success, then one small section showing a stumble or error. One bad moment among many good ones. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 7,
+      "text": "So Gawande worked with the World Health Organization and developed a 19-step surgical checklist.",
+      "prompt": "The surgeon figure in scrubs labeled 'GAWANDE' shaking hands with a figure in front of a WHO logo. Between them, a document shows '19-STEP CHECKLIST'. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 11,
+      "text": "Confirm the patient's identity.",
+      "prompt": "A surgeon figure in scrubs checking a patient wristband against a chart. A checklist shows this as step one with a checkbox. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 13,
+      "text": "Mark the correct leg to operate on.",
+      "prompt": "A surgeon figure in scrubs using a marker to put an X on the correct leg. The other leg remains unmarked. A checklist shows this step with a checkbox. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 16,
+      "text": "Stuff every surgeon knows.",
+      "prompt": "Multiple surgeon figures in scrubs all nodding in agreement. These are basics everyone learned. Common knowledge. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 20,
+      "text": "Same surgeons.",
+      "prompt": "The same surgeon figures in scrubs shown before and after. No personnel changes. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 24,
+      "text": "When cognitive load peaks, even experts fail.",
+      "prompt": "A brain diagram showing overload with too many inputs. Even a surgeon figure in scrubs with elite credentials stumbles under the pressure. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 25,
+      "text": "The checklist catches them.",
+      "prompt": "A checklist document acting like a safety net, catching a falling surgeon figure in scrubs. The checklist saves them from errors. Simple cartoon style with clean lines."
+    }
+  ]
+}

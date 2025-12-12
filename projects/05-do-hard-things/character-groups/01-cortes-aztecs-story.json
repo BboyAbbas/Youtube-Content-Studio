@@ -1,0 +1,89 @@
+{
+  "characterGroup": "Cortés, Conquistadors & Aztecs",
+  "characterDescriptions": {
+    "Hernán Cortés": "wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a sword",
+    "Conquistador Soldiers": "wearing morion helmets, simple determined faces, holding swords and axes",
+    "Aztec Warriors": "with green quetzal feather headdresses and red-blue-yellow macaw plumes, jaguar skin cloaks, face paint, holding obsidian-edged weapons"
+  },
+  "totalScenes": 14,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 3,
+      "text": "And I figured it out from a guy who burned his own ships.",
+      "prompt": "Silhouette of Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, standing on a beach watching multiple wooden ships engulfed in flames on the water. Orange fire reflects on the waves. The figure stands with arms crossed, determined. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 4,
+      "text": "In 1519, a Spanish conquistador named Hernán Cortés landed in Mexico with 600 men to face millions of Aztecs.",
+      "prompt": "Split scene. Left side: Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a sword, standing on a Mexican beach with rows of conquistador soldiers wearing morion helmets and holding weapons behind him. Right side: an overwhelming mass of Aztec warriors with green quetzal feather headdresses and red-blue-yellow macaw plumes, jaguar skin cloaks, and face paint stretching to the horizon. The contrast in numbers is dramatic. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 5,
+      "text": "His soldiers wanted to leave.",
+      "prompt": "Conquistador soldiers wearing morion helmets, simple determined faces, holding swords and axes, pointing desperately toward wooden ships anchored offshore. Their body language shows fear and urgency to escape. Sweat drops fly off their faces. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 6,
+      "text": "So he burned every ship.",
+      "prompt": "Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a lit torch, touching it to the wooden hull of a ship. The first flames begin to spread across the wood. His expression is calm and deliberate. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 7,
+      "text": "All of them.",
+      "prompt": "Wide shot of a beach with multiple wooden ships engulfed in massive flames. Fire consumes every single vessel. The flames reflect on the water. Complete destruction. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part1-hook.json",
+      "sceneIndex": 12,
+      "text": "Because Cortés understood something about the human brain that explains why you can scroll TikTok for three hours but can't study for thirty minutes.",
+      "prompt": "Split scene. Left side: standing cartoon person happily scrolling phone with a clock showing 3 hours passed, content expression. Right side: standing cartoon person slumped over a book with a clock showing only 30 minutes, exhausted defeated expression. A conquistador silhouette observes knowingly in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part2-brain.json",
+      "sceneIndex": 1,
+      "text": "Because Cortés figured out something about the human brain that psychologists wouldn't discover for another 500 years.",
+      "prompt": "Split scene. Left side: Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, with a knowing smile pointing to his head. Right side: a modern scientist in white lab coat looking at brain scans with surprise. A timeline arrow connects them showing 500 years. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 3,
+      "text": "The ships are on fire.",
+      "prompt": "Multiple wooden ships engulfed in flames along the shoreline. Massive fire and smoke rise into the sky. The destruction is complete. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 4,
+      "text": "Cortés's men are watching their only way home turn into smoke.",
+      "prompt": "Conquistador soldiers wearing morion helmets, simple determined faces, holding swords and axes, standing on the beach staring at the burning wooden ships. Their expressions show a mix of shock and realization. Smoke rises into the sky. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 6,
+      "text": "Because Cortés understood something about the human brain.",
+      "prompt": "Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, tapping his temple with one finger, a knowing confident expression on his face. A cartoon brain with small arms and legs, expressive face on the frontal lobe, floats beside him looking surprised at being understood. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 37,
+      "text": "That's why Cortés's army fought so hard.",
+      "prompt": "Conquistador soldiers wearing morion helmets, determined faces, charging forward into battle with fierce determination. Their swords and axes are raised. Their expressions show total commitment. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 38,
+      "text": "They'd already paid.",
+      "prompt": "The burning wooden ships in the background as silhouettes of conquistador soldiers wearing morion helmets march forward. The ships represent their payment. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part3-trap.json",
+      "sceneIndex": 39,
+      "text": "In ships.",
+      "prompt": "A wooden ship icon with an equals sign leading to a price tag or payment symbol. Ships were their currency of commitment. Simple cartoon style with clean lines."
+    }
+  ]
+}

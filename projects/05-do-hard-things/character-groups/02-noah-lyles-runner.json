@@ -1,0 +1,99 @@
+{
+  "characterGroup": "Noah Lyles - Elite Runner",
+  "characterDescriptions": {
+    "Noah Lyles": "muscular runner in athletic wear, confident powerful stance, focused intense expression"
+  },
+  "totalScenes": 16,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 52,
+      "text": "Noah Lyles is there.",
+      "prompt": "A muscular runner in athletic wear standing on the running track in a confident pose. A nameplate shows 'NOAH LYLES'. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 53,
+      "text": "And he has ADHD.",
+      "prompt": "The same muscular runner in athletic wear with the letters 'ADHD' floating beside him. His expression shows focus despite the condition. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 1,
+      "text": "Noah Lyles is the world's fastest man right now.",
+      "prompt": "A muscular runner in athletic wear crossing a finish line with arms raised in victory. A gold medal icon and world record indicator float beside him. Speed lines trail behind. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 2,
+      "text": "He doesn't chase willpower.",
+      "prompt": "The muscular runner in athletic wear shaking his head 'no' at a fuel tank labeled 'WILLPOWER'. He rejects it completely. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 3,
+      "text": "He doesn't chase discipline either.",
+      "prompt": "The muscular runner in athletic wear shaking his head 'no' at a whip or strict ruler labeled 'DISCIPLINE'. He rejects this too. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 4,
+      "text": "He engineers something else entirely.",
+      "prompt": "The muscular runner in athletic wear wearing engineer goggles, working on a blueprint or system diagram. He builds rather than chases. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 5,
+      "text": "See, Lyles has ADHD.",
+      "prompt": "Close-up of the muscular runner in athletic wear with 'ADHD' letters beside his head. His expression is matter-of-fact. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 6,
+      "text": "He knows his brain can't be trusted to show up consistently.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, shown as unreliable with flickering on/off signals. The muscular runner in athletic wear looks at it with understanding, not frustration. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 7,
+      "text": "So he doesn't rely on it.",
+      "prompt": "The muscular runner in athletic wear turning away from a cartoon brain with small arms and legs, expressive face on the frontal lobe. He walks toward something else. The brain is not the solution. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 8,
+      "text": "He relies on his internal rhythm instead.",
+      "prompt": "The muscular runner in athletic wear with a metronome or heartbeat rhythm visualization around him. The rhythm is steady and consistent. He moves in sync with it. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 17,
+      "text": "When the gun goes off, he says something interesting: \"I'm not thinking. My body already knows what to do.\"",
+      "prompt": "The muscular runner in athletic wear in starting blocks as a starting gun fires. A speech bubble shows 'My body already knows'. His expression is calm and automatic. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 20,
+      "text": "He's not fighting his biology.",
+      "prompt": "The muscular runner in athletic wear and a cartoon brain with small arms and legs, expressive face on the frontal lobe, standing peacefully side by side. No conflict. A crossed-out boxing ring in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 21,
+      "text": "He's using it.",
+      "prompt": "The muscular runner in athletic wear operating a cartoon brain with small arms and legs, expressive face on the frontal lobe, like a tool or instrument. The brain works for him. They collaborate. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 23,
+      "text": "Those routines give him that edge.",
+      "prompt": "The muscular runner in athletic wear crossing the finish line just barely ahead of another runner. His routines visualized as gears powering him forward. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part5-design.json",
+      "sceneIndex": 24,
+      "text": "Why wouldn't you use the same logic?",
+      "prompt": "Standing cartoon person with a thoughtful expression, one hand on chin. The muscular runner's routine system floats beside them as an option. Simple cartoon style with clean lines."
+    }
+  ]
+}

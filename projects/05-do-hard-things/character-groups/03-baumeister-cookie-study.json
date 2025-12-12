@@ -1,0 +1,123 @@
+{
+  "characterGroup": "Roy Baumeister - Cookie Study",
+  "characterDescriptions": {
+    "Roy Baumeister": "scientist in white lab coat with glasses, thoughtful expression, holds clipboard"
+  },
+  "totalScenes": 22,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 3,
+      "text": "Roy Baumeister is there.",
+      "prompt": "A scientist in white lab coat with glasses standing in a laboratory. A nameplate reads 'ROY BAUMEISTER'. He holds a clipboard with a thoughtful expression. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 4,
+      "text": "He's a psychologist.",
+      "prompt": "The scientist in white lab coat now shown with psychology symbols around him: a brain diagram, inkblot test, couch. His credentials are established. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 5,
+      "text": "He has cookies.",
+      "prompt": "Close-up of a plate piled high with fresh-baked chocolate chip cookies. Steam rises from them indicating warmth. The cookies look delicious. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 6,
+      "text": "Fresh-baked ones.",
+      "prompt": "The same plate of chocolate chip cookies with wavy aroma lines rising from them. A small oven in the background shows they just came out. The appeal is emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 7,
+      "text": "Baumeister brought people into his lab.",
+      "prompt": "Multiple standing cartoon people walking through a laboratory door. The scientist in white lab coat welcomes them inside. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 8,
+      "text": "He put those warm, delicious cookies right in front of them.",
+      "prompt": "Standing cartoon people seated at a table with the plate of chocolate chip cookies directly in front of them. The cookies are prominently displayed and tempting. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 9,
+      "text": "Half of them were told not to eat them.",
+      "prompt": "Standing cartoon people at the table looking longingly at the plate of chocolate chip cookies. A sign or speech bubble shows 'DO NOT EAT'. Their expressions show struggle. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 10,
+      "text": "Don't touch.",
+      "prompt": "Close-up of hands hovering near the plate of chocolate chip cookies but not touching. The hands tremble with restraint. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 11,
+      "text": "Just sit there and smell them.",
+      "prompt": "Standing cartoon person sitting rigidly at the table, nostrils flaring, inhaling the aroma from the plate of chocolate chip cookies. Their face shows torture and temptation. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 12,
+      "text": "The other half?",
+      "prompt": "A different group of standing cartoon people at another table, looking relaxed. A question mark floats above them. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 13,
+      "text": "No restrictions.",
+      "prompt": "Standing cartoon people happily eating from a plate of chocolate chip cookies. Their expressions show joy and freedom. No rules apply. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 14,
+      "text": "Eat whatever you want.",
+      "prompt": "Standing cartoon person stuffing chocolate chip cookies into their mouth with both hands. Cookie crumbs fly. Pure indulgence. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 15,
+      "text": "After a while, both groups were given puzzles to solve.",
+      "prompt": "Both groups of standing cartoon people now sitting at desks with complex puzzle papers in front of them. The scene shifts to a testing environment. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 16,
+      "text": "Impossible puzzles.",
+      "prompt": "Close-up of a puzzle page showing an incredibly complex maze with no clear solution. The difficulty is overwhelming. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 17,
+      "text": "The kind designed to make you quit.",
+      "prompt": "Standing cartoon person at a desk, head in hands, surrounded by crumpled puzzle papers. The puzzles are meant to frustrate. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 18,
+      "text": "Now you're thinking: the people who resisted cookies had more willpower, so they did better on the puzzles.",
+      "prompt": "Standing cartoon person with a thought bubble showing cookie resisters winning at puzzles. The assumption is illustrated. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 19,
+      "text": "Right?",
+      "prompt": "Large bold text showing 'RIGHT?' with a question mark. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 20,
+      "text": "Wrong.",
+      "prompt": "Large bold text showing 'WRONG' with a large X beside it. The answer is definitive. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 21,
+      "text": "The cookie resisters gave up 50% faster.",
+      "prompt": "Split scene. Left side: cookie resisters at desks giving up quickly, heads down, pushing puzzles away, timer showing short time. Right side: cookie eaters still working, engaged, timer showing longer time. A '50% FASTER' label points to the left side. Simple cartoon style with clean lines."
+    }
+  ]
+}

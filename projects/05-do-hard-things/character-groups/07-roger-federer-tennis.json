@@ -1,0 +1,75 @@
+{
+  "characterGroup": "Roger Federer - Tennis Player",
+  "characterDescriptions": {
+    "Roger Federer": "tennis player figure in athletic wear with racket, athletic build, graceful confident posture"
+  },
+  "totalScenes": 11,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 24,
+      "text": "Think about Roger Federer's serve.",
+      "prompt": "A tennis player figure in athletic wear with racket, captured mid-serve. The form is beautiful and fluid. Grace in motion. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 25,
+      "text": "It seems effortless.",
+      "prompt": "The same tennis player figure in athletic wear serving with flowing motion lines. No strain visible. Pure smoothness. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 26,
+      "text": "Beautiful.",
+      "prompt": "The tennis serve shown with artistic appreciation lines and beauty indicators. The movement is aesthetic perfection. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 27,
+      "text": "Natural.",
+      "prompt": "The tennis player figure in athletic wear serving as if it is as natural as breathing. Organic flow indicators surround the motion. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 28,
+      "text": "But that's a myth.",
+      "prompt": "The word 'EFFORTLESS' shattering or being revealed as an illusion. The myth is being exposed. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 29,
+      "text": "It's not effortless at all.",
+      "prompt": "Behind the beautiful serve, hidden layers show massive effort and work. The truth is revealed beneath the surface. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 30,
+      "text": "It's thousands and thousands of reps.",
+      "prompt": "A counter showing an enormous number of repetitions. The tennis player figure in athletic wear shown as a small figure amid countless practice sessions. Volume is massive. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 31,
+      "text": "Countless years.",
+      "prompt": "A timeline stretching far into the distance showing years of practice by the tennis player figure in athletic wear. The investment of time is enormous. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 32,
+      "text": "Day after day.",
+      "prompt": "Calendar pages flipping rapidly, each showing the tennis player figure in athletic wear practicing. Every single day marked. Consistency over time. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 33,
+      "text": "Night after night.",
+      "prompt": "Moon phases cycling repeatedly as the tennis player figure in athletic wear practices under stadium lights. Even nights are dedicated to practice. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 35,
+      "text": "The pattern takes over.",
+      "prompt": "A pattern or routine symbol growing large and encompassing the tennis player figure in athletic wear. The pattern becomes dominant. It runs the show now. Simple cartoon style with clean lines."
+    }
+  ]
+}

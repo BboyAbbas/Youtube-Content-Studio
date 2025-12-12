@@ -1,0 +1,51 @@
+{
+  "title": "Character Consistency Groups - How to Do Hard Things",
+  "description": "Scenes grouped by recurring characters for maintaining visual consistency during image generation",
+  "generationTip": "Generate all scenes within each group together to ensure the character looks consistent across all their appearances",
+  "groups": [
+    {
+      "file": "01-cortes-aztecs-story.json",
+      "characters": ["Hernán Cortés", "Conquistador Soldiers", "Aztec Warriors"],
+      "totalScenes": 14,
+      "sections": ["Hook", "Brain Sabotage", "Principle 1 - Trap Yourself"]
+    },
+    {
+      "file": "02-noah-lyles-runner.json",
+      "characters": ["Noah Lyles"],
+      "totalScenes": 16,
+      "sections": ["Principle 2 - Willpower", "Principle 3 - Design Don't Discipline"]
+    },
+    {
+      "file": "03-baumeister-cookie-study.json",
+      "characters": ["Roy Baumeister", "Test Subjects"],
+      "totalScenes": 22,
+      "sections": ["Principle 2 - Willpower Is A Scam"]
+    },
+    {
+      "file": "04-gawande-surgeons.json",
+      "characters": ["Atul Gawande", "Surgeons"],
+      "totalScenes": 18,
+      "sections": ["Principle 3 - Design", "Principle 4 - Outsource Your Decisions"]
+    },
+    {
+      "file": "05-pilots.json",
+      "characters": ["Experienced Pilot"],
+      "totalScenes": 5,
+      "sections": ["Principle 4 - Outsource Your Decisions"]
+    },
+    {
+      "file": "06-tibetan-monks.json",
+      "characters": ["Tibetan Monks", "Harvard Scientists"],
+      "totalScenes": 17,
+      "sections": ["Brain Intro", "Principle 4 - Outsource", "Principle 5 - Become The System"]
+    },
+    {
+      "file": "07-roger-federer-tennis.json",
+      "characters": ["Roger Federer"],
+      "totalScenes": 11,
+      "sections": ["Principle 5 - Become The System"]
+    }
+  ],
+  "totalCharacterScenes": 103,
+  "otherScenes": "Remaining ~120 scenes feature only the main 'standing cartoon person' or generic elements"
+}

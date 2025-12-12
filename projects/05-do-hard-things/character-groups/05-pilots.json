@@ -1,0 +1,39 @@
+{
+  "characterGroup": "Experienced Pilots",
+  "characterDescriptions": {
+    "Pilot": "experienced pilot figure wearing navy uniform with gold wings pin, captain's hat, '10,000 HOURS' badge"
+  },
+  "totalScenes": 5,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 30,
+      "text": "Pilots with 10,000 hours of flying still read the same checklist every single flight.",
+      "prompt": "An experienced pilot figure with '10,000 HOURS' badge reading from a checklist in a cockpit. Despite expertise, the checklist is used every time. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 31,
+      "text": "Not because they forgot how to fly.",
+      "prompt": "The experienced pilot figure with flight knowledge clearly shown in a thought bubble. Memory is intact. The word 'FORGOT' is crossed out. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 32,
+      "text": "Because they don't trust their memory under pressure.",
+      "prompt": "The experienced pilot figure with a thought bubble showing memory becoming fuzzy under stress and alarm indicators. Pressure affects recall. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 33,
+      "text": "And they're right not to.",
+      "prompt": "A checkmark beside the pilot's decision to use checklists. The caution is validated. Correct choice. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 34,
+      "text": "You can use this too.",
+      "prompt": "Standing cartoon person receiving a checklist document from the pilot figure. The tool is transferable. Anyone can use it. Simple cartoon style with clean lines."
+    }
+  ]
+}

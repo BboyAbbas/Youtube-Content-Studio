@@ -1,0 +1,106 @@
+{
+  "characterGroup": "Tibetan Monks & Harvard Study",
+  "characterDescriptions": {
+    "Tibetan Monk": "monk figure in simple robes with shaved head and peaceful expression, calm meditative posture",
+    "Harvard Scientists": "scientists in white lab coats with 'HARVARD' badges"
+  },
+  "totalScenes": 17,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part2-brain.json",
+      "sceneIndex": 11,
+      "text": "I'm going to show you five stupidly simple systems that scientists, athletes, and monks figured out.",
+      "prompt": "Three figures standing in a row: a scientist in white lab coat with safety goggles on forehead, an athlete in athletic wear with muscular build, and a monk in simple robes with shaved head and peaceful expression. Each holds up a glowing orb. The number '5' floats above them. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part6-outsource.json",
+      "sceneIndex": 49,
+      "text": "Monks figured something out.",
+      "prompt": "A row of monk figures in simple robes with shaved heads and peaceful expressions. A lightbulb glows above them collectively. Ancient wisdom discovered. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 1,
+      "text": "Harvard researchers wanted to understand meditation.",
+      "prompt": "Scientists in white lab coats with 'HARVARD' badges examining a meditating monk figure in simple robes with shaved head and peaceful expression. Brain scanning equipment surrounds them. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 2,
+      "text": "So they scanned the brains of Tibetan monks during their practice.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression sitting in meditation pose. Brain scanning equipment creates images of brain activity. Scientists observe the data. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 3,
+      "text": "What they found was strange.",
+      "prompt": "Scientists in white lab coats looking at brain scan results with confused, surprised expressions. The data shows something unexpected. Question marks float around them. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 4,
+      "text": "The monks' brain waves synchronized.",
+      "prompt": "Multiple brain diagrams shown side by side, each with identical wave patterns. The waves match perfectly across all brains. Synchronization lines connect them. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 6,
+      "text": "Across all individuals.",
+      "prompt": "A row of monk figures in simple robes with shaved heads and peaceful expressions, each with matching brain wave indicators above their heads. Every person shows the same pattern. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 7,
+      "text": "In rhythm with each other.",
+      "prompt": "The monk figures in simple robes shown with a shared rhythmic pulse connecting them. Waves flow between them in perfect timing. Like one organism. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 8,
+      "text": "Like they were sharing one brain.",
+      "prompt": "Multiple monk figures in simple robes connected to a single large brain diagram in the center. All thoughts flow to and from the same source. Unity visualized. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 10,
+      "text": "These monks weren't trying to focus.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression with the word 'FOCUS' crossed out. No effort to concentrate. The trying is absent. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 11,
+      "text": "They weren't trying to motivate themselves.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression with the word 'MOTIVATION' crossed out. No need for motivation. The trying is absent. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 12,
+      "text": "They weren't white-knuckling their way through meditation.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression sitting calmly. Beside them, an image of clenched fists and strain is crossed out. No struggle required. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 13,
+      "text": "Years of repetition had done something to their nervous systems.",
+      "prompt": "A timeline showing years of meditation practice by monk figures in simple robes. At the end, their nervous system diagram glows with transformation. Time changed their biology. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 15,
+      "text": "They didn't need motivation to meditate anymore.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression meditating easily. The word 'MOTIVATION' is completely gone, not even crossed out. Simply unnecessary. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 16,
+      "text": "Their biology was doing the work.",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression sitting peacefully as their body systems run automatically. Biological diagrams show self-operating processes. No conscious effort. Simple cartoon style with clean lines."
+    },
+    {
+      "sourceFile": "scenes-part7-become.json",
+      "sceneIndex": 17,
+      "text": "So what's the secret these monks can teach us?",
+      "prompt": "A monk figure in simple robes with shaved head and peaceful expression with a thought bubble containing a glowing secret or key. Standing cartoon person leans in to listen. Wisdom is being shared. Simple cartoon style with clean lines."
+    }
+  ]
+}
