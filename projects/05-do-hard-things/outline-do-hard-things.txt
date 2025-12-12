@@ -1,0 +1,193 @@
+# Video Outline: "How to Do Hard Things (So Simple It's Almost Unfair)"
+# Alternative titles: "The Hard Things Method Schools Won't Teach You" / "Why Doing Hard Things Is Easier Than You Think"
+
+## Style Reference: Ananas script
+- Ultra-short sentences, absurdist humor, "idiots" callbacks, rhetorical Q&A, running jokes
+- Historical/scientific storytelling as vehicle for principles
+- Quick scene transitions: "Anyway, he's gone now"
+- Self-aware meta-commentary
+- Repetitive rhythmic patterns
+
+## Hook Pattern (from "Learn Anything So Fast" / "Learning Method Schools Won't Teach")
+- Pattern interrupt opening with counterintuitive statement
+- Historical/scientific anchor point
+- Quick expectation subversion
+- Promise of simple system
+
+---
+
+## HOOK (0-30 seconds) - ~150 words
+
+Opening pattern interrupt:
+"Everyone thinks doing hard things requires willpower. They're wrong. They're idiots. Well, not idiots. But close."
+
+Anchor to historical/scientific story to create intrigue:
+- Introduce Spanish conquistador burning ships (1519)
+- Tease the twist: "He didn't motivate his army. He trapped them."
+
+Set expectations:
+- "I'm going to show you five ways your brain is sabotaging you. And five stupidly simple systems to fix it."
+
+---
+
+## SECTION 1: Trap Yourself (~400 words)
+### The Burning Ships Principle
+
+**Setup (Green):**
+- 1519. Mexico. We have to go there. Why? Because Hernán Cortés is about to do something incredibly stupid. Or genius. Probably both.
+- He has 600 men. The Aztecs have millions. The math doesn't work.
+
+**Story beats (Ananas style):**
+- Cortés lands. His men are scared. They want to leave. Makes sense.
+- What does Cortés do? He burns the ships. All of them.
+- "That's insane." Yes. "That's genius." Also yes.
+
+**Payoff (Purple):**
+- When retreat isn't an option, your brain stops negotiating.
+- No Plan B = Plan A works.
+
+**Modern Application:**
+- Four forcing functions: Public commitment. Financial stakes. Cut access. Time box.
+- "They're so simple they seem stupid. That's why they work."
+
+**Transition:** "But wait. There's a problem. You'll try these and fail. Why? Willpower. You don't have enough of it. Nobody does. Here's why..."
+
+---
+
+## SECTION 2: Willpower is a Scam (~400 words)
+### The Cookie Experiment
+
+**Setup (Green):**
+- Roy Baumeister. Psychologist. He put cookies in front of people. Why? Science.
+- Half could eat them. Half couldn't. Then: puzzles.
+
+**Story twist (Ananas style):**
+- "You're thinking: the willpower people did better." Wrong.
+- Cookie resisters gave up 50% faster. Wait, what?
+
+**The Science:**
+- Willpower = fuel tank. Every decision drains it.
+- Morning: Full tank. Evening: Empty.
+- Judges deny parole more in the afternoon. Same cases. Different fuel levels. Idiots? No. Biology.
+
+**Payoff:**
+- Stop trying to have more willpower. You can't.
+- "That's like trying to have more height." (callback potential)
+
+**Transition:** "So if willpower doesn't work, what does? We have to go to a running track. Why? Noah Lyles is there. And he has ADHD."
+
+---
+
+## SECTION 3: Design, Don't Discipline (~400 words)
+### The Fastest Man Doesn't Trust Himself
+
+**Setup:**
+- Noah Lyles. World's fastest man. Has ADHD. Doesn't trust willpower.
+- "He trusts something else. What? His internal rhythm."
+
+**The Pattern (Ananas repetition style):**
+- Same track. Same playlist. Same warmup. Same movements.
+- 6 days a week. Every week. No thinking.
+- "When the gun goes off, his body already knows what to do."
+- Gold vs silver = 1/500th of a second. Routines give him that edge.
+
+**The If-Then Algorithm:**
+- Peter Gollwitzer. NYU. Students. Exercise. Christmas break.
+- Goal setters: "I want to work out more." Failed 62%.
+- If-then planners: "If Monday 7am, then gym." Failed only 9%.
+- Same motivation. Different instructions. Wildly different results.
+
+**Payoff:**
+- Your brain runs on algorithms. Program it.
+- "If X, then Y. Take out the debate."
+
+**Transition:** "But even perfect systems fail sometimes. There's one more thing you need. We have to go to a hospital. Why? Surgeons are killing people. By accident. Mostly."
+
+---
+
+## SECTION 4: Outsource Your Decisions (~400 words)
+### The Surgeon's Checklist
+
+**Setup (Green):**
+- Atul Gawande. Famous surgeon. Curious about errors.
+- World-class surgeons. Preventable mistakes. They knew better.
+
+**The Discovery:**
+- Worked with WHO. Created a 19-step checklist.
+- "You think it's super technical, right?" Wrong.
+- Confirm patient identity. Give antibiotics. Mark the correct leg.
+- "So you don't chop off the wrong one." Elementary stuff.
+
+**The Results:**
+- Complications dropped 36%. Deaths dropped 47%.
+- Same surgeons. Same skills. Just a checklist.
+- "When cognitive load peaks, even experts fail. The checklist catches them."
+
+**Payoff:**
+- The better you get, the MORE you need systems.
+- Pilots with 10,000 hours still read the same checklist. Every. Single. Flight.
+- "Not because they forgot. Because they don't trust their memory under pressure."
+
+**Application:**
+- Three checklists: To-do (execution). To-want (expansion). To-be (evolution).
+
+**Transition:** "But here's the final problem. What if your brain tries to bypass the system entirely? We have to go to a monastery. Why? Monks. They figured something out."
+
+---
+
+## SECTION 5: Become the System (~350 words)
+### The Monk Brain Synchronization
+
+**Setup:**
+- Harvard researchers. Brain scans. Tibetan monks. Meditation.
+- Their brain waves synchronized. Perfectly. Across all individuals.
+
+**The Insight:**
+- "They weren't trying to focus. They weren't trying to motivate themselves."
+- Years of repetition → neural resonance
+- "They didn't need motivation to meditate. Their nervous system evolved into it."
+
+**The Secret:**
+- "Motivation doesn't drive repetition. Repetition drives motivation."
+- Your brain starts craving the queue when it can predict the cadence.
+- "You stop pushing. Your biology starts pulling."
+
+**The Roger Federer Illusion:**
+- "It seems effortless. It's not. That's a myth."
+- Thousands of reps. Countless years. But the pattern takes over.
+- "Your brain stops chasing the reward. It starts craving the repetition itself."
+
+**Final Payoff:**
+- "Don't try to change your entire life tonight."
+- Design one tiny rule that changes your tomorrow.
+- "Build the right systems. Those systems will build the right you."
+
+---
+
+## CALL TO ACTION (~100 words)
+
+Hook → Curiosity → Action format:
+- "So that's exactly how you trick your brain into doing hard things."
+- Open new loop: "But there's something I didn't tell you at the start..."
+- "All of this is useless if you don't know WHY you keep feeling stuck in the first place."
+- Direct to next video about feeling stuck/finding success
+
+---
+
+## Running Jokes/Callbacks to Thread Throughout:
+1. "Idiots. Well, not idiots. But close."
+2. "Why? Why not?"
+3. "We have to go to [location]. Why? [Reason]."
+4. "Wait, what?"
+5. "[Question]. Wrong."
+6. "Anyway, [person] is gone now."
+
+## Word Count Targets:
+- Hook: ~150 words
+- Section 1: ~400 words  
+- Section 2: ~400 words
+- Section 3: ~400 words
+- Section 4: ~400 words
+- Section 5: ~350 words
+- CTA: ~100 words
+- **TOTAL: ~2,200 words**
