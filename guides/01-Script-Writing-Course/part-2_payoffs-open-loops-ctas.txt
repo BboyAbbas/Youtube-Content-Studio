@@ -1,0 +1,207 @@
+# YouTube Script Writing Course - Part 2: Payoffs, Open Loops & Call to Actions
+
+## Understanding Payoffs
+
+Let's talk about payoffs. I think payoffs or the points that you talk about within your script is one of the more interesting things that we look at when we're making YouTube videos because it's the actual bulk of your content.
+
+Everyone focuses on the hook. Everyone focuses on the call to action, but no one actually talks about how to create strong payoffs and how to create emotional payoffs - payoffs that bring out emotion or payoffs that's actually valuable to the viewer.
+
+### What Are Payoffs?
+
+A payoff is the moment in a script when you reward the audience for sticking around. Think of a payoff as answering the question, "Why did I watch this?"
+
+The payoff could be at the end of section one when we give them the reward. Or when you watch the video from start to finish and there's a satisfying end - that's the mega payoff of the video.
+
+### Why Payoffs Matter
+
+Payoffs make your audience feel satisfied. If you're watching a movie that sets up a big mystery that never explains it, it feels frustrating. Payoffs prevent that frustration and they make the audience feel that their time was well spent.
+
+Payoffs can be:
+- **Emotional** - Making the audience feel joy, sadness, relief, fear
+- **Informational** - Revealing something the audience wanted to know
+
+### Payoffs and Setups
+
+Every payoff needs a setup. A setup is a clue, hint, or piece of information that prepares the audience for what's coming. Without a setup, a payoff feels random.
+
+If a magician pulled a rabbit out of a hat without showing the hat first, it'd feel confusing. The magician needs to set up the expectation by showing the empty hat first. When the magic trick comes, your audience gets the payoff they've been waiting for.
+
+Setups create:
+- A sense of curiosity
+- Investment from the audience
+- Context
+- Tension that they're compelled to resolve
+
+### Types of Payoffs
+
+**Emotional Payoff**: You want to make the audience feel something like joy, sadness, relief, fear. This is the best payoff for emotional or documentary videos.
+
+Example: This video by Iman Ghadzi, "Surprising my mom with a $4 million dream house." The entire video setup is how he built a successful business. At the end, the payoff is the clip where he finally brings his mom to her new dream house.
+
+**Informational Payoff**: Reveals something the audience wanted to know. This works for both documentary and educational videos.
+
+Example: "Five steps to make $10,000 a month writing online." This video has five setups, and for each step, the goal is to keep the viewer watching until the end of the step.
+
+### Earning a Payoff
+
+A payoff feels earned when it's believable and well prepared. If a payoff comes out of nowhere, the audience feels confused.
+
+More important than the payoff is the setup, because the setup tells the viewer why they should care about the payoff.
+
+To avoid confusion, you want to:
+
+1. **Plant clear setups** - If nobody's going to understand your setup, then no one's going to care
+2. **Make it logical** - There should be a logical progression between your setup and payoff
+
+Example of bad logic:
+"There are hundreds of ways to make money online, but SMAs are still the easiest, most effective way to grow an online business."
+
+The logic doesn't make sense because we don't explain any of these hundreds of ways, and we don't substantiate the claim that SMAs are the easiest.
+
+Fixed version:
+"There are hundreds of ways to make money online from Amazon FBA, digital products, etc. All of which require tons of marketing knowledge, a big ad budget and more. But SMMA is still the easiest to start from zero without a budget and it allows you to scale to six figures easily."
+
+### Timing Your Payoffs
+
+Timing is everything. When you deliver a payoff too early, it loses impact. But if you deliver it too late, the audience loses interest.
+
+A good rule of thumb is to build up to the payoff gradually. Use smaller moments to keep the audience engaged while they wait for the big payoff.
+
+Keep your sections at 300 to 500 words. Any longer and your viewers will forget the first setup.
+
+### Common Payoff Mistakes
+
+**Overloading the Script**: When you include too many payoffs in your script, you leave your audience overwhelmed. Each payoff needs time to breathe.
+
+**Underwhelming Payoffs**: When the result doesn't live up to the buildup. If you spend half your script building suspense but deliver a predictable conclusion, the audience feels let down.
+
+**Forgetting the Setup**: A payoff without a setup feels random and out of place. Always remember to refer to the setup when writing the payoff.
+
+### Testing Your Payoffs
+
+1. **Read it out loud** - Sometimes just hearing your words can reveal if your payoff is working
+2. **Review timing and pacing** - Keep sections at 300-500 words
+3. **Revise based on feedback** - If multiple people give similar feedback, something needs fixing
+
+## Open Loops
+
+Ever notice how Netflix keeps you binge watching episode after episode? That's by design. They use a psychological trick called open loops.
+
+### What Are Open Loops?
+
+Have you ever watched a Netflix show that ended an episode with a cliffhanger? You had to know what happened next, so you clicked next episode. That's an open loop in action.
+
+An open loop is a storytelling technique that creates curiosity by leaving a question or situation unresolved. When you create a gap like that, it leads to a dopamine spike in the viewer because they need to find out more.
+
+When done right, open loops:
+- Keep viewers watching because they want the answer
+- Boost engagement because people stay for the payoff
+- Create retention because unresolved curiosity keeps them glued to content
+
+### Common Open Loop Mistakes
+
+**Mistake #1: Being Too Vague**
+When your open loop is unclear, your audience won't know what they're waiting for. This creates confusion, not curiosity.
+
+Bad example: "You won't believe what happens next." This is massively overused and too generic.
+
+Good example: "This one mistake cost me $10,000 and here's how you can avoid it."
+
+**Mistake #2: Resolving Too Soon**
+If you answer your open loop immediately, there's no tension being built up. The viewer gets the payoff without having to watch the rest of the video.
+
+**Mistake #3: Forgetting to Close the Loop**
+An unresolved open loop feels like a broken promise. Viewers feel frustrated and will be less likely to trust your future content.
+
+### Four-Step Open Loop Framework
+
+**Step 1: Start with Curiosity**
+Ask yourself: What unresolved question will keep my audience watching?
+- How did I double my income in 30 days?
+- What's the number one mistake every beginner makes on YouTube?
+- Why did my most expensive video completely tank?
+
+**Step 2: Build Tension**
+Create enough tension to hook the viewer, but don't resolve it too soon.
+- "This one mistake cost me $10,000. Stay tuned to find out what it was."
+- "I found a way to double retention rates, but it's something most creators overlook."
+
+**Step 3: Strategic Delay**
+Don't just rely on one open loop. Introduce new loops throughout the video to maintain engagement.
+
+Example:
+- Main loop: "This one strategy doubled my revenue in 30 days"
+- Secondary loop: "But first, let me tell you about the mistake that held me back for years"
+- Supporting loop: "The reason this works is fascinating"
+
+**Step 4: Always Close the Loop**
+When you create a loop, make sure to resolve it by the end of the video.
+
+### Open Loop Quality Check
+
+Ask yourself these questions:
+- Does your open loop spark curiosity?
+- Does it connect to the audience's interests?
+- Does it fit naturally into the video?
+- Would you keep watching if you heard this?
+
+## Call to Actions
+
+Call to action (CTA) is a prompt at the end of your video to get the viewer to take what action you want them to take.
+
+### Three Types of Call to Actions
+
+1. **Selling them on watching another video** (with an end screen element)
+2. **Selling them on liking and subscribing**
+3. **Selling them on your offer/product pitch**
+
+### Why Not "Like and Subscribe"?
+
+I don't think you should be using "like and subscribe." If the content is valuable enough, the viewers will like and subscribe on their own.
+
+Subscribers don't really matter anymore. There are channels with millions of subscribers that can barely get a thousand views on their videos.
+
+### When to Pitch Your Product
+
+The timing of your pitch matters more than the pitch itself. My philosophy is that you only pitch an offer in 40+ minute videos because that's when the viewer has gotten massive amounts of value from your video.
+
+If your video is 10 to 20 minutes long, there just isn't enough information transferred to justify a pitch.
+
+### The End Screen Call to Action Framework
+
+Instead of pitching a product in every video, you should pitch another video. This creates a spiderweb effect where viewers go from one video to another, solving all their problems one at a time.
+
+**Hook, Curiosity, Action Framework:**
+
+1. **Hook** - Get attention just before the end of the video
+2. **Curiosity** - Create a knowledge gap that creates demand for what you're pitching next  
+3. **Action** - The action you want them to take (click on this video)
+
+Example:
+"So that's exactly how you send 1,000 cold emails every single day on autopilot. But there's something that I didn't tell you at the start of the video. Everything that I just told you is completely useless if you don't know how to use it to make money for your business. Click on this video over here if you want to learn how to get clients with cold email in 2024 and I'll see you in the next one."
+
+### Call to Action Mathematics
+
+The typical end screen click rate to another video is about 5%. Using this framework, our end screen element click rate is 15% - that's three times more people clicking from one video to another.
+
+If you have 1,000 people watching your video till the end, 150 of them will click as opposed to only 50. If you do this for every video, the number of people going from one video to another will compound.
+
+### How to Pitch Your Product (When Appropriate)
+
+For 40+ minute value-based videos where you want to pitch your offer:
+
+Don't just tell them to book a call. You want to:
+1. Hook them in
+2. Sell them on the idea of working with you  
+3. Create a logical path for them to work with you
+
+Example:
+"Now that you've learned my secret productivity techniques for getting straight A's in school, the only thing missing is for you to apply it. And because I want to make it as simple as possible for you to copy my productivity calendar, I made this video breaking down my day in the life as a Harvard student. Click over here to watch it and I'll see you in the next one."
+
+### Call to Action Mistakes to Avoid
+
+1. **Recapping the points** - If they need to revisit a point, they can rewind
+2. **Having multiple call to actions** - A confused viewer doesn't know what to do
+3. **Not giving a reason** for why they should follow through with the CTA
+
+The key to great call to actions is creating a clear knowledge gap that can only be filled by taking the action you want them to take. Whether that's watching another video or booking a call with you, make sure there's a compelling reason for them to click.
