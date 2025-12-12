@@ -1,0 +1,201 @@
+{
+  "section": "Principle Four - Outsource Your Decisions",
+  "scenes": [
+    {
+      "text": "Atul Gawande is a famous surgeon.",
+      "prompt": "A surgeon figure in scrubs standing confidently with arms crossed. A nameplate shows 'ATUL GAWANDE'. Medical credentials float beside him. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He was curious about something disturbing.",
+      "prompt": "The surgeon figure in scrubs with a concerned, investigative expression. One eyebrow raised. A magnifying glass in hand examining data. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "World-class surgeons were making preventable mistakes.",
+      "prompt": "Multiple surgeon figures in scrubs shown with error symbols and warning triangles above them. Elite credentials shown alongside the mistakes. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Mistakes they knew better than to make.",
+      "prompt": "A surgeon figure in scrubs with a thought bubble showing they know the correct procedure, while their hands perform incorrectly. The disconnect is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "These weren't bad doctors.",
+      "prompt": "A surgeon figure in scrubs with diplomas, awards, and excellence certificates surrounding them. The word 'BAD' is crossed out. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They were excellent doctors having bad moments.",
+      "prompt": "A timeline showing an excellent surgeon figure in scrubs with checkmarks and success, then one small section showing a stumble or error. One bad moment among many good ones. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "So Gawande worked with the World Health Organization and developed a 19-step surgical checklist.",
+      "prompt": "The surgeon figure in scrubs labeled 'GAWANDE' shaking hands with a figure in front of a WHO logo. Between them, a document shows '19-STEP CHECKLIST'. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You think it's super technical, right?",
+      "prompt": "A thought bubble showing complex medical equations, molecular diagrams, and complicated procedures. The assumption is that the checklist is advanced. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Complex medical procedures?",
+      "prompt": "An image of intricate surgical tools and complicated anatomical diagrams. The expectation of complexity. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Wrong.",
+      "prompt": "Large bold text showing 'WRONG' with a large X beside it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Confirm the patient's identity.",
+      "prompt": "A surgeon figure in scrubs checking a patient wristband against a chart. A checklist shows this as step one with a checkbox. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Make sure antibiotics are given.",
+      "prompt": "A syringe or IV bag with antibiotics being administered. A checklist shows this step with a checkbox. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Mark the correct leg to operate on.",
+      "prompt": "A surgeon figure in scrubs using a marker to put an X on the correct leg. The other leg remains unmarked. A checklist shows this step with a checkbox. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "So you don't chop off the wrong one.",
+      "prompt": "A diagram showing two legs with clear CORRECT and WRONG labels. Arrows point to the marked correct leg. The stakes are obvious. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Elementary stuff.",
+      "prompt": "The checklist items shown as simple icons: identity check, medicine, marker. The word 'ELEMENTARY' floats above. Nothing complicated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Stuff every surgeon knows.",
+      "prompt": "Multiple surgeon figures in scrubs all nodding in agreement. These are basics everyone learned. Common knowledge. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "When hospitals put this simple checklist into practice, something remarkable happened.",
+      "prompt": "A hospital building with the 19-step checklist being implemented. Sparkles and positive indicators surround it. Something is about to change. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Post-surgical complications fell by 36%.",
+      "prompt": "A bar chart showing complications dropping dramatically. An arrow points down with '36%' labeled. The improvement is significant. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Deaths dropped by 47%.",
+      "prompt": "A bar chart showing deaths dropping dramatically. An arrow points down with '47%' labeled. The improvement is life-saving. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same surgeons.",
+      "prompt": "The same surgeon figures in scrubs shown before and after. No personnel changes. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same skills.",
+      "prompt": "Identical skill meters for both before and after. Abilities unchanged. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same hospitals.",
+      "prompt": "The same hospital building shown twice. The location is identical. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Just a checklist.",
+      "prompt": "A simple checklist document floating in the center, glowing with importance. Just this one addition changed everything. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "When cognitive load peaks, even experts fail.",
+      "prompt": "A brain diagram showing overload with too many inputs. Even a surgeon figure in scrubs with elite credentials stumbles under the pressure. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The checklist catches them.",
+      "prompt": "A checklist document acting like a safety net, catching a falling surgeon figure in scrubs. The checklist saves them from errors. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Here's the paradox nobody talks about.",
+      "prompt": "Standing cartoon person leaning in with a secretive expression. A 'PARADOX' label glows mysteriously. Hidden knowledge is coming. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The better you get at something, the more you need systems.",
+      "prompt": "A graph showing expertise level on one axis and systems needed on the other. Both increase together. The correlation is positive. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not less.",
+      "prompt": "The word 'LESS' with a large X crossed through it. This is rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "More.",
+      "prompt": "The word 'MORE' with arrows pointing up emphasizing increase. Systems grow with skill. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Pilots with 10,000 hours of flying still read the same checklist every single flight.",
+      "prompt": "An experienced pilot figure with '10,000 HOURS' badge reading from a checklist in a cockpit. Despite expertise, the checklist is used every time. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Not because they forgot how to fly.",
+      "prompt": "The experienced pilot figure with flight knowledge clearly shown in a thought bubble. Memory is intact. The word 'FORGOT' is crossed out. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Because they don't trust their memory under pressure.",
+      "prompt": "The experienced pilot figure with a thought bubble showing memory becoming fuzzy under stress and alarm indicators. Pressure affects recall. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "And they're right not to.",
+      "prompt": "A checkmark beside the pilot's decision to use checklists. The caution is validated. Correct choice. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "You can use this too.",
+      "prompt": "Standing cartoon person receiving a checklist document from the pilot figure. The tool is transferable. Anyone can use it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "I make three checklists for my life.",
+      "prompt": "Three separate checklist documents floating, numbered 1, 2, and 3. Each represents a different purpose. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The to-do list for execution.",
+      "prompt": "A checklist document labeled 'TO-DO LIST' with subtitle 'EXECUTION'. Tasks with checkboxes show daily actionable items. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "What must get done today.",
+      "prompt": "A calendar page showing 'TODAY' with specific tasks listed. Urgency and necessity emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The to-want list for expansion.",
+      "prompt": "A checklist document labeled 'TO-WANT LIST' with subtitle 'EXPANSION'. Goals and aspirations listed. Forward-looking items. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "What I'm building toward this month.",
+      "prompt": "A monthly calendar with a goal target at the end. Progress steps lead toward it. Building momentum. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The to-be list for evolution.",
+      "prompt": "A checklist document labeled 'TO-BE LIST' with subtitle 'EVOLUTION'. Identity and character traits listed. Transformational goals. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Who I'm becoming this year.",
+      "prompt": "A silhouette transforming from current state to improved version. A yearly timeline shows the evolution. Personal growth visualized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "These aren't about bureaucracy.",
+      "prompt": "The word 'BUREAUCRACY' with a large X crossed through it. Red tape and forms are rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "They're about creating bandwidth for your brain so it can focus on what actually matters.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, now clear and focused. Clutter is removed to the sides. The brain has space to work on important things. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The hard things.",
+      "prompt": "A glowing difficult task or challenge highlighted as important. The brain focuses its energy here. What truly matters. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But there's still one final problem.",
+      "prompt": "A warning sign with 'ONE MORE PROBLEM' text. The journey is not complete yet. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "What if your brain tries to bypass the system entirely?",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sneaking around a system or fence labeled 'SYSTEMS'. The brain tries to find a way around. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "We have to go to a monastery.",
+      "prompt": "A peaceful monastery building with mountains in the background. An arrow points toward it. Serene atmosphere. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Why?",
+      "prompt": "Large bold text showing 'WHY?' with a question mark. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Monks figured something out.",
+      "prompt": "A row of monk figures in simple robes with shaved heads and peaceful expressions. A lightbulb glows above them collectively. Ancient wisdom discovered. Simple cartoon style with clean lines."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "section": "Principle Three - Design Don't Discipline",
+  "scenes": [
+    {
+      "text": "Noah Lyles is the world's fastest man right now.",
+      "prompt": "A muscular runner in athletic wear crossing a finish line with arms raised in victory. A gold medal icon and world record indicator float beside him. Speed lines trail behind. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He doesn't chase willpower.",
+      "prompt": "The muscular runner in athletic wear shaking his head 'no' at a fuel tank labeled 'WILLPOWER'. He rejects it completely. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He doesn't chase discipline either.",
+      "prompt": "The muscular runner in athletic wear shaking his head 'no' at a whip or strict ruler labeled 'DISCIPLINE'. He rejects this too. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He engineers something else entirely.",
+      "prompt": "The muscular runner in athletic wear wearing engineer goggles, working on a blueprint or system diagram. He builds rather than chases. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "See, Lyles has ADHD.",
+      "prompt": "Close-up of the muscular runner in athletic wear with 'ADHD' letters beside his head. His expression is matter-of-fact. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He knows his brain can't be trusted to show up consistently.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, shown as unreliable with flickering on/off signals. The muscular runner in athletic wear looks at it with understanding, not frustration. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "So he doesn't rely on it.",
+      "prompt": "The muscular runner in athletic wear turning away from a cartoon brain with small arms and legs, expressive face on the frontal lobe. He walks toward something else. The brain is not the solution. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He relies on his internal rhythm instead.",
+      "prompt": "The muscular runner in athletic wear with a metronome or heartbeat rhythm visualization around him. The rhythm is steady and consistent. He moves in sync with it. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same track.",
+      "prompt": "A running track shown from the same angle. The word 'SAME' floats above it. Consistency emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same playlist.",
+      "prompt": "Headphones with musical notes and a playlist icon. The word 'SAME' floats beside it. Consistency emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same warmup.",
+      "prompt": "A figure doing stretching exercises. The word 'SAME' floats beside them. Consistency emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same movements.",
+      "prompt": "Running movement positions shown in sequence. The word 'SAME' floats beside them. Consistency emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "6 days a week.",
+      "prompt": "A weekly calendar with 6 days marked with checkmarks, one day blank for rest. The routine is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Every week.",
+      "prompt": "Multiple weekly calendars stacked showing the same pattern repeating. Week after week. Endless consistency. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No variation.",
+      "prompt": "The word 'VARIATION' with a large X crossed through it. Change is rejected. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No thinking.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, sitting idle with a 'closed' sign. Thinking is not required. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "When the gun goes off, he says something interesting: \"I'm not thinking. My body already knows what to do.\"",
+      "prompt": "The muscular runner in athletic wear in starting blocks as a starting gun fires. A speech bubble shows 'My body already knows'. His expression is calm and automatic. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That's not discipline.",
+      "prompt": "The word 'DISCIPLINE' with a large X crossed through it. This is not the answer. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "That's design.",
+      "prompt": "A blueprint or architectural drawing with the word 'DESIGN' prominently displayed. The approach is engineered. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He's not fighting his biology.",
+      "prompt": "The muscular runner in athletic wear and a cartoon brain with small arms and legs, expressive face on the frontal lobe, standing peacefully side by side. No conflict. A crossed-out boxing ring in the background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He's using it.",
+      "prompt": "The muscular runner in athletic wear operating a cartoon brain with small arms and legs, expressive face on the frontal lobe, like a tool or instrument. The brain works for him. They collaborate. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The margin between gold and silver is one five-hundredth of a second.",
+      "prompt": "Two medals shown side by side: gold and silver. A tiny gap labeled '1/500 second' separates them. The difference is microscopic. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Those routines give him that edge.",
+      "prompt": "The muscular runner in athletic wear crossing the finish line just barely ahead of another runner. His routines visualized as gears powering him forward. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Why wouldn't you use the same logic?",
+      "prompt": "Standing cartoon person with a thoughtful expression, one hand on chin. The muscular runner's routine system floats beside them as an option. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "A psychologist at NYU named Peter Gollwitzer wanted to test this.",
+      "prompt": "A scientist in white lab coat standing in front of an NYU sign. A nameplate shows 'PETER GOLLWITZER'. He holds research papers. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "He took students trying to exercise over Christmas break and divided them into two groups.",
+      "prompt": "A group of standing cartoon people split by a dividing line into two separate groups. A Christmas tree in the background indicates the season. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "First group got goal-setting advice.",
+      "prompt": "One group of standing cartoon people receiving a document labeled 'GOALS'. Speech bubbles show vague phrases like 'Set intentions'. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"I want to work out more.\"",
+      "prompt": "A speech bubble containing 'I want to work out more' in vague, wavy text. The statement is soft and uncommitted. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Vague intentions.",
+      "prompt": "A cloud of fuzzy, unfocused text labeled 'VAGUE INTENTIONS'. Nothing is clear or actionable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Good vibes.",
+      "prompt": "Floating positive emojis and sparkles with no substance. The mood is positive but empty. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Second group got something different.",
+      "prompt": "The other group of standing cartoon people receiving a different document. Their attention is focused. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "An if-then plan.",
+      "prompt": "A document showing 'IF → THEN' logic clearly displayed. The structure is specific and actionable. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "\"If it's Monday at 7am, then I'm at the gym.\"",
+      "prompt": "A speech bubble containing 'IF Monday 7am → THEN gym' in bold clear text. The statement is specific with exact time and place. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same motivation.",
+      "prompt": "Two equal motivation meters side by side showing identical levels. Both groups started equally motivated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Different instructions.",
+      "prompt": "Two different instruction documents side by side. One shows vague goals, the other shows 'IF → THEN' plans. The contrast is clear. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "The results were insane.",
+      "prompt": "Standing cartoon person with wide eyes and dropped jaw looking at result charts. The reaction shows shock at the findings. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Goal-setters failed 62% of the time.",
+      "prompt": "A pie chart showing 62% filled in dark representing failure. The label shows 'GOAL-SETTERS'. The failure rate is high. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If-then planners failed only 9% of the time.",
+      "prompt": "A pie chart showing only 9% filled in dark representing failure, 91% showing success. The label shows 'IF-THEN PLANNERS'. The success rate is dramatic. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same people.",
+      "prompt": "Two identical standing cartoon people side by side. They are the same. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Same motivation.",
+      "prompt": "Two identical motivation meters side by side showing the same level. Motivation was equal. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Wildly different results.",
+      "prompt": "Split scene. Left side: 62% failure with defeated standing cartoon people. Right side: 91% success with triumphant standing cartoon people. The gap is enormous. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Why?",
+      "prompt": "Large bold text showing 'WHY?' with a question mark. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Because your brain runs on algorithms.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, with code and algorithm symbols flowing through it. The brain processes 'IF → THEN' logic naturally. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If X, then Y.",
+      "prompt": "Large bold text showing 'IF X → THEN Y' as a simple formula. The logic is clear and direct. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If this happens, do that.",
+      "prompt": "A flowchart showing a trigger leading to an action. The cause and effect is simple. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's simple.",
+      "prompt": "The 'IF → THEN' formula shown as clean and minimal. Simplicity emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It's powerful.",
+      "prompt": "The 'IF → THEN' formula glowing with energy and power indicators. Effectiveness emphasized. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "It works.",
+      "prompt": "The 'IF → THEN' formula with a large checkmark beside it. Proven success. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If it's 3pm Thursday, deep work starts.",
+      "prompt": "A clock showing 3pm and a calendar showing Thursday. An arrow points to a standing cartoon person at a desk with intense focus. The trigger activates the action. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No debate.",
+      "prompt": "The word 'DEBATE' with a large X crossed through it. Discussion is not allowed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If you finished lunch, you walk 15 minutes.",
+      "prompt": "An empty lunch plate as a trigger. An arrow points to a standing cartoon person walking. A timer shows 15 minutes. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No debate.",
+      "prompt": "The word 'DEBATE' with a large X crossed through it. Discussion is not allowed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If it's Friday afternoon, you review your week.",
+      "prompt": "A calendar showing Friday afternoon as a trigger. An arrow points to a standing cartoon person looking at a weekly review document. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No debate.",
+      "prompt": "The word 'DEBATE' with a large X crossed through it. Discussion is not allowed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If it's Sunday night, you plan for the next week.",
+      "prompt": "A calendar showing Sunday night as a trigger. An arrow points to a standing cartoon person writing in a weekly planner. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No debate.",
+      "prompt": "The word 'DEBATE' with a large X crossed through it. Discussion is not allowed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Take out the drama.",
+      "prompt": "Drama masks being thrown into a trash bin. Emotional theatrics are removed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Take out the negotiation.",
+      "prompt": "A negotiation table being removed from the scene. Bargaining is eliminated. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Run the algorithm.",
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, running on a track made of 'IF → THEN' code. The brain executes automatically. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "But even perfect algorithms fail sometimes.",
+      "prompt": "An 'IF → THEN' code block with a small error message or crack in it. Even good systems can break. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "There's one more thing you need.",
+      "prompt": "Standing cartoon person holding up one finger. A mystery box glows beside them waiting to be revealed. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "We have to go to a hospital.",
+      "prompt": "A hospital building with a medical cross symbol. An arrow points toward the entrance. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Why?",
+      "prompt": "Large bold text showing 'WHY?' with a question mark. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Surgeons are killing people.",
+      "prompt": "A surgeon figure in scrubs with a shocked, guilty expression. A patient silhouette lies on a table. The scene is serious. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "By accident.",
+      "prompt": "The word 'ACCIDENT' with emphasis. An 'oops' expression on the surgeon figure in scrubs. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "Mostly.",
+      "prompt": "The word 'MOSTLY' floating ominously. An asterisk suggests there is more to the story. Simple cartoon style with clean lines."
+    }
+  ]
+}

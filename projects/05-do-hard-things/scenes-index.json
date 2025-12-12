@@ -1,0 +1,78 @@
+{
+  "title": "How to Do Hard Things (So Simple It's Almost Unfair)",
+  "totalScenes": 197,
+  "files": [
+    "scenes-part1-hook.json",
+    "scenes-part2-brain.json",
+    "scenes-part3-trap.json",
+    "scenes-part4-willpower.json",
+    "scenes-part5-design.json",
+    "scenes-part6-outsource.json",
+    "scenes-part7-become.json",
+    "scenes-part8-outro.json"
+  ],
+  "sections": [
+    {
+      "name": "Hook and Cortés Story",
+      "file": "scenes-part1-hook.json",
+      "sceneCount": 25
+    },
+    {
+      "name": "Brain Sabotage Explanation",
+      "file": "scenes-part2-brain.json",
+      "sceneCount": 15
+    },
+    {
+      "name": "Principle One - Trap Yourself",
+      "file": "scenes-part3-trap.json",
+      "sceneCount": 61
+    },
+    {
+      "name": "Principle Two - Willpower Is A Scam",
+      "file": "scenes-part4-willpower.json",
+      "sceneCount": 54
+    },
+    {
+      "name": "Principle Three - Design Don't Discipline",
+      "file": "scenes-part5-design.json",
+      "sceneCount": 66
+    },
+    {
+      "name": "Principle Four - Outsource Your Decisions",
+      "file": "scenes-part6-outsource.json",
+      "sceneCount": 51
+    },
+    {
+      "name": "Principle Five - Become The System",
+      "file": "scenes-part7-become.json",
+      "sceneCount": 41
+    },
+    {
+      "name": "Outro - Takeaway and CTA",
+      "file": "scenes-part8-outro.json",
+      "sceneCount": 19
+    }
+  ],
+  "consistencyNotes": {
+    "mainCharacter": "standing cartoon person (no additional description)",
+    "brain": "cartoon brain with small arms and legs, expressive face on the frontal lobe",
+    "conquistador": "conquistador in metal armor",
+    "ships": "wooden ships",
+    "cookies": "plate of chocolate chip cookies",
+    "willpowerMeter": "vertical battery meter labeled 'WILLPOWER'",
+    "fuelTank": "fuel tank labeled 'WILLPOWER'",
+    "ifThenFormula": "'IF → THEN' or 'IF X → THEN Y'",
+    "checklist": "checklist document or 19-step checklist",
+    "surgeon": "surgeon figure in scrubs",
+    "monk": "monk figure in simple robes with shaved head and peaceful expression",
+    "runner": "muscular runner in athletic wear",
+    "scientist": "scientist in white lab coat",
+    "tennisPlayer": "tennis player figure in athletic wear"
+  },
+  "colorUsageNotes": {
+    "greenUsed": "Only for semantic success/good in split comparisons (91% success pie chart)",
+    "redUsed": "Only for semantic failure/bad in split comparisons (62% failure pie chart)",
+    "noDecorativeColors": "No arbitrary golden, glowing, or decorative color adjectives used"
+  },
+  "styleEnding": "Simple cartoon style with clean lines."
+}
