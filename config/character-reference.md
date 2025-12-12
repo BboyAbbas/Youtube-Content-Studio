@@ -32,6 +32,12 @@ Secret Service Agent: "wearing black suit with American flag pin, earpiece, dark
 
 HISTORICAL/FANTASY FIGURES:
 
+Hernán Cortés: "wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a sword"
+
+Conquistador Soldiers: "wearing morion helmets, simple determined faces, holding swords and axes"
+
+Aztec Warriors: "with green quetzal feather headdresses and red-blue-yellow macaw plumes, jaguar skin cloaks, face paint, holding obsidian-edged weapons"
+
 Medieval Warrior: "wearing chainmail armor, leather bracers, sword at hip, battle-worn face with a scar, long tied-back hair"
 
 Knight: "wearing full plate armor, helmet with visor up, red cape, sword and shield, noble posture"
@@ -65,6 +71,8 @@ Firefighter: "wearing yellow fire helmet, heavy fire-resistant coat, oxygen tank
 
 Pilot: "wearing navy uniform with gold wings pin, captain's hat with gold insignia, aviator sunglasses, confident smile"
 
+Surgeon: "wearing surgical scrubs, surgical cap, face mask pulled down around neck, focused professional expression"
+
 Astronaut: "wearing white spacesuit with helmet under arm, NASA patch on chest, crew cut hair, wonder-filled expression"
 
 
@@ -97,6 +105,10 @@ Boxer: "wearing boxing shorts, boxing gloves, mouthguard, muscular build, sweat 
 
 Runner: "wearing running tank top and shorts, running shoes, race number pinned to chest, determined expression"
 
+Elite Runner (Noah Lyles type): "muscular runner in athletic wear, confident powerful stance, focused intense expression"
+
+Tennis Player: "wearing athletic wear, holding tennis racket, athletic build, graceful confident posture"
+
 Swimmer: "wearing swim cap and goggles on forehead, swimsuit, muscular shoulders, water droplets on skin"
 
 
@@ -110,6 +122,8 @@ Influencer: "holding phone for selfie, ring light reflection in eyes, trendy clo
 
 
 ARCHETYPES:
+
+Tibetan Monk: "wearing simple robes, shaved head, peaceful serene expression, calm meditative posture"
 
 The Brain (personified): "cartoon brain with small arms and legs, expressive face on the frontal lobe, can show various emotions"
 

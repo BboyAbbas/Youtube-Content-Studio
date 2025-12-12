@@ -3,7 +3,7 @@
   "scenes": [
     {
       "text": "Because Cortés figured out something about the human brain that psychologists wouldn't discover for another 500 years.",
-      "prompt": "Split scene. Left side: a conquistador in metal armor with a knowing smile pointing to his head. Right side: a modern scientist in white lab coat looking at brain scans with surprise. A timeline arrow connects them showing 500 years. Simple cartoon style with clean lines."
+      "prompt": "Split scene. Left side: Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, with a knowing smile pointing to his head. Right side: a modern scientist in white lab coat looking at brain scans with surprise. A timeline arrow connects them showing 500 years. Simple cartoon style with clean lines."
     },
     {
       "text": "And it's the same reason you can scroll TikTok for three hours but can't study for thirty minutes.",
@@ -19,11 +19,11 @@
     },
     {
       "text": "It's not laziness.",
-      "prompt": "A sleeping figure on a couch with a large X crossed through the entire image. The laziness explanation is being rejected. Simple cartoon style with clean lines."
+      "prompt": "A sleeping figure on a couch inside a prohibition circle with a diagonal line through it. The laziness explanation is ruled out. Simple cartoon style with clean lines."
     },
     {
       "text": "It's not weakness.",
-      "prompt": "A broken chain link with a large X crossed through the entire image. The weakness explanation is being rejected. Simple cartoon style with clean lines."
+      "prompt": "A flexing arm inside a prohibition circle with a diagonal line through it. The weakness explanation is ruled out. Simple cartoon style with clean lines."
     },
     {
       "text": "Your brain is sabotaging you.",
