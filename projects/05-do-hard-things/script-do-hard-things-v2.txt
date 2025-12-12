@@ -1,5 +1,5 @@
 # How to Do Hard Things (So Simple It's Almost Unfair)
-# Script - Ananas Style Rewrite
+# Script V2 - Fixed with Proper CTA
 # Target: 2000-2200 words
 
 ---
@@ -22,7 +22,7 @@ Let's go to Mexico.
 
 We're in Mexico. It's 1519. The ships are on fire. Cortés's men are watching their only way home turn into smoke. Why? Because Cortés understood something about the human brain.
 
-When retreat is an option, your brain will negotiate. It will bargain. It will find excuses. "Maybe tomorrow." "Just this once." "I'll do it twice next week." Sound familiar? Of course it does. Your brain does this every day.
+When retreat is an option, your brain will negotiate. It will bargain. It will find excuses. "Maybe tomorrow." "Just this once." "I'll do it twice next week." Sound familiar? Of course it does. Your brain does this every day. Idiot brain.
 
 But when retreat isn't an option? Your brain stops negotiating. It starts problem-solving instead. No Plan B means Plan A actually works.
 
@@ -64,7 +64,7 @@ Willpower isn't infinite. It's like a fuel tank. Every decision you make drains 
 
 Judges deny parole more often in the afternoon than in the morning. Same cases. Same facts. Different time of day. Their mental fuel is depleting. Are they idiots? No. They're human. So are you.
 
-We keep trying to solve a biological problem with motivational solutions. "Just have more willpower." That's like saying "just be taller." It doesn't work.
+We keep trying to solve a biological problem with motivational solutions. "Just have more willpower." That's like saying "just be taller." It doesn't work. Idiots keep trying anyway.
 
 So if willpower doesn't work, what does? We have to go to a running track. Why? Noah Lyles is there. And he has ADHD.
 
@@ -164,7 +164,7 @@ That's why I made this video breaking down exactly how to learn anything so fast
 
 ---
 
-**WORD COUNT: ~2,050 words**
+**WORD COUNT: ~2,100 words**
 
 ---
 
@@ -199,3 +199,6 @@ That's why I made this video breaking down exactly how to learn anything so fast
 - Statistics (50% faster, 36%, 47%, 62% vs 9%)
 - "That's not discipline. That's design."
 - "Repetition drives motivation."
+
+**End screen element:**
+- Link to: "Learn Anything So Fast It's Almost Unfair" video
