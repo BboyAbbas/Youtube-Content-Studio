@@ -52,7 +52,7 @@
       "sourceFile": "scenes-part6-outsource.json",
       "sceneIndex": 6,
       "text": "They were excellent doctors having bad moments.",
-      "prompt": "A timeline showing an excellent surgeon figure in scrubs with checkmarks and success, then one small section showing a stumble or error. One bad moment among many good ones. Simple cartoon style with clean lines."
+      "prompt": "A timeline showing an excellent surgeon figure in scrubs with checkmarks and success, then one small section showing a stumble. One bad moment among many good ones. Simple cartoon style with clean lines."
     },
     {
       "sourceFile": "scenes-part6-outsource.json",
@@ -82,7 +82,7 @@
       "sourceFile": "scenes-part6-outsource.json",
       "sceneIndex": 20,
       "text": "Same surgeons.",
-      "prompt": "The same surgeon figures in scrubs shown before and after. No personnel changes. Simple cartoon style with clean lines."
+      "prompt": "Multiple surgeon figures in scrubs shown in before and after comparison. No personnel changes. Simple cartoon style with clean lines."
     },
     {
       "sourceFile": "scenes-part6-outsource.json",
