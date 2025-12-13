@@ -105,7 +105,7 @@ Boxer: "wearing boxing shorts, boxing gloves, mouthguard, muscular build, sweat 
 
 Runner: "wearing running tank top and shorts, running shoes, race number pinned to chest, determined expression"
 
-Elite Runner (Noah Lyles type): "muscular runner in athletic wear, confident powerful stance, focused intense expression"
+Elite Runner (Noah Lyles type): "muscular runner with flowing dreadlocks hairstyle, athletic wear"
 
 Tennis Player: "wearing athletic wear, holding tennis racket, athletic build, graceful confident posture"
 
