@@ -125,7 +125,7 @@ ARCHETYPES:
 
 Tibetan Monk: "wearing simple robes, shaved head, peaceful serene expression, calm meditative posture"
 
-The Brain (personified): "cartoon brain with small arms and legs, expressive face on the frontal lobe, can show various emotions"
+The Brain (personified): "A friendly anthropomorphic cartoon brain with a bumpy, cloud-like shape. It has simple stick arms, thin stick legs with small rounded feet, and an expressive cartoon face with clean, simple lines."
 
 Success Figure: "glowing outline, standing on podium or elevated position, trophy or achievement nearby, confident posture"
 
