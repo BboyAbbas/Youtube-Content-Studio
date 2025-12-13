@@ -63,6 +63,8 @@ Doctor: "wearing white lab coat, stethoscope around neck, clipboard in hand, gla
 
 Scientist: "wearing white lab coat, safety goggles on forehead, wild unkempt hair, excited curious expression"
 
+Harvard Researcher: "wearing glasses and lab coat over crimson Harvard sweater, holding clipboard or research papers, professional but approachable expression"
+
 Chef: "wearing white chef's hat (toque), white double-breasted jacket, apron, holding cooking utensil, confident smile"
 
 Construction Worker: "wearing yellow hard hat, orange safety vest, work boots, tool belt, strong build"
