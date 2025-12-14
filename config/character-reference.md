@@ -125,7 +125,7 @@ Influencer: "holding phone for selfie, ring light reflection in eyes, trendy clo
 
 ARCHETYPES:
 
-Tibetan Monk: "wearing simple robes, shaved head, peaceful serene expression, calm meditative posture"
+Tibetan Monk: "wearing a maroon and saffron yellow robes, shaved head, peaceful serene expression, calm meditative posture"
 
 The Brain (personified): "A friendly anthropomorphic cartoon brain with a bumpy, cloud-like shape. It has simple stick arms, thin stick legs with small rounded feet, and an expressive cartoon face with clean, simple lines."
 
