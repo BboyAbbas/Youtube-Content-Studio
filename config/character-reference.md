@@ -61,7 +61,7 @@ Sailor: "wearing white navy uniform with blue collar, sailor cap, anchor tattoo 
 
 Doctor: "wearing white lab coat, stethoscope around neck, clipboard in hand, glasses, caring professional expression"
 
-Scientist: "wearing white lab coat, safety goggles on forehead, wild unkempt hair, excited curious expression"
+Scientist: "A scientist character with wild, messy Einstein-style hair, wearing a lab coat and glasses or safety goggles, holding either a clipboard or a test tube."
 
 Harvard Researcher: "wearing glasses and lab coat over crimson Harvard sweater, holding clipboard or research papers, professional but approachable expression"
 
