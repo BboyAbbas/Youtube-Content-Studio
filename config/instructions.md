@@ -150,6 +150,36 @@ These rules ensure AI-generated images are consistent, accurate, and match your 
     - GOOD: "a green checkmark symbol"
     - Add color to symbols when the color carries meaning (green = correct, red = wrong)
 
+11. DESCRIBE VISUAL CONNECTIONS, NOT ACTIONS:
+    - BAD: "Brain scanning equipment creates images of brain activity. Scientists observe the data."
+    - GOOD: "They wear a cap with electrodes. A white line extends from the cap to the figure on the right."
+    - Show the physical visual link between elements, not abstract actions like "creates" or "observes"
+
+12. DEFINE GAUGE/METER COMPONENTS:
+    - BAD: "motivation meters showing the same level"
+    - GOOD: "semicircular dial with three colored segments: red on the left, yellow in the middle, and teal on the right. A gray needle points towards the teal segment"
+    - Specify shape (semicircular, vertical bar), color segments, needle position, and label formatting
+
+13. REMOVE EDITORIAL COMMENTARY:
+    - BAD: "The difference is microscopic." or "The trying is absent."
+    - GOOD: Just describe the visual elements without explaining what they mean
+    - Show, don't tell. Let the image speak for itself.
+
+14. REPLACE ABSTRACT VERBS WITH POSES:
+    - BAD: "Standing cartoon person shown transforming"
+    - GOOD: "cartoon person in a dramatic ascending pose: body arched gracefully backward, head tilted up toward the sky, arms relaxed and slightly outstretched to the sides, legs trailing below as if floating"
+    - Abstract verbs like "transforming", "evolving", "changing" must become specific body positions
+
+15. ADD VISUAL EFFECTS FOR EMOTIONAL IMPACT:
+    - BAD: "The person evolved to match the challenge"
+    - GOOD: "Sparkles and small glowing particles scatter around the figure in all directions"
+    - Use sparkles, glow, particles, motion lines to convey emotion and transformation
+
+16. SPECIFY TEXT FORMATTING:
+    - BAD: "the word 'MOTIVATION' below"
+    - GOOD: "the word 'MOTIVATION' is written in white, bold, sans-serif font within a gray rectangular box"
+    - Include font color, weight (bold), style, and container/background for text elements
+
 QUALITY CHECKLIST FOR EVERY PROMPT:
 □ Specific colors mentioned for all key elements
 □ Exact pose/position described (not just "standing" or "sitting")
@@ -159,6 +189,10 @@ QUALITY CHECKLIST FOR EVERY PROMPT:
 □ Shapes described (oval, square, circle) for containers
 □ Consistency requested when multiple similar elements appear
 □ Abstract concepts broken into concrete visual elements
+□ Visual connections shown (lines, arrows) not abstract actions
+□ No editorial commentary—show, don't tell
+□ Visual effects added for emotional moments (sparkles, glow, particles)
+□ Text formatting specified (font color, weight, container)
 
 ---
 
