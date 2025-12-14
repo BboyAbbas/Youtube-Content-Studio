@@ -94,6 +94,74 @@ FULL EXAMPLE OF CORRECT COLOR USAGE IN COMPARISON SCENE:
 "Split scene. Left side: five small battery icons each with 5 bars total and only 1 bar filled glowing red, five tiny flags labeled 'GOAL' above them. Right side: single large battery icon with 5 bars total and all 5 bars filled glowing green, one large flag labeled 'GOAL' above it. Simple cartoon style"
 → Red and green show depleted vs full power in direct comparison
 
+---
+
+PROMPT QUALITY GUIDELINES (Bad vs Good Prompting):
+
+These rules ensure AI-generated images are consistent, accurate, and match your vision:
+
+1. SPECIFY EXACT COLORS:
+   - BAD: "simple robes"
+   - GOOD: "maroon and saffron yellow robes"
+   - Never leave clothing, objects, or key elements with vague color descriptions
+
+2. DESCRIBE EXACT POSES AND BODY POSITIONS:
+   - BAD: "monk figure"
+   - GOOD: "monk figure seated in a classic meditation pose (cross-legged on the ground with hands resting on knees)"
+   - Include hand placement, leg position, and body orientation
+
+3. SPECIFY ELEMENT PLACEMENT IN FRAME:
+   - BAD: "with the word 'FOCUS' crossed out"
+   - GOOD: "The word 'FOCUS' appears above their head and is crossed out"
+   - Always state WHERE text, symbols, and objects appear (above, below, left, right, center)
+
+4. ALWAYS SPECIFY BACKGROUND:
+   - BAD: No background mentioned
+   - GOOD: "on a black background" or "on a white background"
+   - Never assume the AI will choose an appropriate background
+
+5. USE EXACT QUANTITIES AND SPATIAL ARRANGEMENT:
+   - BAD: "A timeline showing years of meditation"
+   - GOOD: "four monk figures arranged in a row, evenly spaced"
+   - Specify exact numbers and how elements are positioned relative to each other
+
+6. EXPLICITLY PLACE LABELS AND TEXT:
+   - BAD: "At the end, their nervous system glows"
+   - GOOD: "labeled '1 YEAR,' '5 YEARS,' and '10 YEARS' centered beneath each one"
+   - Describe exactly where text labels appear and their formatting
+
+7. DESCRIBE HOW ABSTRACT CONCEPTS ARE VISUALIZED:
+   - BAD: "nervous system diagram glows with transformation"
+   - GOOD: "the head is transparent, revealing a detailed illustration of a brain and nervous system glowing with a soft white light"
+   - Break down abstract ideas into concrete visual descriptions
+
+8. REQUEST CHARACTER CONSISTENCY EXPLICITLY:
+   - BAD: No mention of consistency
+   - GOOD: "consistent character design across all four figures"
+   - When multiple characters or repeated elements appear, explicitly request visual consistency
+
+9. DESCRIBE SHAPES CONTAINING TEXT:
+   - BAD: "An arrow from 'MOTIVATION' pointing toward 'REPETITION'"
+   - GOOD: "On the left, an oval shape contains the word 'MOTIVATION' in white, outlined text. A line extends from this oval..."
+   - Specify the shape (oval, rectangle, circle), its style (outlined, filled), and text formatting
+
+10. USE MEANINGFUL COLORS FOR SYMBOLS:
+    - BAD: "with a checkmark"
+    - GOOD: "a green checkmark symbol"
+    - Add color to symbols when the color carries meaning (green = correct, red = wrong)
+
+QUALITY CHECKLIST FOR EVERY PROMPT:
+□ Specific colors mentioned for all key elements
+□ Exact pose/position described (not just "standing" or "sitting")
+□ Background explicitly stated
+□ All text/labels have placement (above, below, beside)
+□ Quantities are exact numbers, not vague ("three" not "several")
+□ Shapes described (oval, square, circle) for containers
+□ Consistency requested when multiple similar elements appear
+□ Abstract concepts broken into concrete visual elements
+
+---
+
 Answer in JSON format:
 type Scene = {
   text: string;
