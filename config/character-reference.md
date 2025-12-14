@@ -109,7 +109,7 @@ Runner: "wearing running tank top and shorts, running shoes, race number pinned 
 
 Elite Runner (Noah Lyles type): "muscular runner with flowing dreadlocks hairstyle, athletic wear"
 
-Tennis Player: "wearing athletic wear, holding tennis racket, athletic build, graceful confident posture"
+Tennis Player: "wearing athletic wear, holding a yellow tennis racket, athletic build, graceful confident posture"
 
 Swimmer: "wearing swim cap and goggles on forehead, swimsuit, muscular shoulders, water droplets on skin"
 
