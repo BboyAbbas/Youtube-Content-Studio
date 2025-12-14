@@ -175,11 +175,6 @@ These rules ensure AI-generated images are consistent, accurate, and match your 
     - GOOD: "Sparkles and small glowing particles scatter around the figure in all directions"
     - Use sparkles, glow, particles, motion lines to convey emotion and transformation
 
-16. SPECIFY TEXT FORMATTING:
-    - BAD: "the word 'MOTIVATION' below"
-    - GOOD: "the word 'MOTIVATION' is written in white, bold, sans-serif font within a gray rectangular box"
-    - Include font color, weight (bold), style, and container/background for text elements
-
 QUALITY CHECKLIST FOR EVERY PROMPT:
 □ Specific colors mentioned for all key elements
 □ Exact pose/position described (not just "standing" or "sitting")
@@ -192,7 +187,6 @@ QUALITY CHECKLIST FOR EVERY PROMPT:
 □ Visual connections shown (lines, arrows) not abstract actions
 □ No editorial commentary—show, don't tell
 □ Visual effects added for emotional moments (sparkles, glow, particles)
-□ Text formatting specified (font color, weight, container)
 
 ---
 

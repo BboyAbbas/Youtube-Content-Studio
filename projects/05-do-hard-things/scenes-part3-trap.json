@@ -3,31 +3,31 @@
   "scenes": [
     {
       "text": "We're in Mexico.",
-      "prompt": "On a light blue sky background, a Mexican beach scene. Golden sand stretches across the bottom of the frame. Three palm trees with green fronds stand on the left side. Turquoise ocean water visible on the right. The sun is positioned in the upper right corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a Mexican beach scene. Sand stretches across the bottom of the frame. Three palm trees stand on the left side. Ocean water visible on the right. A sun is positioned in the upper right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "It's 1519.",
-      "prompt": "On a black background, a large aged parchment scroll unfurled horizontally across the center of the frame. The number '1519' is written in bold old-fashioned serif lettering in dark brown ink, centered on the scroll. The scroll edges are slightly curled and weathered. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a large aged parchment scroll unfurled horizontally across the center of the frame. The number '1519' is written in bold old-fashioned serif lettering, centered on the scroll. The scroll edges are slightly curled and weathered. Simple cartoon style with clean lines."
     },
     {
       "text": "The ships are on fire.",
-      "prompt": "On a dark gray smoky background, five wooden sailing ships with tall masts arranged in a row along a shoreline, each engulfed in bright orange and yellow flames. Thick black smoke rises from each ship toward the top of the frame. The ships sit in shallow turquoise water with golden sand visible at the bottom edge. Simple cartoon style with clean lines."
+      "prompt": "On a black background, five wooden sailing ships with tall masts arranged in a row along a shoreline, each engulfed in flames. Thick smoke rises from each ship toward the top of the frame. The ships sit in shallow water with sand visible at the bottom edge. Simple cartoon style with clean lines."
     },
     {
       "text": "Cortés's men are watching their only way home turn into smoke.",
-      "prompt": "On a smoky gray background, five conquistador soldiers in the foreground, arranged in a row facing away from the viewer toward the right side of the frame. Each soldier wears a morion helmet (tall with curved brim), metal chest armor, and holds a sword at their side. Their heads are tilted upward, watching. In the background on the right, silhouettes of burning wooden ships with orange flames and black smoke rising. Simple cartoon style with clean lines, consistent soldier design across all five figures."
+      "prompt": "On a black background, five conquistador soldiers in the foreground, arranged in a row facing away from the viewer toward the right side of the frame. Each soldier wears a morion helmet (tall with curved brim), metal chest armor, and holds a sword at their side. Their heads are tilted upward, watching. In the background on the right, silhouettes of burning wooden ships with flames and smoke rising. Simple cartoon style with clean lines, consistent soldier design across all five figures."
     },
     {
       "text": "Why?",
-      "prompt": "On a black background, the text 'WHY?' in large bold white letters centered in the frame. The question mark is extra large, taking up half the height of the frame. Simple cartoon style with clean lines."
+      "prompt": "On a black background, the text 'WHY?' in large bold sans-serif letters centered in the frame. The question mark is extra large, taking up half the height of the frame. Simple cartoon style with clean lines."
     },
     {
       "text": "Because Cortés understood something about the human brain.",
-      "prompt": "On a black background, Hernán Cortés on the left side of the frame, wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, right hand tapping his temple with index finger, confident knowing smirk on his face. On the right side, a cartoon brain with small stick arms and stick legs, two wide dot eyes and an open surprised mouth on the frontal lobe, floating with arms raised in shock at being understood. Simple cartoon style with clean lines."
+      "prompt": "On a black background, Hernán Cortés on the left side of the frame, wearing a morion helmet with plume, full beard, metal armor with shoulder plates and arm guards, right hand tapping his temple with index finger, confident knowing smirk on his face. On the right side, a cartoon brain with small stick arms and stick legs, two wide dot eyes and an open surprised mouth on the frontal lobe, floating with both arms raised in shock. Simple cartoon style with clean lines."
     },
     {
       "text": "When retreat is an option, your brain will negotiate.",
-      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two narrowed scheming dot eyes and a sly grin on the frontal lobe, seated at a rectangular negotiation table in the center of the frame. Papers and documents are spread on the table. Behind the brain in the upper right corner, a glowing green 'EXIT' door with light emanating from around its frame. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two narrowed scheming dot eyes and a sly grin on the frontal lobe, seated at a rectangular negotiation table in the center of the frame. Papers and documents are spread on the table. Behind the brain in the upper right corner, a glowing 'EXIT' door with light emanating from around its frame. Simple cartoon style with clean lines."
     },
     {
       "text": "It will bargain.",
@@ -35,19 +35,19 @@
     },
     {
       "text": "It will find excuses.",
-      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two sneaky dot eyes and a mischievous grin on the frontal lobe, standing beside a gray metal filing cabinet on the right side of the frame. The brain's right arm reaches into an open drawer, pulling out white papers. Papers scattered on the floor around the brain are labeled 'TOO TIRED', 'NOT READY', and 'TOMORROW' in black text. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two sneaky dot eyes and a mischievous grin on the frontal lobe, standing beside a metal filing cabinet on the right side of the frame. The brain's right arm reaches into an open drawer, pulling out papers. Papers scattered on the floor around the brain are labeled 'TOO TIRED', 'NOT READY', and 'TOMORROW'. Simple cartoon style with clean lines."
     },
     {
       "text": "\"Maybe tomorrow.\"",
-      "prompt": "On a black background, a white oval speech bubble centered in the frame containing the text 'Maybe tomorrow...' in gray italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
+      "prompt": "On a black background, an oval speech bubble centered in the frame containing the text 'Maybe tomorrow...' in italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
     },
     {
       "text": "\"Just this once.\"",
-      "prompt": "On a black background, a white oval speech bubble centered in the frame containing the text 'Just this once...' in gray italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
+      "prompt": "On a black background, an oval speech bubble centered in the frame containing the text 'Just this once...' in italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
     },
     {
       "text": "\"I'll do it twice next week.\"",
-      "prompt": "On a black background, a white oval speech bubble centered in the frame containing the text 'I'll do it twice next week...' in gray italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
+      "prompt": "On a black background, an oval speech bubble centered in the frame containing the text 'I'll do it twice next week...' in italicized text. The bubble has a faded, weak outline. Small ellipsis dots trail off at the end. Simple cartoon style with clean lines."
     },
     {
       "text": "Sound familiar?",
@@ -63,75 +63,75 @@
     },
     {
       "text": "But when retreat isn't an option?",
-      "prompt": "On a black background, a gray rectangular door centered in the frame with the word 'EXIT' on a sign above it. Three heavy gray chains stretch horizontally across the door. A large silver padlock hangs at the center where the chains meet. The door is completely blocked and impassable. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a rectangular door centered in the frame with the word 'EXIT' on a sign above it. Three heavy chains stretch horizontally across the door. A large padlock hangs at the center where the chains meet. The door is completely blocked and impassable. Simple cartoon style with clean lines."
     },
     {
       "text": "Your brain stops negotiating.",
-      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two focused determined dot eyes and a straight closed mouth on the frontal lobe, centered in the frame with arms crossed. In the lower left corner, a negotiation table being pushed off-frame with motion lines. The brain no longer engages with bargaining. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two focused determined dot eyes and a straight closed mouth on the frontal lobe, centered in the frame with arms crossed over chest. In the lower left corner, a negotiation table tilted at angle, half off-frame with motion lines trailing behind it. Simple cartoon style with clean lines."
     },
     {
       "text": "It starts problem-solving instead.",
-      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two focused dot eyes and a determined smile on the frontal lobe, wearing gray safety goggles pushed up on the forehead. The brain leans over a white blueprint spread on a table in front of it, holding a pencil in its right hand. Above the brain, three interlocking gray gears turn with small motion lines. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two focused dot eyes and a determined smile on the frontal lobe, wearing safety goggles pushed up on the forehead. The brain leans over a blueprint spread on a table in front of it, holding a pencil in its right hand. Above the brain, three interlocking gears turn with small motion lines. Simple cartoon style with clean lines."
     },
     {
       "text": "No Plan B means Plan A actually works.",
-      "prompt": "Split scene on a black background. Left side: the text 'PLAN B' in gray letters with a large white X crossing through it diagonally. Right side: the text 'PLAN A' in white letters glowing with a soft white aura, a green checkmark above it, and small sparkle stars around it. A vertical white line divides the two sides. Simple cartoon style with clean lines."
+      "prompt": "Split scene on a black background. Left side: the text 'PLAN B' in sans-serif letters with a large X crossing through it diagonally. Right side: the text 'PLAN A' in bold sans-serif letters glowing with a soft aura, a checkmark above it, and five small sparkle stars around it. A vertical line divides the two sides. Simple cartoon style with clean lines."
     },
     {
       "text": "That's not motivation.",
-      "prompt": "On a black background, a rectangular motivational poster in the center of the frame showing the word 'MOTIVATION' in bold text. The poster is crumbling and breaking apart, pieces fragmenting and floating away toward the edges of the frame. Cracks run through the poster. The word fades as pieces dissolve. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a rectangular motivational poster in the center of the frame showing the word 'MOTIVATION' in bold text. The poster is crumbling and breaking apart, eight pieces fragmenting and floating away toward the edges of the frame. Three jagged cracks run through the poster. The letters at the edges are fading. Simple cartoon style with clean lines."
     },
     {
       "text": "That's design.",
-      "prompt": "On a dark blue background, a white blueprint drawing centered in the frame showing precise geometric lines, measurements, and technical notations. The word 'DESIGN' appears in bold engineering-style font at the bottom center in white. A compass and ruler icon appear in the corners. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a blueprint drawing centered in the frame showing precise geometric lines, measurement arrows, and technical notations. The word 'DESIGN' appears in bold engineering-style stencil font at the bottom center with a soft glow. A compass icon in the lower left corner and a ruler icon in the lower right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "The behavioral scientists have a name for this.",
-      "prompt": "On a black background, a scientist on the right side of the frame wearing a white lab coat, round glasses, holding a clipboard in left hand. Right arm extended with index finger pointing to a green chalkboard on the left side of the frame. The chalkboard shows a blank label placeholder. The scientist has an explaining expression with mouth slightly open. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a scientist on the right side of the frame wearing a lab coat, round glasses, holding a clipboard in left hand. Right arm extended with index finger pointing to a chalkboard on the left side of the frame. The chalkboard shows a blank label placeholder. The scientist has an explaining expression with mouth slightly open. Simple cartoon style with clean lines."
     },
     {
       "text": "They call them forcing functions.",
-      "prompt": "On a black background, a green rectangular chalkboard centered in the frame with a wooden frame border. The text 'FORCING FUNCTIONS' is written in large white chalk letters across the center of the board. An underline beneath the text emphasizes its importance. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a rectangular chalkboard centered in the frame with a wooden frame border. The text 'FORCING FUNCTIONS' is written in large chalk letters with chalk texture across the center of the board. A chalk underline beneath the text. Small chalk dust particles float near the bottom of the board. Simple cartoon style with clean lines."
     },
     {
       "text": "Fancy words for a simple idea: create constraints that corner you into growth.",
-      "prompt": "On a black background, a standing cartoon person in the lower right corner of the frame, body positioned in a corner formed by two walls. The left wall is labeled 'CONSTRAINT' in white text, the back wall is also labeled 'CONSTRAINT' in white text. The person looks upward with a determined expression. A large white upward arrow extends from above the person toward the top of the frame, labeled 'GROWTH' in white text. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person in the lower right corner of the frame, body positioned in a corner formed by two walls. The left wall is labeled 'CONSTRAINT', the back wall is also labeled 'CONSTRAINT'. The person looks upward with a determined expression. A large upward arrow extends from above the person toward the top of the frame, labeled 'GROWTH'. Simple cartoon style with clean lines."
     },
     {
       "text": "Here are four forcing functions you can set for yourself.",
-      "prompt": "On a black background, four white outlined rectangular boxes arranged in a horizontal row across the center of the frame, evenly spaced. Each box has a number inside: '1', '2', '3', '4' from left to right in white text. A cartoon hand with index finger extended points at the boxes from the lower left corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, four outlined rectangular boxes arranged in a horizontal row across the center of the frame, evenly spaced. Each box has a number inside: '1', '2', '3', '4' from left to right in bold text. A cartoon hand with index finger extended points at the boxes from the lower left corner. Simple cartoon style with clean lines."
     },
     {
       "text": "First, public commitment.",
-      "prompt": "On a black background, a standing cartoon person on the left side of the frame, standing behind a gray podium with a megaphone held to their mouth, speaking outward. On the right side, a crowd of five simplified listener figures arranged in a semi-circle, all facing the speaker. The number '1' in large white text floats in the upper right corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side of the frame, standing behind a podium with a megaphone held to their mouth, speaking outward. On the right side, a crowd of five simplified listener figures arranged in a semi-circle, all facing the speaker. The number '1' in large text floats in the upper right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "Tell people what you're going to do.",
-      "prompt": "On a black background, a standing cartoon person on the left side of the frame, mouth open speaking, gesturing with both hands. On the right side, three listener figures stand in a row facing the speaker, attentive expressions. Two speech bubbles extend from the speaker containing 'I WILL...' and 'MY GOAL IS...' in white text. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side of the frame, mouth open speaking, gesturing with both hands. On the right side, three listener figures stand in a row facing the speaker, attentive expressions. Two speech bubbles extend from the speaker containing 'I WILL...' and 'MY GOAL IS...'. Simple cartoon style with clean lines."
     },
     {
       "text": "Announce it.",
-      "prompt": "On a black background, a standing cartoon person centered in the frame, hands cupped around mouth in a shouting gesture, mouth wide open. White curved sound wave lines radiate outward from the person in all directions—up, down, left, and right—spreading to the edges of the frame. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person centered in the frame, hands cupped around mouth in a shouting gesture, mouth wide open. Curved sound wave lines radiate outward from the person in all directions—up, down, left, and right—spreading to the edges of the frame. Simple cartoon style with clean lines."
     },
     {
       "text": "Social pressure is one of the oldest motivators on Earth.",
-      "prompt": "On a black background, a simple white outlined globe centered in the frame showing continental outlines. Surrounding the globe in a circle, eight cartoon eyes with eyebrows, evenly spaced, all looking inward toward the globe. Small white arrows point from each eye toward the globe, indicating inward pressure. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a simple outlined globe centered in the frame showing continental outlines. Surrounding the globe in a circle, eight cartoon eyes with eyebrows, evenly spaced, all looking inward toward the globe. Small arrows point from each eye toward the globe, indicating inward pressure. Simple cartoon style with clean lines."
     },
     {
       "text": "Your brain hates looking stupid more than it hates hard work.",
-      "prompt": "Split scene on a black background. Left side: a cartoon brain with small stick arms and stick legs, two wide embarrassed dot eyes and a grimacing mouth on the frontal lobe, sweating profusely with droplets flying off, while three pointing hands and laughing faces surround it. Right side: the same cartoon brain lifting a heavy barbell with only mild discomfort, small effort lines, a slightly strained but manageable expression. The left side shows much more distress than the right. A vertical white line divides the two sides. Simple cartoon style with clean lines, consistent brain design on both sides."
+      "prompt": "Split scene on a black background. Left side: a cartoon brain with small stick arms and stick legs, two wide embarrassed dot eyes and a grimacing mouth on the frontal lobe, sweating profusely with six droplets flying off, three pointing hands and three laughing faces surrounding it. Right side: the same cartoon brain lifting a barbell overhead, two small effort lines near arms, slightly furrowed brow expression. A vertical line divides the two sides. Simple cartoon style with clean lines, consistent brain design on both sides."
     },
     {
       "text": "Second, financial stakes.",
-      "prompt": "On a black background, a brown leather wallet in the center of the frame, slightly open with green dollar bills visible inside. The number '2' in large white text floats in the upper right corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a leather wallet in the center of the frame, slightly open with dollar bills visible inside. The number '2' in large text floats in the upper right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "Pay before you feel ready.",
-      "prompt": "On a black background, a standing cartoon person on the left side of the frame, right arm extended holding green dollar bills, face showing an uncertain nervous expression with furrowed brow and slightly open mouth. On the right side, a hand reaches in from the frame edge, receiving the money while extending a white receipt or enrollment form back toward the person. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side of the frame, right arm extended holding dollar bills, face showing an uncertain nervous expression with furrowed brow and slightly open mouth. On the right side, a hand reaches in from the frame edge, receiving the money while extending a receipt or enrollment form back toward the person. Simple cartoon style with clean lines."
     },
     {
       "text": "The gym membership.",
-      "prompt": "On a black background, a rectangular gym membership card centered in the frame. The card shows 'GYM MEMBERSHIP' in bold text at the top, with a dumbbell icon in the center. A white price tag hangs from the corner of the card showing '$$$'. A soft white glow surrounds the card. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a rectangular gym membership card centered in the frame. The card shows 'GYM MEMBERSHIP' in bold text at the top, with a dumbbell icon in the center. A price tag hangs from the corner of the card showing '$$$'. A soft glow surrounds the card. Simple cartoon style with clean lines."
     },
     {
       "text": "The course.",
@@ -143,23 +143,23 @@
     },
     {
       "text": "When your wallet is invested, your brain follows.",
-      "prompt": "On a black background, a brown leather wallet on the left side of the frame with green dollar bills inside. A white arrow extends from the wallet pointing right toward a cartoon brain with small stick arms and stick legs, two attentive dot eyes and a focused expression on the frontal lobe, on the right side. The brain's body is oriented toward the wallet, following its lead. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a leather wallet on the left side of the frame with dollar bills inside. An arrow extends from the wallet pointing right toward a cartoon brain with small stick arms and stick legs, two attentive dot eyes and a focused expression on the frontal lobe, on the right side. The brain's body is oriented toward the wallet, following its lead. Simple cartoon style with clean lines."
     },
     {
       "text": "That's why Cortés's army fought so hard.",
-      "prompt": "On a black background, five conquistador soldiers arranged in a V-formation charging forward toward the right side of the frame. Each soldier wears a morion helmet (tall with curved brim), metal chest armor, holds a raised sword in right hand. Determined fierce expressions on all faces. Motion lines trail behind them indicating rapid forward movement. Simple cartoon style with clean lines, consistent soldier design across all five figures."
+      "prompt": "On a black background, five conquistador soldiers arranged in a V-formation with lead soldier at center front, charging forward toward the right side of the frame. Each soldier wears a morion helmet with tall crown and curved brim, metal chest armor with shoulder plates, holds a raised sword in right hand. Determined fierce expressions with furrowed brows and gritted teeth on all faces. Three motion lines trail behind each soldier. Simple cartoon style with clean lines, consistent soldier design across all five figures."
     },
     {
       "text": "They'd already paid.",
-      "prompt": "On a black background, three conquistador soldier silhouettes in the foreground, marching forward toward the left side of the frame, wearing morion helmets, carrying swords. In the background on the right, three burning wooden ship silhouettes with orange flames and black smoke rising upward. The ships represent their payment, now consumed. Simple cartoon style with clean lines."
+      "prompt": "On a black background, three conquistador soldier silhouettes in the foreground on the left, marching forward toward the right side of the frame, wearing morion helmets, carrying swords raised. In the background on the right, three burning wooden ship silhouettes with flames and smoke rising upward toward the top of the frame. Simple cartoon style with clean lines."
     },
     {
       "text": "In ships.",
-      "prompt": "On a black background, a simple equation arranged horizontally across the center of the frame. On the left, a wooden sailing ship icon with mast and sails. In the center, a white equals sign. On the right, a white price tag icon with a dollar symbol inside. Ships were their currency of commitment. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a simple equation arranged horizontally across the center of the frame. On the left, a wooden sailing ship icon with tall mast and three sails. In the center, a large equals sign. On the right, a price tag icon with a dollar symbol inside. Simple cartoon style with clean lines."
     },
     {
       "text": "Third, cut the access.",
-      "prompt": "On a black background, a pair of gray scissors in the center of the frame, blades open, cutting through a bundle of cables or cords. The cut cables show exposed ends on either side of the scissors. The number '3' in large white text floats in the upper right corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pair of scissors in the center of the frame, blades open, cutting through a bundle of cables or cords. The cut cables show exposed ends on either side of the scissors. The number '3' in large text floats in the upper right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "Delete the app.",
@@ -175,11 +175,11 @@
     },
     {
       "text": "Your brain can't negotiate with something that doesn't exist.",
-      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two confused dot eyes and a puzzled frown on the frontal lobe, on the left side of the frame, arms stretched out reaching toward the right. The right side of the frame is completely empty—just black space. Three white question marks float above the brain's head. Nothing to negotiate with. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon brain with small stick arms and stick legs, two confused dot eyes and a puzzled frown on the frontal lobe, on the left side of the frame, both arms stretched out reaching toward the right. The right side of the frame is completely empty black space. Three question marks of decreasing size float above the brain's head. Simple cartoon style with clean lines."
     },
     {
       "text": "Fourth, time box.",
-      "prompt": "On a black background, a white outlined rectangular box centered in the frame. Inside the box, a circular analog clock face with hour and minute hands. The box contains and constrains the clock. The number '4' in large white text floats in the upper right corner. Simple cartoon style with clean lines."
+      "prompt": "On a black background, an outlined rectangular box centered in the frame. Inside the box, a circular analog clock face with hour and minute hands. The box contains and constrains the clock. The number '4' in large text floats in the upper right corner. Simple cartoon style with clean lines."
     },
     {
       "text": "Give the task a hard window.",
@@ -187,15 +187,15 @@
     },
     {
       "text": "90 minutes.",
-      "prompt": "On a black background, a large digital timer display centered in the frame showing '90:00' in bold white glowing digits. The display has a rectangular border around it. The countdown is set and ready to begin. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a large digital timer display centered in the frame showing '90:00' in bold glowing digits. The display has a rectangular border around it. The countdown is set and ready to begin. Simple cartoon style with clean lines."
     },
     {
       "text": "Ship something at the end of it.",
-      "prompt": "On a black background, a horizontal conveyor belt stretches across the bottom of the frame from left to right. On the conveyor belt, a white box labeled 'DELIVERABLE' moves toward the right edge with motion lines. At the end of the conveyor on the right, an 'EXIT' sign. In the upper corner, a clock showing '00:00' indicating time has expired. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a horizontal conveyor belt stretches across the bottom of the frame from left to right. On the conveyor belt, a box labeled 'DELIVERABLE' moves toward the right edge with motion lines. At the end of the conveyor on the right, an 'EXIT' sign. In the upper corner, a clock showing '00:00' indicating time has expired. Simple cartoon style with clean lines."
     },
     {
       "text": "No extensions.",
-      "prompt": "On a black background, a calendar centered in the frame with a deadline date circled. A curved arrow attempts to push the deadline further right, but a large white X blocks the arrow's path. The word 'EXTENSION' appears above the blocked arrow, crossed out. No movement allowed. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a calendar centered in the frame with a deadline date circled. A curved arrow attempts to push the deadline further right, but a large X blocks the arrow's path. The word 'EXTENSION' appears above the blocked arrow, crossed out. No movement allowed. Simple cartoon style with clean lines."
     },
     {
       "text": "No negotiations.",
@@ -207,11 +207,11 @@
     },
     {
       "text": "That's exactly why they do.",
-      "prompt": "On a black background, four rectangular boxes arranged in a horizontal row across the center of the frame, labeled '1', '2', '3', '4'. Each box glows with a soft white aura. Above each box, a green checkmark floats. The boxes radiate power and effectiveness. Simple cartoon style with clean lines."
+      "prompt": "On a black background, four rectangular boxes arranged in a horizontal row across the center of the frame, labeled '1', '2', '3', '4'. Each box glows with a soft aura. Above each box, a checkmark floats. The boxes radiate power and effectiveness. Simple cartoon style with clean lines."
     },
     {
       "text": "Simple systems are the hardest to break.",
-      "prompt": "Split scene on a black background. Left side: a simple chain made of basic circular links, intact and holding strong, labeled 'SIMPLE' below. Right side: an ornate complex chain with decorative fancy links, breaking apart with pieces scattering, labeled 'COMPLEX' below. A vertical white line divides the two sides. Simplicity wins. Simple cartoon style with clean lines."
+      "prompt": "Split scene on a black background. Left side: a simple chain made of five basic circular links, intact and taut, label 'SIMPLE' in bold text below. Right side: an ornate chain with decorative fancy links, breaking apart at center with three pieces scattering outward, label 'COMPLEX' in bold text below. A vertical line divides the two sides. Simple cartoon style with clean lines."
     },
     {
       "text": "But wait.",
@@ -219,7 +219,7 @@
     },
     {
       "text": "There's a problem.",
-      "prompt": "On a black background, a large yellow warning triangle centered in the frame with a white exclamation point inside it. The triangle has a bold black border. The warning demands attention. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a large warning triangle centered in the frame with an exclamation point inside it. The triangle has a bold border. A soft glow radiates outward from the triangle edges. Simple cartoon style with clean lines."
     },
     {
       "text": "You'll try these and fail anyway.",
@@ -227,23 +227,23 @@
     },
     {
       "text": "Why?",
-      "prompt": "On a black background, the text 'WHY?' in large bold white letters centered in the frame. The question mark is prominent and attention-grabbing. Simple cartoon style with clean lines."
+      "prompt": "On a black background, the text 'WHY?' in large bold sans-serif letters centered in the frame. The question mark is extra large with a soft glow around it. Simple cartoon style with clean lines."
     },
     {
       "text": "Willpower.",
-      "prompt": "On a black background, the word 'WILLPOWER' in large bold white letters centered in the frame. A jagged crack runs vertically through the middle of the word, splitting it. Small fragments break off from the crack edges. The word looks unstable and about to shatter. Simple cartoon style with clean lines."
+      "prompt": "On a black background, the word 'WILLPOWER' in large bold sans-serif letters centered in the frame. A jagged crack runs vertically through the middle of the word, splitting it into two halves. Five small fragments float away from the crack edges. Thin hairline cracks spider outward from the main crack. Simple cartoon style with clean lines."
     },
     {
       "text": "You don't have enough of it.",
-      "prompt": "On a black background, a large vertical battery meter centered in the frame. The battery outline is white with five segment bars inside. Only the bottom segment is filled, glowing red to indicate critically low. The label 'WILLPOWER' appears in white text to the left of the battery. The meter shows near-empty depletion. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a large vertical battery meter centered in the frame. The battery outline with five horizontal segment bars inside. The bottom segment is filled and glowing, the four segments above are empty outlines. The label 'WILLPOWER' appears in bold text to the left of the battery. Simple cartoon style with clean lines."
     },
     {
       "text": "Nobody does.",
-      "prompt": "On a black background, five standing cartoon people arranged in a horizontal row across the center of the frame, evenly spaced. Above each person's head, a small vertical battery meter labeled 'WILLPOWER' with only the bottom segment filled, glowing red. All five batteries show the same near-empty level. Everyone is equally depleted. Simple cartoon style with clean lines, consistent character and battery design across all five figures."
+      "prompt": "On a black background, five standing cartoon people arranged in a horizontal row across the center of the frame, evenly spaced. Above each person's head, a small vertical battery meter with outline and five segment bars, only the bottom segment filled and glowing, four segments above empty. Label 'WILLPOWER' in small text beside each battery. Simple cartoon style with clean lines, consistent character and battery design across all five figures."
     },
     {
       "text": "Here's why.",
-      "prompt": "On a black background, a standing cartoon person centered in the frame, leaning slightly forward with a knowing expression, one eyebrow raised, slight smirk. Right hand raised with index finger pointing forward toward the viewer. The person has insider knowledge to share. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person centered in the frame, leaning slightly forward, one eyebrow raised, slight smirk on face. Right hand raised with index finger pointing forward toward the viewer. Simple cartoon style with clean lines."
     }
   ]
 }
