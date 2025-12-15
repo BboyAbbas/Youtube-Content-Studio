@@ -79,7 +79,7 @@
     },
     {
       "text": "He's not fighting his biology.",
-      "prompt": "The muscular runner in athletic wear and a cartoon brain with small arms and legs, expressive face on the frontal lobe, standing side by side facing the viewer. The runner has one arm around the brain in a friendly gesture, both smiling. Behind them, a boxing ring icon with a large X drawn through it. Black background. Simple cartoon style with clean lines."
+      "prompt": "Inside a large prohibition circle (circle with diagonal line through it): On the left, the muscular runner in athletic wear stands in a fighting stance - feet shoulder-width apart, knees slightly bent, torso leaning forward aggressively, both fists raised to chin level with elbows tucked in, head tilted down with eyes glaring upward, jaw clenched, intense scowl. On the right, a cartoon brain with small arms and legs, expressive face on the frontal lobe, mirrors the stance - tiny feet spread apart, small fists raised near its frontal lobe, angry furrowed brow, gritted teeth, leaning toward the runner. Their foreheads almost touch. The prohibition circle and diagonal line cross over the entire confrontation. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "He's using it.",
@@ -91,7 +91,7 @@
     },
     {
       "text": "Those routines give him that edge.",
-      "prompt": "The muscular runner in athletic wear crossing the finish line just barely ahead of another runner. His routines visualized as gears powering him forward. Simple cartoon style with clean lines."
+      "prompt": "The muscular runner in athletic wear crossing the finish line with his chest breaking through a ribbon. Interlocking gears float behind him, connected by lines to his body, representing his routines powering him forward. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Why wouldn't you use the same logic?",
@@ -103,92 +103,7 @@
     },
     {
       "text": "He took students trying to exercise over Christmas break and divided them into two groups.",
-      "prompt": {
-        "meta": {
-          "image_quality": "High",
-          "image_type": "Illustration"
-        },
-        "global_context": {
-          "scene_description": "Minimalist cartoon illustration of six standing cartoon people divided into two groups of three by a thick white vertical line. Each person wears workout clothes. A Christmas tree with a star on top stands centered in the background behind the dividing line. Clean white line art on a black background.",
-          "weather_atmosphere": "Neutral, study-like"
-        },
-        "color_palette": {
-          "dominant_hex_estimates": ["#000000", "#FFFFFF", "#2E7D32"],
-          "contrast_level": "High"
-        },
-        "composition": {
-          "camera_angle": "Eye-level",
-          "framing": "Medium-shot",
-          "focal_point": "The vertical dividing line separating the two groups",
-          "subject_placement": "Center"
-        },
-        "objects": [
-          {
-            "label": "Left group of students",
-            "category": "Characters",
-            "location": "Left side of frame",
-            "visual_attributes": {
-              "texture": "Clean white outlines",
-              "state": "Standing casually"
-            },
-            "micro_details": [
-              "Three standing cartoon people",
-              "Each wearing t-shirt and shorts (workout clothes)",
-              "Standing close together as a unified group",
-              "Arms relaxed at sides"
-            ],
-            "pose_or_orientation": "Facing viewer"
-          },
-          {
-            "label": "Right group of students",
-            "category": "Characters",
-            "location": "Right side of frame",
-            "visual_attributes": {
-              "texture": "Clean white outlines",
-              "state": "Standing casually"
-            },
-            "micro_details": [
-              "Three standing cartoon people",
-              "Each wearing t-shirt and shorts (workout clothes)",
-              "Standing close together as a unified group",
-              "Arms relaxed at sides"
-            ],
-            "pose_or_orientation": "Facing viewer"
-          },
-          {
-            "label": "Dividing line",
-            "category": "Visual element",
-            "location": "Center of frame, vertical",
-            "visual_attributes": {
-              "texture": "Solid thick line",
-              "color": "White"
-            },
-            "micro_details": [
-              "Runs from top to bottom of frame",
-              "Clearly separates the two groups",
-              "Approximately 4-5px thick"
-            ]
-          },
-          {
-            "label": "Christmas tree",
-            "category": "Object",
-            "location": "Background center, behind the dividing line",
-            "visual_attributes": {
-              "texture": "Clean white outlines with green fill",
-              "state": "Decorated"
-            },
-            "micro_details": [
-              "Traditional triangular Christmas tree shape",
-              "Star on top",
-              "Smaller than the human figures (background scale)"
-            ]
-          }
-        ],
-        "text_ocr": {
-          "present": false,
-          "content": []
-        }
-      }
+      "prompt": "Six standing cartoon people arranged in two groups of three, separated by a thick white vertical line in the center. Left group stands together on the left side, right group stands together on the right side. Each person wears workout clothes (t-shirt and shorts). A Christmas tree with a star on top stands behind the left group. An identical Christmas tree with a star on top stands behind the right group. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "First group got goal-setting advice.",
@@ -248,7 +163,7 @@
     },
     {
       "text": "Wildly different results.",
-      "prompt": "Split scene. Left side glowing red: standing cartoon person slumped over with head down and arms hanging limp, '62% FAIL' above them. Right side glowing green: standing cartoon person with both arms raised high above head in victory pose, '91% SUCCESS' above them. Black background. Simple cartoon style with clean lines."
+      "prompt": "Split scene with thick white vertical line in center. Left side: standing cartoon person lying on a couch, remote control in hand, an empty workout calendar with X marks on the wall behind them, '62% FAIL' in red text above. Right side: standing cartoon person in workout clothes doing a bicep curl with a dumbbell, a workout calendar filled with green checkmarks on the wall behind them, '91% SUCCESS' in green text above. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Why?",
@@ -305,6 +220,14 @@
     {
       "text": "If it's Sunday night, you plan for the next week.",
       "prompt": "Left side: a calendar page with 'SUNDAY' circled and a moon icon indicating night. An arrow points from it to the right side: a standing cartoon person seated at a desk, pen in hand, writing in an open planner labeled 'NEXT WEEK'. Black background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "No debate.",
+      "prompt": "A gavel slamming down on the word 'DEBATE'. Motion lines show impact. Black background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "If this video helped, then hit subscribe.",
+      "prompt": "The muscular runner in athletic wear pointing with one finger at a large subscribe button beside him. The button shows the word 'SUBSCRIBE'. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "No debate.",

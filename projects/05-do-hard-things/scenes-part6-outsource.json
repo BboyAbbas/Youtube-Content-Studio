@@ -3,31 +3,31 @@
   "scenes": [
     {
       "text": "Atul Gawande is a famous surgeon.",
-      "prompt": "On a black background, a surgeon in scrubs standing confidently with arms crossed over chest, centered in the frame. A nameplate below shows 'ATUL GAWANDE'. Two diploma icons float on either side of the surgeon. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, standing with arms crossed over chest, chin slightly raised. A nameplate below shows 'ATUL GAWANDE'. Two diploma icons float on either side. Simple cartoon style with clean lines."
     },
     {
       "text": "He was curious about something disturbing.",
-      "prompt": "On a black background, the surgeon in scrubs centered in the frame with one eyebrow raised and furrowed brow. Right hand holds a magnifying glass up to a document. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, leaning forward slightly with one eyebrow raised and furrowed brow. Right hand holds a magnifying glass up to a document in left hand. Simple cartoon style with clean lines."
     },
     {
       "text": "World-class surgeons were making preventable mistakes.",
-      "prompt": "On a black background, three surgeons in scrubs arranged in a row across the center. Above each surgeon's head, a warning triangle with exclamation point. Below each, a diploma icon. Simple cartoon style with clean lines, consistent surgeon design across all three figures."
+      "prompt": "On a black background, three surgeons wearing surgical scrubs, surgical caps, face masks pulled down around necks, arranged in a horizontal row across the center, each standing with arms at sides. Above each surgeon's head, a warning triangle with exclamation point. Below each, a diploma icon. Simple cartoon style with clean lines, consistent surgeon design across all three figures."
     },
     {
       "text": "Mistakes they knew better than to make.",
-      "prompt": "On a black background, a surgeon in scrubs centered in the frame. A thought bubble above their head shows a checkmark. Their hands below hold surgical tools at wrong angles with an X beside them. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, centered in the frame. A thought bubble above their head shows a checkmark. Their hands below hold a scalpel pointing the wrong direction with an X beside it. Simple cartoon style with clean lines."
     },
     {
       "text": "These weren't bad doctors.",
-      "prompt": "On a black background, a surgeon in scrubs centered in the frame. Two diploma icons on the left, two award icons on the right. The word 'BAD' with a large X crossed through it floats above their head. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, standing upright with confident posture, centered in the frame. Two diploma icons on the left, two award icons on the right. The word 'BAD' with a large X crossed through it floats above their head. Simple cartoon style with clean lines."
     },
     {
       "text": "They were excellent doctors having bad moments.",
-      "prompt": "On a black background, a horizontal timeline stretches across the center. Five checkmark icons are spaced along the line, with one X icon in the middle. A surgeon in scrubs stands below the timeline. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a horizontal timeline stretches across the center. Five green checkmark icons are spaced along the line, with one red X icon in the middle. A surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, stands below the timeline with arms at sides. Simple cartoon style with clean lines."
     },
     {
       "text": "So Gawande worked with the World Health Organization and developed a 19-step surgical checklist.",
-      "prompt": "On a black background, the surgeon in scrubs on the left labeled 'GAWANDE' shaking hands with a figure on the right. A WHO logo centered above them. A document below shows '19-STEP CHECKLIST'. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, on the left labeled 'GAWANDE', right arm extended to shake hands with a standing cartoon person in a suit on the right. A WHO logo centered above them. A document below shows '19-STEP CHECKLIST'. Simple cartoon style with clean lines."
     },
     {
       "text": "You think it's super technical, right?",
@@ -43,7 +43,7 @@
     },
     {
       "text": "Confirm the patient's identity.",
-      "prompt": "On a black background, a surgeon in scrubs on the left, right hand holding a patient's wrist with wristband, left hand holding a chart. On the right side, a checklist with checkbox and text 'CONFIRM IDENTITY'. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, on the left, right hand holding a patient's wrist with wristband, left hand holding a chart. On the right side, a checklist with checkbox and text 'CONFIRM IDENTITY'. Simple cartoon style with clean lines."
     },
     {
       "text": "Make sure antibiotics are given.",
@@ -51,7 +51,7 @@
     },
     {
       "text": "Mark the correct leg to operate on.",
-      "prompt": "On a black background, a surgeon in scrubs on the left, leaning down with a marker in hand, drawing an X on a patient's leg. The patient lies on a table on the right. On the far right, a checklist with checkbox and text 'MARK SITE'. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, on the left, bending at the waist with a marker in right hand, drawing an X on a patient's leg. The patient lies on a table on the right. On the far right, a checklist with checkbox and text 'MARK SITE'. Simple cartoon style with clean lines."
     },
     {
       "text": "So you don't chop off the wrong one.",
@@ -63,15 +63,15 @@
     },
     {
       "text": "Stuff every surgeon knows.",
-      "prompt": "On a black background, five surgeons in scrubs arranged in a horizontal row across the center, all nodding with heads tilted down and eyes closed in agreement. Simple cartoon style with clean lines, consistent surgeon design across all five figures."
+      "prompt": "On a black background, five surgeons wearing surgical scrubs, surgical caps, face masks pulled down around necks, arranged in a horizontal row across the center, all nodding with heads tilted down and eyes closed in agreement. Simple cartoon style with clean lines, consistent surgeon design across all five figures."
     },
     {
       "text": "When hospitals put this simple checklist into practice, something remarkable happened.",
-      "prompt": "On a black background, a hospital building on the left with a plus sign on it. On the right, a checklist document labeled '19 STEPS'. An arrow connects the checklist to the hospital. Sparkles surround the hospital. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a hospital building on the left with a plus sign on it. On the right, a checklist document labeled '19 STEPS'. An arrow points from the checklist toward the hospital. Simple cartoon style with clean lines."
     },
     {
       "text": "Post-surgical complications fell by 36%.",
-      "prompt": "On a black background, a vertical bar chart centered in the frame. A tall bar on the left labeled 'BEFORE', a shorter bar on the right labeled 'AFTER'. A downward arrow between them with '36%' text beside the arrow. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a vertical bar chart centered in the frame. A tall red bar on the left labeled 'BEFORE', a shorter green bar on the right labeled 'AFTER'. A downward arrow between them with '36%' text beside the arrow. Simple cartoon style with clean lines."
     },
     {
       "text": "Deaths dropped by 47%.",
@@ -91,7 +91,7 @@
     },
     {
       "text": "Just a checklist.",
-      "prompt": "On a black background, a simple checklist document centered in the frame with five checkbox items. A soft glow radiates outward from the checklist edges. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a simple checklist document centered in the frame with five checkbox items, a checkmark visible in the top checkbox. Simple cartoon style with clean lines."
     },
     {
       "text": "When cognitive load peaks, even experts fail.",
@@ -99,11 +99,11 @@
     },
     {
       "text": "The checklist catches them.",
-      "prompt": "On a black background, a surgeon in scrubs falling downward in the center, arms outstretched. Below the surgeon, a large checklist document stretched horizontally like a safety net, catching them. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, falling downward in the center with arms outstretched above head and legs dangling. Below the surgeon, a large checklist document stretched horizontally like a safety net, catching them. Simple cartoon style with clean lines."
     },
     {
       "text": "Here's the paradox nobody talks about.",
-      "prompt": "On a black background, a standing cartoon person on the left side leaning forward, one hand cupped beside mouth, eyebrows raised. On the right side, the word 'PARADOX' in bold text with a soft glow around it. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side leaning forward with knees slightly bent, one hand cupped beside mouth, eyebrows raised as if sharing a secret. On the right side, the word 'PARADOX' in large bold text. Simple cartoon style with clean lines."
     },
     {
       "text": "The better you get at something, the more you need systems.",
@@ -119,23 +119,23 @@
     },
     {
       "text": "Pilots with 10,000 hours of flying still read the same checklist every single flight.",
-      "prompt": "On a black background, a pilot in uniform seated in a cockpit on the left, holding a checklist document in both hands, looking down at it. A badge on their chest shows '10,000 HRS'. Cockpit controls visible behind them. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pilot wearing navy uniform with gold wings pin, captain's hat with gold insignia, seated in a cockpit on the left, holding a checklist document in both hands at chest level, head tilted down looking at the checklist. A badge on their chest shows '10,000 HRS'. Cockpit controls visible behind them. Simple cartoon style with clean lines."
     },
     {
       "text": "Not because they forgot how to fly.",
-      "prompt": "On a black background, the pilot in uniform centered in the frame. A thought bubble above their head shows an airplane and cockpit controls. The word 'FORGOT' with a large X crossed through it floats to the right. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pilot wearing navy uniform with gold wings pin, captain's hat with gold insignia, standing upright centered in the frame with hands on hips. A thought bubble above their head shows an airplane and cockpit controls. The word 'FORGOT' with a large X crossed through it floats to the right. Simple cartoon style with clean lines."
     },
     {
       "text": "Because they don't trust their memory under pressure.",
-      "prompt": "On a black background, the pilot in uniform on the left with furrowed brow. A thought bubble above shows wavy, distorted lines representing unclear memory. Warning indicators and alarm symbols surround the thought bubble. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pilot wearing navy uniform with gold wings pin, captain's hat with gold insignia, on the left side with furrowed brow and tense shoulders. A thought bubble above shows wavy, distorted scribble lines. Warning triangles and alarm symbols surround the thought bubble. Simple cartoon style with clean lines."
     },
     {
       "text": "And they're right not to.",
-      "prompt": "On a black background, the pilot in uniform on the left holding a checklist. A large checkmark floats on the right side of the frame. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pilot wearing navy uniform with gold wings pin, captain's hat with gold insignia, on the left side holding a checklist document in both hands at chest level, slight smile on face. A large checkmark floats on the right side of the frame. Simple cartoon style with clean lines."
     },
     {
       "text": "You can use this too.",
-      "prompt": "On a black background, the pilot in uniform on the left extending a checklist document toward a standing cartoon person on the right. The cartoon person reaches out with both hands to receive it. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a pilot wearing navy uniform with gold wings pin, captain's hat with gold insignia, on the left side, right arm extended holding a checklist document toward a standing cartoon person on the right. The cartoon person reaches out with both hands to receive it. Simple cartoon style with clean lines."
     },
     {
       "text": "I make three checklists for my life.",
@@ -175,7 +175,7 @@
     },
     {
       "text": "The hard things.",
-      "prompt": "On a black background, a large rectangular block centered in the frame labeled 'HARD THINGS'. A soft glow radiates outward from the block edges. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a large rectangular block centered in the frame labeled 'HARD THINGS', a small upward arrow above the block. Simple cartoon style with clean lines."
     },
     {
       "text": "But there's still one final problem.",
@@ -195,7 +195,7 @@
     },
     {
       "text": "Monks figured something out.",
-      "prompt": "On a black background, three monks in robes with shaved heads and peaceful serene expressions, arranged in a horizontal row across the center. A lightbulb icon glows above the middle monk. Simple cartoon style with clean lines, consistent monk design across all three figures."
+      "prompt": "On a black background, three monks wearing maroon and saffron yellow robes, shaved heads, peaceful serene expressions, seated cross-legged with hands resting on knees, arranged in a horizontal row across the center. A lightbulb icon floats above the middle monk. Simple cartoon style with clean lines, consistent monk design across all three figures."
     }
   ]
 }
