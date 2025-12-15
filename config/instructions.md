@@ -175,6 +175,63 @@ These rules ensure AI-generated images are consistent, accurate, and match your 
     - GOOD: "Sparkles and small glowing particles scatter around the figure in all directions"
     - Use sparkles, glow, particles, motion lines to convey emotion and transformation
 
+16. CALENDARS AND DATE VISUALS REQUIRE EXPLICIT JSON FORMAT:
+    - AI generators consistently fail at vague calendar descriptions
+    - BAD: "A weekly calendar with 6 days marked with checkmarks"
+    - BAD: "Calendar showing Friday afternoon"
+    - GOOD: Use detailed JSON format specifying every visual element
+    - For ANY calendar, week view, date, or schedule visual, provide:
+      - Exact number of boxes/squares and their arrangement (horizontal row, grid, etc.)
+      - What is inside each box (checkmark, X, number, empty)
+      - Colors of each element (outline color, fill color, checkmark color)
+      - Text labels and their exact position (below, beside, inside)
+      - Background color
+    - Example JSON format for a "6 days worked, 1 rest day" visual:
+    ```json
+    {
+      "global_context": {
+        "scene_description": "Minimal black background with a horizontal row of seven white-outlined square checkboxes. Six left boxes contain green checkmarks; the seventh (rightmost) is empty and labeled 'REST DAY' in white text below."
+      },
+      "color_palette": {
+        "dominant_hex_estimates": ["#0d0d0d","#1fb24a","#ffffff"],
+        "contrast_level": "High"
+      },
+      "objects": [
+        {
+          "label": "Checkbox row",
+          "location": "Horizontal center",
+          "visual_attributes": {
+            "color": "white outlines; black interiors; green checkmarks in six boxes",
+            "texture": "Flat, matte"
+          },
+          "micro_details": [
+            "Uniform 2-3px white border on squares",
+            "Green checkmarks slanted up-right",
+            "Equal spacing between boxes"
+          ]
+        },
+        {
+          "label": "Empty box",
+          "location": "Rightmost of row",
+          "visual_attributes": {
+            "color": "white outline, black interior",
+            "state": "Empty"
+          }
+        },
+        {
+          "label": "REST DAY label",
+          "location": "Below empty box",
+          "visual_attributes": {
+            "color": "white",
+            "font_style": "All-caps handwritten"
+          },
+          "text_content": "REST DAY"
+        }
+      ]
+    }
+    ```
+    - This level of detail prevents AI misinterpretation of calendar/schedule concepts
+
 QUALITY CHECKLIST FOR EVERY PROMPT:
 □ Specific colors mentioned for all key elements
 □ Exact pose/position described (not just "standing" or "sitting")

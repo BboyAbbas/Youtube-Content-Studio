@@ -47,11 +47,11 @@
     },
     {
       "text": "Same movements.",
-      "prompt": "Running movement positions shown in sequence. The word 'SAME' floats beside them. Consistency emphasized. Simple cartoon style with clean lines."
+      "prompt": "The muscular runner in athletic wear shown in three identical running stride positions side by side like a motion study. Each pose is exactly the same. The word 'SAME' floats above. Simple cartoon style with clean lines."
     },
     {
       "text": "6 days a week.",
-      "prompt": "A weekly calendar with 6 days marked with checkmarks, one day blank for rest. The routine is clear. Simple cartoon style with clean lines."
+      "prompt": "Seven squares in a horizontal row representing days of the week. Six squares have green checkmarks inside. One square on the right is empty for rest day. Simple cartoon style with clean lines."
     },
     {
       "text": "Every week.",
@@ -71,19 +71,19 @@
     },
     {
       "text": "That's not discipline.",
-      "prompt": "The word 'DISCIPLINE' fading away and becoming transparent, disappearing like smoke. This is not the answer. Simple cartoon style with clean lines."
+      "prompt": "Standing cartoon person with a dismissive expression, waving one hand to the side as if pushing something away. A speech bubble shows 'That's not discipline.' Simple cartoon style with clean lines."
     },
     {
       "text": "That's design.",
-      "prompt": "A blueprint or architectural drawing with the word 'DESIGN' prominently displayed. The approach is engineered. Simple cartoon style with clean lines."
+      "prompt": "Standing cartoon person with a confident smile, pointing one finger upward like making an important point. A speech bubble shows 'That's design.' Simple cartoon style with clean lines."
     },
     {
       "text": "He's not fighting his biology.",
-      "prompt": "The muscular runner in athletic wear and a cartoon brain with small arms and legs, expressive face on the frontal lobe, standing peacefully side by side. No conflict. A crossed-out boxing ring in the background. Simple cartoon style with clean lines."
+      "prompt": "The muscular runner in athletic wear and a cartoon brain with small arms and legs, expressive face on the frontal lobe, standing side by side facing the viewer. The runner has one arm around the brain in a friendly gesture, both smiling. Behind them, a boxing ring icon with a large X drawn through it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "He's using it.",
-      "prompt": "The muscular runner in athletic wear operating a cartoon brain with small arms and legs, expressive face on the frontal lobe, like a tool or instrument. The brain works for him. They collaborate. Simple cartoon style with clean lines."
+      "prompt": "The muscular runner in athletic wear mid-sprint, running powerfully. A cartoon brain with small arms and legs, expressive face on the frontal lobe, runs alongside him in perfect sync, both heading the same direction. The brain looks enthusiastic like a supportive teammate. Simple cartoon style with clean lines."
     },
     {
       "text": "The margin between gold and silver is one five-hundredth of a second.",
@@ -99,171 +99,256 @@
     },
     {
       "text": "A psychologist at NYU named Peter Gollwitzer wanted to test this.",
-      "prompt": "A scientist in white lab coat standing in front of an NYU sign. A nameplate shows 'PETER GOLLWITZER'. He holds research papers. Simple cartoon style with clean lines."
+      "prompt": "A psychologist (bald man with hair on the sides, wearing glasses and a lab coat) standing in front of a sign reading 'NYU'. A nameplate below shows 'PETER GOLLWITZER'. He holds research papers in both hands. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "He took students trying to exercise over Christmas break and divided them into two groups.",
-      "prompt": "A group of standing cartoon people split by a dividing line into two separate groups. A Christmas tree in the background indicates the season. Simple cartoon style with clean lines."
+      "prompt": {
+        "meta": {
+          "image_quality": "High",
+          "image_type": "Illustration"
+        },
+        "global_context": {
+          "scene_description": "Minimalist cartoon illustration of six standing cartoon people divided into two groups of three by a thick white vertical line. Each person wears workout clothes. A Christmas tree with a star on top stands centered in the background behind the dividing line. Clean white line art on a black background.",
+          "weather_atmosphere": "Neutral, study-like"
+        },
+        "color_palette": {
+          "dominant_hex_estimates": ["#000000", "#FFFFFF", "#2E7D32"],
+          "contrast_level": "High"
+        },
+        "composition": {
+          "camera_angle": "Eye-level",
+          "framing": "Medium-shot",
+          "focal_point": "The vertical dividing line separating the two groups",
+          "subject_placement": "Center"
+        },
+        "objects": [
+          {
+            "label": "Left group of students",
+            "category": "Characters",
+            "location": "Left side of frame",
+            "visual_attributes": {
+              "texture": "Clean white outlines",
+              "state": "Standing casually"
+            },
+            "micro_details": [
+              "Three standing cartoon people",
+              "Each wearing t-shirt and shorts (workout clothes)",
+              "Standing close together as a unified group",
+              "Arms relaxed at sides"
+            ],
+            "pose_or_orientation": "Facing viewer"
+          },
+          {
+            "label": "Right group of students",
+            "category": "Characters",
+            "location": "Right side of frame",
+            "visual_attributes": {
+              "texture": "Clean white outlines",
+              "state": "Standing casually"
+            },
+            "micro_details": [
+              "Three standing cartoon people",
+              "Each wearing t-shirt and shorts (workout clothes)",
+              "Standing close together as a unified group",
+              "Arms relaxed at sides"
+            ],
+            "pose_or_orientation": "Facing viewer"
+          },
+          {
+            "label": "Dividing line",
+            "category": "Visual element",
+            "location": "Center of frame, vertical",
+            "visual_attributes": {
+              "texture": "Solid thick line",
+              "color": "White"
+            },
+            "micro_details": [
+              "Runs from top to bottom of frame",
+              "Clearly separates the two groups",
+              "Approximately 4-5px thick"
+            ]
+          },
+          {
+            "label": "Christmas tree",
+            "category": "Object",
+            "location": "Background center, behind the dividing line",
+            "visual_attributes": {
+              "texture": "Clean white outlines with green fill",
+              "state": "Decorated"
+            },
+            "micro_details": [
+              "Traditional triangular Christmas tree shape",
+              "Star on top",
+              "Smaller than the human figures (background scale)"
+            ]
+          }
+        ],
+        "text_ocr": {
+          "present": false,
+          "content": []
+        }
+      }
     },
     {
       "text": "First group got goal-setting advice.",
-      "prompt": "One group of standing cartoon people receiving a document labeled 'GOALS'. Speech bubbles show vague phrases like 'Set intentions'. Simple cartoon style with clean lines."
+      "prompt": "Three standing cartoon people on the left side. A hand extends from the right holding a document labeled 'GOALS' toward them. A speech bubble above shows 'Set intentions!' in wavy, loose handwriting. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "\"I want to work out more.\"",
-      "prompt": "A speech bubble containing 'I want to work out more' in vague, wavy text. The statement is soft and uncommitted. Simple cartoon style with clean lines."
+      "prompt": "A large speech bubble in the center containing 'I want to work out more...' in wavy, loose handwriting with a trailing ellipsis. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Vague intentions.",
-      "prompt": "A cloud of fuzzy, unfocused text labeled 'VAGUE INTENTIONS'. Nothing is clear or actionable. Simple cartoon style with clean lines."
+      "prompt": "A fuzzy cloud shape in the center with blurred, illegible scribbles inside it. The words 'VAGUE INTENTIONS' appear below the cloud in bold text. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Good vibes.",
-      "prompt": "Floating positive emojis and sparkles with no substance. The mood is positive but empty. Simple cartoon style with clean lines."
+      "prompt": "Floating smiley face emojis, thumbs up icons, and sparkles scattered across the frame. The words 'GOOD VIBES' appear in the center in bubbly text. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Second group got something different.",
-      "prompt": "The other group of standing cartoon people receiving a different document. Their attention is focused. Simple cartoon style with clean lines."
+      "prompt": "Three standing cartoon people on the left side. A hand extends from the right holding a different document with 'IF → THEN' visible on it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "An if-then plan.",
-      "prompt": "A document showing 'IF → THEN' logic clearly displayed. The structure is specific and actionable. Simple cartoon style with clean lines."
+      "prompt": "A document in the center with 'IF → THEN' printed in large bold text at the top. Below it, lined rows for writing. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "\"If it's Monday at 7am, then I'm at the gym.\"",
-      "prompt": "A speech bubble containing 'IF Monday 7am → THEN gym' in bold clear text. The statement is specific with exact time and place. Simple cartoon style with clean lines."
+      "prompt": "A large speech bubble in the center containing 'IF Monday 7am → THEN gym' in bold, sharp text. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Same motivation.",
-      "prompt": "Two equal motivation meters side by side showing identical levels. Both groups started equally motivated. Simple cartoon style with clean lines."
+      "prompt": "Two identical vertical bar meters side by side, each labeled 'MOTIVATION' below. Both bars filled to 75% height. The word 'SAME' floats above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Different instructions.",
-      "prompt": "Two different instruction documents side by side. One shows vague goals, the other shows 'IF → THEN' plans. The contrast is clear. Simple cartoon style with clean lines."
+      "prompt": "Two documents side by side. Left document shows wavy scribbled text labeled 'GOALS'. Right document shows 'IF → THEN' in bold sharp text. The word 'DIFFERENT' floats above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "The results were insane.",
-      "prompt": "Standing cartoon person with wide eyes and dropped jaw looking at result charts. The reaction shows shock at the findings. Simple cartoon style with clean lines."
+      "prompt": "Standing cartoon person with wide circular eyes and dropped jaw, both hands on cheeks in shock. They face a bar chart showing dramatic differences. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Goal-setters failed 62% of the time.",
-      "prompt": "A pie chart showing 62% filled in dark representing failure. The label shows 'GOAL-SETTERS'. The failure rate is high. Simple cartoon style with clean lines."
+      "prompt": "A pie chart with 62% of the circle filled in red. The label 'GOAL-SETTERS' appears above. The number '62% FAILED' appears below. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If-then planners failed only 9% of the time.",
-      "prompt": "A pie chart showing only 9% filled in dark representing failure, 91% showing success. The label shows 'IF-THEN PLANNERS'. The success rate is dramatic. Simple cartoon style with clean lines."
+      "prompt": "A pie chart with only 9% of the circle filled in red, and 91% filled in green. The label 'IF-THEN PLANNERS' appears above. The number '91% SUCCESS' appears below. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Same people.",
-      "prompt": "Two identical standing cartoon people side by side. They are the same. Simple cartoon style with clean lines."
+      "prompt": "Two identical standing cartoon people side by side, both with arms at their sides. The word 'SAME' floats above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Same motivation.",
-      "prompt": "Two identical motivation meters side by side showing the same level. Motivation was equal. Simple cartoon style with clean lines."
+      "prompt": "Two identical vertical bar meters side by side, each labeled 'MOTIVATION' below. Both bars filled to 75% height. The word 'SAME' floats above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Wildly different results.",
-      "prompt": "Split scene. Left side: 62% failure with defeated standing cartoon people. Right side: 91% success with triumphant standing cartoon people. The gap is enormous. Simple cartoon style with clean lines."
+      "prompt": "Split scene. Left side glowing red: standing cartoon person slumped over with head down and arms hanging limp, '62% FAIL' above them. Right side glowing green: standing cartoon person with both arms raised high above head in victory pose, '91% SUCCESS' above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Why?",
-      "prompt": "Large bold text showing 'WHY?' with a question mark. Simple cartoon style with clean lines."
+      "prompt": "Large bold text showing 'WHY?' in the center of the frame. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Because your brain runs on algorithms.",
-      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, with code and algorithm symbols flowing through it. The brain processes 'IF → THEN' logic naturally. Simple cartoon style with clean lines."
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, standing upright. Lines of code symbols and 'IF → THEN' text float around and through it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If X, then Y.",
-      "prompt": "Large bold text showing 'IF X → THEN Y' as a simple formula. The logic is clear and direct. Simple cartoon style with clean lines."
+      "prompt": "Large bold text showing 'IF X → THEN Y' in the center of the frame. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If this happens, do that.",
-      "prompt": "A flowchart showing a trigger leading to an action. The cause and effect is simple. Simple cartoon style with clean lines."
+      "prompt": "A flowchart with two boxes connected by an arrow. Left box contains 'THIS HAPPENS'. Arrow points right to second box containing 'DO THAT'. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "It's simple.",
-      "prompt": "The 'IF → THEN' formula shown as clean and minimal. Simplicity emphasized. Simple cartoon style with clean lines."
+      "prompt": "The text 'IF → THEN' displayed in clean minimal bold letters in the center. Empty space surrounds it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "It's powerful.",
-      "prompt": "The 'IF → THEN' formula glowing with energy and power indicators. Effectiveness emphasized. Simple cartoon style with clean lines."
+      "prompt": "The text 'IF → THEN' displayed in bold letters in the center, surrounded by radiating energy lines and lightning bolt symbols. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "It works.",
-      "prompt": "The 'IF → THEN' formula with a large checkmark beside it. Proven success. Simple cartoon style with clean lines."
+      "prompt": "The text 'IF → THEN' displayed in bold letters on the left. A large checkmark appears to the right of it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If it's 3pm Thursday, deep work starts.",
-      "prompt": "A clock showing 3pm and a calendar showing Thursday. An arrow points to a standing cartoon person at a desk with intense focus. The trigger activates the action. Simple cartoon style with clean lines."
+      "prompt": "Left side: a clock showing 3:00 and a calendar page with 'THURSDAY' circled. An arrow points from them to the right side: a standing cartoon person seated at a desk, leaning forward with both hands on keyboard, eyes on screen. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "No debate.",
-      "prompt": "A gavel slamming down on the word 'DEBATE', silencing it. The decision is final and non-negotiable. Simple cartoon style with clean lines."
+      "prompt": "A gavel slamming down on the word 'DEBATE'. Motion lines show impact. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If you finished lunch, you walk 15 minutes.",
-      "prompt": "An empty lunch plate as a trigger. An arrow points to a standing cartoon person walking. A timer shows 15 minutes. Simple cartoon style with clean lines."
+      "prompt": "Left side: an empty plate with fork and knife crossed on it. An arrow points from the plate to the right side: a standing cartoon person mid-stride walking, one leg forward, arms swinging. A circular timer showing '15:00' floats above them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "No debate.",
-      "prompt": "A gavel slamming down on the word 'DEBATE', silencing it. The decision is final and non-negotiable. Simple cartoon style with clean lines."
+      "prompt": "A gavel slamming down on the word 'DEBATE'. Motion lines show impact. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If it's Friday afternoon, you review your week.",
-      "prompt": "A calendar showing Friday afternoon as a trigger. An arrow points to a standing cartoon person looking at a weekly review document. Simple cartoon style with clean lines."
+      "prompt": "Left side: a calendar page with 'FRIDAY' and 'PM' circled. An arrow points from it to the right side: a standing cartoon person holding a document labeled 'WEEK REVIEW' with both hands, looking down at it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "No debate.",
-      "prompt": "A gavel slamming down on the word 'DEBATE', silencing it. The decision is final and non-negotiable. Simple cartoon style with clean lines."
+      "prompt": "A gavel slamming down on the word 'DEBATE'. Motion lines show impact. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "If it's Sunday night, you plan for the next week.",
-      "prompt": "A calendar showing Sunday night as a trigger. An arrow points to a standing cartoon person writing in a weekly planner. Simple cartoon style with clean lines."
+      "prompt": "Left side: a calendar page with 'SUNDAY' circled and a moon icon indicating night. An arrow points from it to the right side: a standing cartoon person seated at a desk, pen in hand, writing in an open planner labeled 'NEXT WEEK'. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "No debate.",
-      "prompt": "A gavel slamming down on the word 'DEBATE', silencing it. The decision is final and non-negotiable. Simple cartoon style with clean lines."
+      "prompt": "A gavel slamming down on the word 'DEBATE'. Motion lines show impact. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Take out the drama.",
-      "prompt": "Drama masks being thrown into a trash bin. Emotional theatrics are removed. Simple cartoon style with clean lines."
+      "prompt": "A hand throwing comedy and tragedy theater masks into a trash bin. The masks are mid-air falling toward the bin. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Take out the negotiation.",
-      "prompt": "A negotiation table being removed from the scene. Bargaining is eliminated. Simple cartoon style with clean lines."
+      "prompt": "A rectangular table with two chairs on opposite sides, being lifted and carried away by two hands from above. The table has 'NEGOTIATION' written on it. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Run the algorithm.",
-      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, running on a track made of 'IF → THEN' code. The brain executes automatically. Simple cartoon style with clean lines."
+      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, in a running pose with one leg forward and arms pumping. It runs on a track made of repeating 'IF → THEN' text patterns. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "But even perfect algorithms fail sometimes.",
-      "prompt": "An 'IF → THEN' code block with a small error message or crack in it. Even good systems can break. Simple cartoon style with clean lines."
+      "prompt": "A rectangular code block showing 'IF → THEN' text with a jagged crack running through it. A small 'ERROR' message floats beside the crack. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "There's one more thing you need.",
-      "prompt": "Standing cartoon person holding up one finger. A mystery box glows beside them waiting to be revealed. Simple cartoon style with clean lines."
+      "prompt": "Standing cartoon person on the left, holding up one finger with raised eyebrows. A glowing box with a large question mark on it floats to their right. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "We have to go to a hospital.",
-      "prompt": "A hospital building with a medical cross symbol. An arrow points toward the entrance. Simple cartoon style with clean lines."
+      "prompt": "A hospital building with a medical cross symbol on top. An arrow points toward the entrance doors. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Why?",
-      "prompt": "Large bold text showing 'WHY?' with a question mark. Simple cartoon style with clean lines."
+      "prompt": "Large bold text showing 'WHY?' in the center of the frame. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Surgeons are killing people.",
-      "prompt": "A surgeon figure in scrubs with a shocked, guilty expression. A patient silhouette lies on a table. The scene is serious. Simple cartoon style with clean lines."
+      "prompt": "A surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, standing with hands raised and eyes wide in shock. A patient silhouette lies on an operating table beside them. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "By accident.",
-      "prompt": "The word 'ACCIDENT' with emphasis. An 'oops' expression on the surgeon figure in scrubs. Simple cartoon style with clean lines."
+      "prompt": "A surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, with hand over mouth and wide eyes in an 'oops' expression. The word 'ACCIDENT' appears in large text above their head. Black background. Simple cartoon style with clean lines."
     },
     {
       "text": "Mostly.",
-      "prompt": "The word 'MOSTLY' floating ominously. An asterisk suggests there is more to the story. Simple cartoon style with clean lines."
+      "prompt": "The word 'MOSTLY' in large text in the center of the frame. A small asterisk symbol floats to the upper right of the word. Black background. Simple cartoon style with clean lines."
     }
   ]
 }
