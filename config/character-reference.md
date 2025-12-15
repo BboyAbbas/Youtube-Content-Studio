@@ -15,6 +15,8 @@ SUPPORTING CHARACTERS
 
 AUTHORITY FIGURES:
 
+Judge: "cartoon judge with white curly wig (traditional British-style), black robe with white collar/jabot, dark silhouette face with simple features"
+
 CIA Agent: "wearing a black suit, dark sunglasses, earpiece, short cropped hair, stern expression"
 
 FBI Agent: "wearing a navy blue windbreaker with 'FBI' on the back, badge on belt, serious focused expression"

@@ -34,6 +34,12 @@
       "sections": ["Principle 4 - Outsource Your Decisions"]
     },
     {
+      "file": "08-judge-parole-study.json",
+      "characters": ["Judge"],
+      "totalScenes": 5,
+      "sections": ["Principle 2 - Willpower Is A Scam"]
+    },
+    {
       "file": "06-tibetan-monks.json",
       "characters": ["Tibetan Monks", "Harvard Scientists"],
       "totalScenes": 17,

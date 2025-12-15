@@ -107,27 +107,27 @@
     },
     {
       "text": "Willpower isn't infinite.",
-      "prompt": "A fuel gauge or tank labeled 'WILLPOWER' with a limited amount shown. The gauge does not go to infinity. Boundaries are clear. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points all the way to the right at 'F'. The gauge has 'E' on the left and 'F' on the right. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "It's like a fuel tank.",
-      "prompt": "A car fuel tank gauge with a needle pointing to near empty. The 'WILLPOWER' label replaces 'FUEL'. The comparison is direct. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points to the middle of the green segment. The gauge has 'E' on the left and 'F' on the right. A small car icon appears below the gauge. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "Every decision you make drains it.",
-      "prompt": "A fuel tank labeled 'WILLPOWER' with a small amount draining out. A 'DECISION' label points to the drain. The level drops slightly. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points to the border between green and yellow. Green liquid spills from a crack in the bottom of the gauge, splashing downward. The word 'DECISION' appears below with a downward arrow. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "Every distraction you fight drains it.",
-      "prompt": "The same fuel tank labeled 'WILLPOWER' with more fuel draining out. A 'DISTRACTION' label points to the drain. The level drops further. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points to the middle of the yellow segment. Yellow liquid gushes from a larger crack in the bottom of the gauge, pouring out in a heavy stream. The word 'DISTRACTION' appears below with a downward arrow. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "Every cookie you resist drains it.",
-      "prompt": "The same fuel tank labeled 'WILLPOWER' with even more fuel draining out. A chocolate chip cookie icon points to the drain. The level is getting low. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points to the border between yellow and red. Red liquid floods out from the bottom of the gauge, splashing everywhere in a dramatic spill. A chocolate chip cookie icon appears below with a downward arrow. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "By evening, the tank is empty.",
-      "prompt": "The fuel tank labeled 'WILLPOWER' now completely empty. A clock shows evening time. The needle points to 'E'. Simple cartoon style with clean lines."
+      "prompt": "A semicircular fuel gauge labeled 'WILLPOWER' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points all the way to the left at 'E'. The last drops fall from the cracked bottom into a large puddle of spilled liquid below the gauge. A crescent moon and 'Zzz' float in the top right corner. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "That's not weakness.",
@@ -139,7 +139,7 @@
     },
     {
       "text": "Judges deny parole more often in the afternoon than in the morning.",
-      "prompt": "Split scene. Left side: a judge at a bench in morning sunlight stamping 'APPROVED' on papers. Right side: the same judge in afternoon shadows stamping 'DENIED' on papers. A clock shows the time difference. Simple cartoon style with clean lines."
+      "prompt": "Split scene on black background. Left side: a cartoon judge with white curly wig, black robe with white collar at a bench stamping 'APPROVED' on papers, a yellow sun icon in the top left corner. Right side: the same cartoon judge with white curly wig, black robe with white collar at a bench stamping 'DENIED' on papers, a white crescent moon icon in the top right corner. Simple cartoon style with clean white lines."
     },
     {
       "text": "Same cases.",
@@ -147,7 +147,7 @@
     },
     {
       "text": "Same facts.",
-      "prompt": "Two identical fact sheets side by side. The content matches exactly. Nothing different. Simple cartoon style with clean lines."
+      "prompt": "Two identical documents side by side on black background. Each document shows the same three bullet points with horizontal lines representing text. An equals sign '=' floats between them. Simple cartoon style with clean lines on black background."
     },
     {
       "text": "Different time of day.",
@@ -155,11 +155,11 @@
     },
     {
       "text": "Their mental fuel is depleting.",
-      "prompt": "A judge at a bench with a fuel tank labeled 'MENTAL FUEL' floating above their head, showing the level dropping as the clock moves from morning to afternoon. Simple cartoon style with clean lines."
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar at a bench. Above their head floats a semicircular fuel gauge labeled 'MENTAL FUEL' at the top, with three colored segments from left to right: red (empty), yellow (middle), green (full). A gray needle points to the red segment near 'E'. A clock showing afternoon time appears beside the gauge. Simple cartoon style with clean white lines on black background."
     },
     {
       "text": "Are they idiots?",
-      "prompt": "A judge with a dunce cap drawn over their image and a question mark. The provocative question is posed. Simple cartoon style with clean lines."
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar with a dunce cap drawn over their image and a question mark. The provocative question is posed. Simple cartoon style with clean white lines on black background."
     },
     {
       "text": "No.",
@@ -167,7 +167,7 @@
     },
     {
       "text": "They're human.",
-      "prompt": "A judge at a bench looking tired but normal. The word 'HUMAN' floats beside them. They are not to blame. Simple cartoon style with clean lines."
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar at a bench looking tired but normal. The word 'HUMAN' floats beside them. They are not to blame. Simple cartoon style with clean white lines on black background."
     },
     {
       "text": "So are you.",
@@ -175,7 +175,7 @@
     },
     {
       "text": "We keep trying to solve a biological problem with motivational solutions.",
-      "prompt": "Split scene. Left side: a biological fuel tank labeled 'WILLPOWER' running empty. Right side: motivational posters and speeches being thrown at it. The mismatch is clear. Simple cartoon style with clean lines."
+      "prompt": "Split scene on black background. Left side: a semicircular fuel gauge labeled 'WILLPOWER' with three colored segments (red, yellow, green), gray needle pointing to red near 'E', with a label 'BIOLOGICAL PROBLEM' below it. Right side: three rectangular motivational posters stacked vertically showing 'YOU CAN DO IT', 'BELIEVE', and 'TRY HARDER', with a label 'MOTIVATIONAL SOLUTIONS' below them. A large '≠' (not equals sign) floats between the two sides. Simple cartoon style with clean white lines."
     },
     {
       "text": "\"Just have more willpower.\"",

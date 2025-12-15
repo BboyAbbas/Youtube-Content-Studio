@@ -1,0 +1,33 @@
+{
+  "characterGroup": "Judge - Parole Study",
+  "characterDescriptions": {
+    "Judge": "cartoon judge with white curly wig (traditional British-style), black robe with white collar/jabot, dark silhouette face with simple features, simple cartoon style with clean white lines on black background"
+  },
+  "totalScenes": 5,
+  "scenes": [
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 35,
+      "text": "Judges deny parole more often in the afternoon than in the morning.",
+      "prompt": "Split scene. Left side: a cartoon judge with white curly wig, black robe with white collar at a bench in morning sunlight stamping 'APPROVED' on papers. Right side: the same cartoon judge with white curly wig, black robe with white collar in afternoon shadows stamping 'DENIED' on papers. A clock shows the time difference. Simple cartoon style with clean white lines on black background."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 39,
+      "text": "Their mental fuel is depleting.",
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar at a bench with a fuel tank labeled 'MENTAL FUEL' floating above their head, showing the level dropping as the clock moves from morning to afternoon. Simple cartoon style with clean white lines on black background."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 40,
+      "text": "Are they idiots?",
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar with a dunce cap drawn over their image and a question mark. The provocative question is posed. Simple cartoon style with clean white lines on black background."
+    },
+    {
+      "sourceFile": "scenes-part4-willpower.json",
+      "sceneIndex": 42,
+      "text": "They're human.",
+      "prompt": "A cartoon judge with white curly wig, black robe with white collar at a bench looking tired but normal. The word 'HUMAN' floats beside them. They are not to blame. Simple cartoon style with clean white lines on black background."
+    }
+  ]
+}
