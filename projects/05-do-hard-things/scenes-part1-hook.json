@@ -3,11 +3,11 @@
   "scenes": [
     {
       "text": "Would you believe me if I told you there's a way to make hard things feel easy?",
-      "prompt": "Standing cartoon person with raised eyebrow and skeptical expression, arms crossed. A floating thought bubble above shows a heavy boulder transforming into a feather. The person looks intrigued but doubtful. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "Standing cartoon person with raised eyebrow and skeptical expression, arms crossed. A floating thought bubble above their head contains a heavy boulder on the left, a white arrow pointing right, and a feather on the right. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
     },
     {
       "text": "An actual system that tricks your brain into doing things you've been avoiding for months.",
-      "prompt": "A cartoon brain with small arms and legs, expressive face on the frontal lobe, looking confused and walking on a path of arrows that loop back toward a glowing task icon. The brain follows the arrows without realizing it is being guided. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "A cartoon brain with small stick arms and stick legs, two dot eyes and a confused expression on the frontal lobe, walking on a path of white arrows that loop back toward a task icon (a square with a checkmark inside). The brain follows the arrows without realizing it is being guided. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
     },
     {
       "text": "And I figured it out from a guy who burned his own ships.",
@@ -23,7 +23,7 @@
     },
     {
       "text": "So he burned every ship.",
-      "prompt": "Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a lit torch, touching it to the wooden hull of a ship. The first flames begin to spread across the wood. His expression is calm and deliberate. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "On a black background, Hernán Cortés on the left side of the frame, wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, right arm extended forward holding a lit torch with orange flames. On the right side of the frame, a large wooden ship hull with orange flames spreading upward from where the torch touches the wood. Simple cartoon style with clean lines."
     },
     {
       "text": "All of them.",
@@ -47,15 +47,15 @@
     },
     {
       "text": "Because Cortés understood something about the human brain that explains why you can scroll TikTok for three hours but can't study for thirty minutes.",
-      "prompt": "Split scene. Left side: standing cartoon person happily scrolling phone with a clock showing 3 hours passed, content expression. Right side: standing cartoon person slumped over a book with a clock showing only 30 minutes, exhausted defeated expression. A conquistador silhouette observes knowingly in the background. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "Split scene on a black background. Left side: standing cartoon person with a content smile, both hands holding a smartphone, eyes fixed on screen. Above their head, a circular clock face shows '3:00' with the text '3 HOURS' beneath it. Right side: same standing cartoon person slumped forward over an open book on a desk, head resting on arms, eyes drooping with exhaustion. Above their head, a circular clock face shows '0:30' with the text '30 MIN' beneath it. Simple cartoon style with clean lines, consistent character design on both sides."
     },
     {
       "text": "Once you understand it, you can use your biology against itself.",
-      "prompt": "Standing cartoon person with a clever expression, holding puppet strings attached to a cartoon brain with small arms and legs, expressive face on the frontal lobe. The brain looks confused as it is being controlled. The person has turned the tables. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side of the frame with a clever smirk, one eyebrow raised, holding a wooden puppet control bar in both hands above their head. Four white strings extend downward from the bar to a cartoon brain with small stick arms and stick legs positioned on the right side of the frame. The brain has two wide confused dot eyes and a wavy uncertain mouth on the frontal lobe area, arms and legs dangling limply like a puppet. Simple cartoon style with clean lines."
     },
     {
       "text": "Let me show you five systems that'll feel like cheating.",
-      "prompt": "Standing cartoon person leaning in with a knowing smile, holding up five fingers. Five glowing system icons float beside them. The presentation is inviting and slightly mischievous. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a standing cartoon person on the left side of the frame, leaning slightly forward with a knowing smile and one eyebrow raised, right hand held up showing five fingers. On the right side of the frame, five white circles arranged in a horizontal row, each containing a number: '1', '2', '3', '4', '5'. Simple cartoon style with clean lines."
     }
   ]
 }
