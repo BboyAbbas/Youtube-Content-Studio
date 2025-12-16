@@ -75,7 +75,8 @@ Construction Worker: "wearing yellow hard hat, orange safety vest, work boots, t
 
 Firefighter: "wearing yellow fire helmet, heavy fire-resistant coat, oxygen tank on back, brave determined expression"
 
-Pilot: "wearing navy uniform with gold wings pin, captain's hat with gold insignia, aviator sunglasses, confident smile"
+Pilot: "wearing navy uniform with gold wings pin on chest, captain's hat with gold insignia, confident professional expression"
+Pilot Sprite Sheet: "Sprite sheet of a pilot character, 3 different poses side by side, white line art outline style on a solid black background, professional pilot wearing a navy uniform with gold wings pin on chest, captain's hat with gold insignia, poses include: standing confidently with hands on hips, seated in cockpit holding checklist document, and walking forward with slight smile, clean simple lines, 2D game asset style, consistent character design across all poses"
 
 Surgeon: "wearing surgical scrubs, surgical cap, face mask pulled down around neck, focused professional expression"
 
