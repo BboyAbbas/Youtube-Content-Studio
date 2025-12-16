@@ -43,15 +43,15 @@
     },
     {
       "text": "Confirm the patient's identity.",
-      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, on the left, right hand holding a patient's wrist with wristband, left hand holding a chart. On the right side, a checklist with checkbox and text 'CONFIRM IDENTITY'. Simple cartoon style with clean lines."
+      "prompt": "A minimalist, line-art illustration on a black background depicts a hospital wristband with a patient name visible. To the right of the wristband, a square checkbox with a checkmark inside is shown, followed by the word 'IDENTITY' in a clean, sans-serif font. The overall aesthetic is simple and modern, with a focus on conveying a clear message about patient verification."
     },
     {
       "text": "Make sure antibiotics are given.",
-      "prompt": "On a black background, an IV bag on a stand on the left side of the frame. On the right side, a checklist with checkbox and text 'ANTIBIOTICS'. Simple cartoon style with clean lines."
+      "prompt": "A minimalist, line-art illustration on a black background depicts a medical IV drip bag hanging from a stand. To the right of the IV bag, a square checkbox with a checkmark inside is shown, followed by the word 'ANTIBIOTICS' in a clean, sans-serif font. The overall aesthetic is simple and modern, with a focus on conveying a clear message about antibiotic treatment."
     },
     {
       "text": "Mark the correct leg to operate on.",
-      "prompt": "On a black background, a surgeon wearing surgical scrubs, surgical cap, face mask pulled down around neck, on the left, bending at the waist with a marker in right hand, drawing an X on a patient's leg. The patient lies on a table on the right. On the far right, a checklist with checkbox and text 'MARK SITE'. Simple cartoon style with clean lines."
+      "prompt": "A minimalist, line-art illustration on a black background depicts a leg with an X mark drawn on it and a surgical marker beside it. To the right of the leg, a square checkbox with a checkmark inside is shown, followed by the word 'MARK SITE' in a clean, sans-serif font. The overall aesthetic is simple and modern, with a focus on conveying a clear message about surgical site marking."
     },
     {
       "text": "So you don't chop off the wrong one.",
