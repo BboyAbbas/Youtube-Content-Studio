@@ -12,7 +12,7 @@ In 1519, a Spanish conquistador named Hernán Cortés landed in Mexico with 600 
 
 Insane? Yes. Genius? Also yes.
 
-Because Cortés understood something about the human brain that explains why you can scroll TikTok for three hours but can't study for thirty minutes. Once you understand it, you can use your biology against itself. Let me show you five systems that'll feel like cheating
+Because Cortés understood something about the human brain that explains why you can scroll TikTok for three hours but can't study for thirty minutes. Once you understand it, you can use your biology against itself to make hard things feel easy. Here are five principles to do exactly that.
 
 ---
 
@@ -38,11 +38,13 @@ Fourth, time box. Give the task a hard window. 90 minutes. Ship something at the
 
 These seem too simple to work. That's exactly why they do. Simple systems are the hardest to break.
 
+Oh, and Cortés? He won. 600 men conquered millions. When there's no way back, you find a way to victory.
+
 But wait. There's a problem. You'll try these and fail anyway. Why? Willpower. You don't have enough of it. Nobody does. Here's why.
 
 ---
 
-## Principle Two: Willpower Is A Scam
+## Principle Two: Assume You're Tired
 
 We have to go to a laboratory. Why? Roy Baumeister is there. He's a psychologist. He has cookies. Fresh-baked ones.
 
@@ -68,7 +70,7 @@ So if willpower doesn't work, what does? We have to go to a running track. Why? 
 
 ---
 
-## Principle Three: Design, Don't Discipline
+## Principle Three: Automate The Action
 
 Noah Lyles is the world's fastest man right now. He doesn't chase willpower. He doesn't chase discipline either. He engineers something else entirely.
 
@@ -100,7 +102,7 @@ But even perfect algorithms fail sometimes. There's one more thing you need. We 
 
 ---
 
-## Principle Four: Outsource Your Decisions
+## Principle Four: Assume You'll Forget
 
 Atul Gawande is a famous surgeon. He was curious about something disturbing. World-class surgeons were making preventable mistakes. Mistakes they knew better than to make. These weren't bad doctors. They were excellent doctors having bad moments.
 
@@ -119,6 +121,8 @@ Here's the paradox nobody talks about. The better you get at something, the more
 You can use this too. I make three checklists for my life. The to-do list for execution. What must get done today. The to-want list for expansion. What I'm building toward this month. The to-be list for evolution. Who I'm becoming this year.
 
 These aren't about bureaucracy. They're about creating bandwidth for your brain so it can focus on what actually matters. The hard things.
+
+By the way — I put all of this into a one-page algorithm you can print. The forcing functions, the if-then planner, even those three lists I just mentioned. Link's in the description. It's free.
 
 But there's still one final problem. What if your brain tries to bypass the system entirely? We have to go to a monastery. Why? Monks figured something out.
 
@@ -185,9 +189,9 @@ That's why I made this video breaking down exactly how to learn anything so fast
 
 **Text overlays (on-screen):**
 - "TRAP YOURSELF"
-- "WILLPOWER IS A SCAM"  
-- "DESIGN, DON'T DISCIPLINE"
-- "OUTSOURCE YOUR DECISIONS"
+- "ASSUME YOU'RE TIRED"  
+- "AUTOMATE THE ACTION"
+- "ASSUME YOU'LL FORGET"
 - "BECOME THE SYSTEM"
 - "If X, then Y."
 

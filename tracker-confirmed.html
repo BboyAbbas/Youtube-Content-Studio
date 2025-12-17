@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Your Email! | BetterU</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Page-specific styles for tracker-confirmed */
+        
+        /* Tracker Preview */
+        .preview-section {
+            margin-bottom: 40px;
+        }
+
+        .preview-title {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 16px;
+        }
+
+        .tracker-mini-preview {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 20px;
+            max-width: 300px;
+            margin: 0 auto;
+            border: 1px solid var(--border);
+        }
+
+        .mini-preview-header {
+            text-align: center;
+            margin-bottom: 12px;
+        }
+
+        .mini-preview-title {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .mini-tracker-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 4px;
+        }
+
+        .mini-day {
+            aspect-ratio: 1;
+            border-radius: 4px;
+            background: var(--bg-secondary);
+            font-size: 0.55rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-muted);
+            font-weight: 600;
+            border: 1px solid var(--border);
+        }
+
+        .mini-day.accent {
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent);
+        }
+    </style>
+</head>
+<body>
+    <div class="chalk-texture"></div>
+    
+    <div class="container">
+        <!-- Navigation -->
+        <nav class="nav">
+            <a href="tracker" class="logo">Better<span class="logo-highlight">U</span></a>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main">
+            <div class="confirmation-card">
+                <div class="success-icon success-icon--green">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                        <path class="checkmark" d="M20 6L9 17l-5-5"/>
+                    </svg>
+                </div>
+
+                <h1 class="confirmation-title">
+                    Check Your <span class="highlight-box">Inbox</span>!
+                </h1>
+                <p class="confirmation-subtitle">
+                    Your 30-Day Consistency Tracker is on its way! You'll receive it in the next few minutes.
+                </p>
+
+                <!-- Next Steps -->
+                <div class="next-steps">
+                    <h3 class="steps-title">What's Next?</h3>
+                    
+                    <div class="step-item">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h4>Check Your Email</h4>
+                            <p>Look for an email from BetterU with your tracker PDF attached.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="step-item">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h4>Print It Out</h4>
+                            <p>Print your tracker on any standard paper. Color or black & white works great!</p>
+                        </div>
+                    </div>
+                    
+                    <div class="step-item">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h4>Put It Somewhere Visible</h4>
+                            <p>Stick it on your wall, desk, or refrigerator—somewhere you'll see it daily.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="step-item">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <h4>Start Tracking!</h4>
+                            <p>Mark off each day you complete your habit. Watch your consistency grow!</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Mini Preview -->
+                <div class="preview-section">
+                    <p class="preview-title">Here's what you're getting:</p>
+                    <div class="tracker-mini-preview">
+                        <div class="mini-preview-header">
+                            <div class="mini-preview-title">30-Day Consistency Tracker</div>
+                        </div>
+                        <div class="mini-tracker-grid">
+                            <div class="mini-day accent">1</div>
+                            <div class="mini-day accent">2</div>
+                            <div class="mini-day accent">3</div>
+                            <div class="mini-day">4</div>
+                            <div class="mini-day">5</div>
+                            <div class="mini-day">6</div>
+                            <div class="mini-day">7</div>
+                            <div class="mini-day">8</div>
+                            <div class="mini-day">9</div>
+                            <div class="mini-day">10</div>
+                            <div class="mini-day">11</div>
+                            <div class="mini-day">12</div>
+                            <div class="mini-day">13</div>
+                            <div class="mini-day">14</div>
+                            <div class="mini-day">15</div>
+                            <div class="mini-day">16</div>
+                            <div class="mini-day">17</div>
+                            <div class="mini-day">18</div>
+                            <div class="mini-day">19</div>
+                            <div class="mini-day">20</div>
+                            <div class="mini-day">21</div>
+                            <div class="mini-day">22</div>
+                            <div class="mini-day">23</div>
+                            <div class="mini-day">24</div>
+                            <div class="mini-day">25</div>
+                            <div class="mini-day">26</div>
+                            <div class="mini-day">27</div>
+                            <div class="mini-day">28</div>
+                            <div class="mini-day">29</div>
+                            <div class="mini-day">30</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- CTA -->
+                <div class="cta-section">
+                    <a href="tracker" class="back-link">
+                        ← Back to Home
+                    </a>
+                </div>
+
+                <!-- Spam Note -->
+                <p class="spam-note">
+                    <strong>Didn't get the email?</strong> Check your spam/promotions folder, or make sure you entered the right email address.
+                </p>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p class="footer-text">© 2025 BetterU. You've got this! ⚡</p>
+        </footer>
+    </div>
+</body>
+</html>

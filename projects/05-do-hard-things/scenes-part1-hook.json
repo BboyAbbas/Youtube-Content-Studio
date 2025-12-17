@@ -3,23 +3,27 @@
   "scenes": [
     {
       "text": "Would you believe me if I told you there's a way to make hard things feel easy?",
-      "prompt": "Standing cartoon person with raised eyebrow and skeptical expression, arms crossed. A floating thought bubble above their head contains a heavy boulder on the left, a white arrow pointing right, and a feather on the right. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon person sitting casually with a relaxed smile, one arm raised with one hand casually holding a massive boulder three times the size of their head, the other arm extended forward with index finger pointing directly at the viewer. Simple cartoon style with clean lines."
     },
     {
       "text": "An actual system that tricks your brain into doing things you've been avoiding for months.",
-      "prompt": "A cartoon brain with small stick arms and stick legs, two dot eyes and a confused expression on the frontal lobe, walking on a path of white arrows that loop back toward a task icon (a square with a checkmark inside). The brain follows the arrows without realizing it is being guided. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "On a black background, a cartoon person in the foreground facing the viewer with a confident smile, one hand gesturing while speaking. Behind them, four faint semi-transparent versions of the same person arranged in a row: one reading a book, one lifting a dumbbell, one typing on a laptop, one meditating cross-legged. The background figures are drawn with thinner lighter lines to appear ghostly. Simple cartoon style with clean lines."
     },
     {
       "text": "And I figured it out from a guy who burned his own ships.",
       "prompt": "Silhouette of Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, standing on a beach watching multiple wooden ships engulfed in flames on the water. Orange fire reflects on the waves. The figure stands with arms crossed, determined. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
     },
     {
-      "text": "In 1519, a Spanish conquistador named Hernán Cortés landed in Mexico with 600 men to face millions of Aztecs.",
-      "prompt": "Split scene. Left side: Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a sword, standing on a Mexican beach with rows of conquistador soldiers wearing morion helmets and holding weapons behind him. Right side: an overwhelming mass of Aztec warriors with green quetzal feather headdresses and red-blue-yellow macaw plumes, jaguar skin cloaks, and face paint stretching to the horizon. The contrast in numbers is dramatic. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "text": "In 1519, a Spanish conquistador named Hernán Cortés landed in Mexico with 600 men",
+      "prompt": "Hernán Cortés wearing a morion helmet with red plume, full beard, metal armor with shoulder plates and arm guards, holding a sword, standing on a Mexican beach with rows of conquistador soldiers wearing morion helmets and holding weapons behind him. Ships visible in the background water. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+    },
+    {
+      "text": "to face millions of Aztecs.",
+      "prompt": "An overwhelming mass of Aztec warriors with green quetzal feather headdresses and red-blue-yellow macaw plumes, jaguar skin cloaks, and face paint stretching to the horizon. Thousands of warriors fill the entire frame. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
     },
     {
       "text": "His soldiers wanted to leave.",
-      "prompt": "Conquistador soldiers wearing morion helmets, simple determined faces, holding swords and axes, pointing desperately toward wooden ships anchored offshore. Their body language shows fear and urgency to escape. Sweat drops fly off their faces. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
+      "prompt": "Rear view of conquistador soldiers wearing morion helmets, running away from the viewer toward wooden ships anchored offshore. Their backs are facing the camera as they flee in panic, arms pumping, legs mid-stride, some looking back over their shoulders with wide fearful eyes. One soldier points desperately at the ships. Swords and axes held loosely as they sprint. Sweat drops fly off their faces. Minimalist white line drawing on pure black background. Simple cartoon style with clean lines."
     },
     {
       "text": "So he burned every ship.",
